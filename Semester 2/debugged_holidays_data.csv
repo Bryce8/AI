@@ -1,0 +1,653 @@
+country,date,name,type
+AL,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+AL,N/A,"[{'language': 'EN', 'text': ""New Year's Day Holiday""}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Summer Day'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Nowruz (Persian New Year)'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Orthodox Easter Sunday'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Orthodox Easter Monday'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Eid al-Fitr (Holiday of Breaking the Fast)'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Eid ul-Adha (Feast of Sacrifice)'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Mother Teresa Day'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Flag and Independence Day'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Liberation Day'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Youth Day'}]",Public
+AL,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'Carnival'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'Constitution Day'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'Pentecost Monday'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'National Holiday'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'Immaculate Conception'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+AD,N/A,"[{'language': 'EN', 'text': ""St. Stephen's Day""}]",Public
+AT,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+AT,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+AT,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+AT,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+AT,N/A,"[{'language': 'EN', 'text': 'Ascension Day'}]",Public
+AT,N/A,"[{'language': 'EN', 'text': 'Pentecost Monday'}]",Public
+AT,N/A,"[{'language': 'EN', 'text': 'Corpus Christi'}]",Public
+AT,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+AT,N/A,"[{'language': 'EN', 'text': 'National Day'}]",Public
+AT,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+AT,N/A,"[{'language': 'EN', 'text': 'Immaculate Conception'}]",Public
+AT,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+AT,N/A,"[{'language': 'EN', 'text': ""St Stephen's Day""}]",Public
+BY,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+BY,N/A,"[{'language': 'EN', 'text': 'Christmas (Orthodox Christmas)'}]",Public
+BY,N/A,"[{'language': 'EN', 'text': ""Women's Day""}]",Public
+BY,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+BY,N/A,"[{'language': 'EN', 'text': 'Victory Day'}]",Public
+BY,N/A,"[{'language': 'EN', 'text': 'Radunitsa'}]",Public
+BY,N/A,"[{'language': 'EN', 'text': 'Day of the Republic'}]",Public
+BY,N/A,"[{'language': 'EN', 'text': 'October Revolution Day'}]",Public
+BY,N/A,"[{'language': 'EN', 'text': 'Catholic Christmas'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'Easter'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'Ascension Day'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'Pentecost'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'Pentecost Monday'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'National Day'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'All Saints Day'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'Armistice Day'}]",Public
+BE,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Bulgaria’s Liberation from the Ottoman Empire'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Holy Saturday'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': ""St. George's Day""}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Bulgarian Education and Culture'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Unification Day'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Independence Day'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Day of the Bulgarian Enlighteners'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Christmas Eve'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+BG,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Statehood Day'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Corpus Christi'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Anti-Fascist Struggle Day'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Remembrance Day'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Christmas'}]",Public
+HR,N/A,"[{'language': 'EN', 'text': 'Christmas'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Day of the Restoration of the Independent Czech State'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Liberation Day'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'St. Cyril and Methodius Day'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Day of the Burning of Jan Hus'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Czech Statehood Day'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Independence Day'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Day of Struggle for Freedom and Democracy'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Christmas Eve'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+CZ,N/A,"[{'language': 'EN', 'text': 'Second Christmas Day'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Independence Day'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Spring Day'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Pentecost'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Victory Day'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Midsummer Day'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Day of Restoration of Independence'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Christmas Eve'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+EE,N/A,"[{'language': 'EN', 'text': 'Boxing Day'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Abolition of slavery'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Victory Day'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Ascension Day'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Abolition of slavery'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Abolition of slavery'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Pentecost Monday'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Abolition of slavery'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'National Day'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Abolition of slavery'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'All Saints Day'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Armistice Day'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Abolition of slavery'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+FR,N/A,"[{'language': 'EN', 'text': '2nd day of Christmas'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': ""International Women's Day""}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Ascension Day'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Pentecost Sunday'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Pentecost Monday'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Corpus Christi'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'High Festival of Peace'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': ""World Children's Day""}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Day of German Unity'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Reformation Day'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Repentance Day'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+DE,N/A,"[{'language': 'EN', 'text': '2nd Day of Christmas'}]",Public
+HU,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+HU,N/A,"[{'language': 'EN', 'text': 'National Day'}]",Public
+HU,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+HU,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+HU,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+HU,N/A,"[{'language': 'EN', 'text': 'Pentecost Monday'}]",Public
+HU,N/A,"[{'language': 'EN', 'text': 'State Foundation Day'}]",Public
+HU,N/A,"[{'language': 'EN', 'text': 'National Day'}]",Public
+HU,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+HU,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+HU,N/A,"[{'language': 'EN', 'text': 'Second Day of Christmas'}]",Public
+IE,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+IE,N/A,"[{'language': 'EN', 'text': ""Saint Brigid's Day""}]",Public
+IE,N/A,"[{'language': 'EN', 'text': ""Saint Patrick's Day""}]",Public
+IE,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+IE,N/A,"[{'language': 'EN', 'text': 'May Day'}]",Public
+IE,N/A,"[{'language': 'EN', 'text': 'June Holiday'}]",Public
+IE,N/A,"[{'language': 'EN', 'text': 'August Holiday'}]",Public
+IE,N/A,"[{'language': 'EN', 'text': 'October Holiday'}]",Public
+IE,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+IE,N/A,"[{'language': 'EN', 'text': ""St. Stephen's Day""}]",Public
+IT,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Feast of St Mark'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Liberation Day'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': ""Sardinia's Day""}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Republic Day'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'St. John the Baptist'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Saints Peter and Paul'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Saint Rosalia'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'St. Januarius'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'St. Petronius'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'St. Saturninus'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'St. Justus'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'St. Nicholas'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'St. Ambrose'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Immaculate Conception'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+IT,N/A,"[{'language': 'EN', 'text': ""St. Stephen's Day""}]",Public
+LV,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Day of the Restoration of Independence'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': ""Mother's Day""}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Pentecost'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Winning the bronze medal at the 2023 Ice Hockey World Championship'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': ""Midsummer's Eve""}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Midsummer Day'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Day of the Proclamation of the Republic of Latvia'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Christmas Eve'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': '2nd Day of Christmas'}]",Public
+LV,N/A,"[{'language': 'EN', 'text': ""New Year's Eve""}]",Public
+LI,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+LI,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+LI,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+LI,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+LI,N/A,"[{'language': 'EN', 'text': 'Ascension Day'}]",Public
+LI,N/A,"[{'language': 'EN', 'text': 'Pentecost Monday'}]",Public
+LI,N/A,"[{'language': 'EN', 'text': 'Corpus Christi'}]",Public
+LI,N/A,"[{'language': 'EN', 'text': 'National Day (Assumption)'}]",Public
+LI,N/A,"[{'language': 'EN', 'text': 'Nativity of Mary'}]",Public
+LI,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+LI,N/A,"[{'language': 'EN', 'text': 'Immaculate Conception'}]",Public
+LI,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+LI,N/A,"[{'language': 'EN', 'text': ""St. Stephen's Day""}]",Public
+LT,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+LT,N/A,"[{'language': 'EN', 'text': 'Day of restoration of the Lithuanian state'}]",Public
+LT,N/A,"[{'language': 'EN', 'text': 'Day of Restoration of Independence of Lithuania'}]",Public
+LT,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+LT,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+LT,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+LT,N/A,"[{'language': 'EN', 'text': 'Midsummer Day'}]",Public
+LT,N/A,"[{'language': 'EN', 'text': 'National Day'}]",Public
+LT,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+LT,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+LT,N/A,"[{'language': 'EN', 'text': ""All Souls' Day""}]",Public
+LT,N/A,"[{'language': 'EN', 'text': 'Christmas Eve'}]",Public
+LT,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+LT,N/A,"[{'language': 'EN', 'text': '2nd Day of Christmas'}]",Public
+LU,N/A,"[{'language': 'EN', 'text': 'New Year'}]",Public
+LU,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Bank
+LU,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+LU,N/A,"[{'language': 'EN', 'text': 'Mayday'}]",Public
+LU,N/A,"[{'language': 'EN', 'text': 'Europe Day'}]",Public
+LU,N/A,"[{'language': 'EN', 'text': 'Ascension Day'}]",Public
+LU,N/A,"[{'language': 'EN', 'text': 'Whit Monday'}]",Public
+LU,N/A,"[{'language': 'EN', 'text': ""Grand Duke's Birthday""}]",Public
+LU,N/A,"[{'language': 'EN', 'text': 'Assumption'}]",Public
+LU,N/A,"[{'language': 'EN', 'text': 'All Saints'}]",Public
+LU,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+LU,N/A,"[{'language': 'EN', 'text': 'Boxing Day'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+MT,N/A,"[{'language': 'EN', 'text': ""Feast of St. Paul's Shipwreck""}]",Public
+MT,N/A,"[{'language': 'EN', 'text': 'Feast of St. Joseph'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': 'Freedom Day'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': ""Worker's Day""}]",Public
+MT,N/A,"[{'language': 'EN', 'text': '\u200bSette Giugno'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': '\u200b\u200b\u200bFeast of St.Peter and St.Paul'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': '\u200b\u200b\u200bFeast of the Assumption'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': '\u200b\u200b\u200bFeast of Our Lady of Victories'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': '\u200b\u200b\u200bIndependence Day'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': '\u200bFeast of the Immaculate Conception'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': '\u200b\u200b\u200bRepublic Day'}]",Public
+MT,N/A,"[{'language': 'EN', 'text': '\u200b\u200b\u200b\u200bChristmas Day'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'New Year'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'Birth of Jesus Christ (Christmas in the old style)'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': ""International Women's Day""}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'Orthodox Easter Sunday'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'Orthodox Easter Monday'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'Commemoration Day (Radonitsa)'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'Victory Day'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'Europe Day'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': ""Children's Day""}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'Independence Day of the Republic of Moldova'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'National Language Day'}]",Public
+MD,N/A,"[{'language': 'EN', 'text': 'Birth of Jesus Christ (Christmas in a new style)'}]",Public
+MC,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+MC,N/A,"[{'language': 'EN', 'text': ""Saint Dévote's Day""}]",Public
+MC,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+MC,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+MC,N/A,"[{'language': 'EN', 'text': ""Ascension's Day""}]",Public
+MC,N/A,"[{'language': 'EN', 'text': 'Whit Monday'}]",Public
+MC,N/A,"[{'language': 'EN', 'text': 'Corpus Christi'}]",Public
+MC,N/A,"[{'language': 'EN', 'text': ""Assumption's Day""}]",Public
+MC,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+MC,N/A,"[{'language': 'EN', 'text': ""Prince's Day""}]",Public
+MC,N/A,"[{'language': 'EN', 'text': ""Immaculate Conception's Day""}]",Public
+MC,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'New Year’s Day'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'King’s Day'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'Liberation Day'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'Ascension Day'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'Whit Sunday'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'Whit Monday'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+NL,N/A,"[{'language': 'EN', 'text': 'Boxing Day'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+PL,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': 'Constitution Day'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': 'Pentecost'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': 'Corpus Christi'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+PL,N/A,"[{'language': 'EN', 'text': 'Independence Day'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+PL,N/A,"[{'language': 'EN', 'text': '2nd Day of Christmas'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Amaro's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Vincent's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Carnival'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Battle of Atoleiros'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Monday after the first Sunday after Easter'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St George's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Liberty Day'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Labor Day'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Day of St Giles of Santarém'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Birthday of Sacadura Cabral'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Azores Day'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Whit Monday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Whit Tuesday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Birthday of José Falcão'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Corpus Christi'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Portugal Day'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': ""St Anthony's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Battle of São Mamede'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St John's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'St Day of Nuno de Santa Maria'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Peter's Day""}, {'language': 'EN', 'text': ""St Peter's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Peter's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Madeira Day'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Battle of the Côa'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Battle of Salgadela'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Day of Benedict of Nursia'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Birthday of António José de Almeid'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Mary Magdalene's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Christina's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Day of St Thomas of Mira'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Christopher's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St James' Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Lawrence's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Birthday of Couto Jardim'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Roch's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Day of St Bernard of Clairvaux'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Bartholomew's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Conquest of the city from the Moors'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Euphemia's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Matthew's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Day of St Michael the Archangel'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Republic Day'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Catherine's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Martin's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': ""St Andrew's Day""}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Independence Day'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Immaculate Conception Day'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Municipal holiday'}]",Optional
+PT,N/A,"[{'language': 'EN', 'text': 'Christmas'}]",Public
+PT,N/A,"[{'language': 'EN', 'text': 'Boxing Day'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'New Year'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Saint John the Baptist Day'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Day of the Unification of the Romanian Principalities'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Orthodox Good Friday'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Orthodox Easter Sunday'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Orthodox Easter Monday'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': ""Children's Day""}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Orthodox Pentecost Sunday'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Orthodox Pentecost Monday'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Independence Day of the Republic of Moldova'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': ""Saint Andrew's Day""}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'National Day of Romania'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'First Christmas Day'}]",Public
+RO,N/A,"[{'language': 'EN', 'text': 'Second Christmas Day'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Solemnity of Mary, the Holy Mother of God'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': ""Saint Agatha's Day""}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Anniversary of the 1906 Arengo and commemoration of the Militia'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Investiture of the Captains Regent (Heads of State)'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Easter'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Corpus Christi'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Anniversary of the Fall of Fascism and Day of Freedom'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Assumption of the Virgin Day'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'San Marino National Holiday / Foundation of the Republic (301 A.D.)'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Investiture of the Captains Regent (Heads of State)'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+SM,N/A,"[{'language': 'EN', 'text': ""All Souls' Day""}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Immaculate Conception'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+SM,N/A,"[{'language': 'EN', 'text': 'Saint Stephen’s Day'}]",Public
+RS,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+RS,N/A,"[{'language': 'EN', 'text': 'Christmas (Orthodox)'}]",Public
+RS,N/A,"[{'language': 'EN', 'text': 'Sovereignty Day'}]",Public
+RS,N/A,"[{'language': 'EN', 'text': 'Good Friday (Orthodox)'}]",Public
+RS,N/A,"[{'language': 'EN', 'text': 'Easter Saturday (Orthodox)'}]",Public
+RS,N/A,"[{'language': 'EN', 'text': 'Easter Sunday (Orthodox)'}]",Public
+RS,N/A,"[{'language': 'EN', 'text': 'Easter Monday (Orthodox)'}]",Public
+RS,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+RS,N/A,"[{'language': 'EN', 'text': 'Armistice Day'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Day of the Slovak Republic'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Day of Victory over fascism'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'St. Cyril and Methodius Day'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Slovak National Uprising anniversary'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Day of the Constitution of the Slovak Republic'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Day of Our Lady of the Seven Sorrows'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'All Saints’ Day'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Day of Struggle for Freedom and Democracy'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Christmas Eve'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+SK,N/A,"[{'language': 'EN', 'text': 'Second Christmas Day'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'New Year Holiday'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Prešeren Day'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Day of Uprising Against the Occupation'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Whit Sunday'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Statehood Day'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Reformation Day'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Day of Remembrance for the Dead'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+SI,N/A,"[{'language': 'EN', 'text': 'Independence and Unity Day'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Monday after New Year'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+ES,N/A,"[{'language': 'ES', 'text': 'Virgen de la Candelaria'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Shrove Tuesday'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Andalusia Day'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday on the Balearic Islands'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday in Melilla'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Monday after San José'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Maundy Thursday'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'End of Ramadan (Eid al-Fitr)'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Monday following Aragon Day'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday in Madrid'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Galician Letters Day'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday on the Canary Islands'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday in Castilla-La Mancha'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Corpus Christi'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday in La Rioja '}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday in Murcia'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'St Anthony'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': ""St John's Day""}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Feast of Sacrifice (Eid al-Adha)'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'National Day of Galicia'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': ""Saint James' Day""}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Cantabrian Institutions Day'}]",Public
+ES,N/A,"[{'language': 'ES', 'text': 'Nuestra Señora de Las Nieves'}]",Public
+ES,N/A,"[{'language': 'ES', 'text': 'Nuestra Señora de África'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Assumption of Mary'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday in Ceuta'}]",Public
+ES,N/A,"[{'language': 'ES', 'text': 'Nuestra Señora del Pino'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday in Extremadura'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Asturias Day'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'National Day of Catalonia'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday in Cantabria'}]",Public
+ES,N/A,"[{'language': 'ES', 'text': 'Nuestra Señora de Los Volcanes'}]",Public
+ES,N/A,"[{'language': 'ES', 'text': 'Nuestra Señora de la Peña'}]",Public
+ES,N/A,"[{'language': 'ES', 'text': 'Nuestra Señora de Los Reyes'}]",Public
+ES,N/A,"[{'language': 'ES', 'text': 'Nuestra Señora de Guadalupe'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Regional Holiday in Valencia'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Spanish National Day'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'San Francisco Javier'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Constitution Day'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Immaculate Conception'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+ES,N/A,"[{'language': 'EN', 'text': ""St Stephen's Day""}]",Public
+CH,N/A,"[{'language': 'EN', 'text': ""New Year's Day""}]",Public
+CH,N/A,"[{'language': 'EN', 'text': ""Berchtold's Day""}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': ""St Anthony's Day""}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Meinrad Day'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Candlemas'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': ""Agathe's day""}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Establishment of the Republic'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': ""St Joseph's Day""}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'St Benedict'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Näfels Ride'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Sechseläuten'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Labour Day'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Saint Sigismund'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Ascension Day'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Pentecost Monday'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Corpus Christi'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Celebration of independence'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Saints Peter and Paul'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Independence Day'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Jeûne genevois'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Knabenschiessen'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Angel consecration'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Federal Day of Thanksgiving, Repentance and Prayer'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'St. Mauritius Day'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Saint Nicholas of Flüe Day'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': ""St Gallus' Day""}]",Public
+CH,N/A,"[{'language': 'EN', 'text': ""All Saints' Day""}]",Public
+CH,N/A,"[{'language': 'EN', 'text': ""St Martin's Day""}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Immaculate Conception'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Christmas'}]",Public
+CH,N/A,"[{'language': 'EN', 'text': ""St Stephen's Day""}]",Public
+CH,N/A,"[{'language': 'EN', 'text': 'Restoration of the Republic'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Solemnity of Mary, Mother of God'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Epiphany'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Anniversary of the foundation of Vatican City'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Anniversary of the election of Pope Francis'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Saint Joseph'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Maundy Thursday'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Good Friday'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Easter Saturday'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Easter Sunday'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Easter Monday'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Easter Tuesday'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Saint George'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Saint Joseph the Worker'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Saints Peter and Paul'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Vigil of the Assumption'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Assumption Day'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Saint Stephen of Hungary'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Nativity of Mary'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'All Saints’ Day'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'All Souls’ Day'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Immaculate Conception'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Christmas Eve'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Christmas Day'}]",Public
+VA,N/A,"[{'language': 'EN', 'text': ""New Year's Eve""}]",Public
+VA,N/A,"[{'language': 'EN', 'text': ""Saint Stephen's Day""}]",Public
+VA,N/A,"[{'language': 'EN', 'text': 'Saint John the Evangelist'}]",Public

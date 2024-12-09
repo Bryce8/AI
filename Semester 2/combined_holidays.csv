@@ -1,0 +1,148 @@
+country,date,name,type
+DE,2023-01-01,New Year's Day,Public
+DE,2023-01-06,Epiphany,Public
+DE,2023-03-08,International Women's Day,Public
+DE,2023-04-07,Good Friday,Public
+DE,2023-04-09,Easter Sunday,Public
+DE,2023-04-10,Easter Monday,Public
+DE,2023-05-01,Labour Day,Public
+DE,2023-05-18,Ascension Day,Public
+DE,2023-05-28,Pentecost Sunday,Public
+DE,2023-05-29,Pentecost Monday,Public
+DE,2023-06-08,Corpus Christi,Public
+DE,2023-08-08,High Festival of Peace,Public
+DE,2023-08-15,Assumption Day,Public
+DE,2023-09-20,World Children's Day,Public
+DE,2023-10-03,Day of German Unity,Public
+DE,2023-10-31,Reformation Day,Public
+DE,2023-11-01,All Saints' Day,Public
+DE,2023-11-22,Repentance Day,Public
+DE,2023-12-25,Christmas Day,Public
+DE,2023-12-26,2nd Day of Christmas,Public
+DE,2022-12-21,Christmas Holidays,School
+DE,2022-12-21,Christmas Holidays,School
+DE,2022-12-22,Christmas Holidays,School
+DE,2022-12-22,Christmas Holidays,School
+DE,2022-12-22,Christmas Holidays,School
+DE,2022-12-22,Christmas Holidays,School
+DE,2022-12-22,Christmas holidays,School
+DE,2022-12-22,Christmas Holidays,School
+DE,2022-12-22,Christmas holidays,School
+DE,2022-12-23,Christmas Holidays,School
+DE,2022-12-23,Christmas Holidays,School
+DE,2022-12-23,Christmas Holidays,School
+DE,2022-12-23,Christmas Holidays,School
+DE,2022-12-23,Christmas Holidays,School
+DE,2022-12-23,Christmas Holidays,School
+DE,2022-12-24,Christmas Holidays,School
+DE,2023-01-27,Mid-Year Break,School
+DE,2023-01-30,Mid-Year Holidays,School
+DE,2023-01-30,Winter holidays,School
+DE,2023-01-30,Mid-Year Holidays,School
+DE,2023-01-30,Winter holidays,School
+DE,2023-02-06,Winter Holidays,School
+DE,2023-02-06,Winter Holidays,School
+DE,2023-02-06,Winter Holidays,School
+DE,2023-02-13,Winter Holidays,School
+DE,2023-02-13,Winter Holidays,School
+DE,2023-02-20,Carnival Holidays,School
+DE,2023-02-20,Spring Holidays,School
+DE,2023-03-06,Spring Holidays,School
+DE,2023-03-27,Easter Holidays,School
+DE,2023-03-27,Easter Holidays,School
+DE,2023-04-03,Easter Holidays,School
+DE,2023-04-03,Easter Holidays,School
+DE,2023-04-03,Easter Holidays,School
+DE,2023-04-03,Easter Holidays,School
+DE,2023-04-03,Easter Holidays,School
+DE,2023-04-03,Easter holidays,School
+DE,2023-04-03,Easter Holidays,School
+DE,2023-04-03,Easter holidays,School
+DE,2023-04-03,Easter Holidays,School
+DE,2023-04-03,Easter Holidays,School
+DE,2023-04-03,Easter Holidays,School
+DE,2023-04-06,Easter Holidays,School
+DE,2023-04-07,Easter Holidays,School
+DE,2023-04-11,Easter Holidays,School
+DE,2023-05-15,Pentecost Holidays,School
+DE,2023-05-15,Pentecost Holidays,School
+DE,2023-05-19,Variable holiday,School
+DE,2023-05-19,Day after Ascension,School
+DE,2023-05-19,Day off,School
+DE,2023-05-19,Day off from school,School
+DE,2023-05-19,Additional holiday,School
+DE,2023-05-19,Additional holiday,School
+DE,2023-05-19,Day off,School
+DE,2023-05-19,Day after Ascension,School
+DE,2023-05-19,Ascension,School
+DE,2023-05-26,Pentecost Holidays,School
+DE,2023-05-26,Additional holiday,School
+DE,2023-05-30,Pentecost Holidays,School
+DE,2023-05-30,Pentecost Holiday,School
+DE,2023-05-30,Pentecost Holidays,School
+DE,2023-05-30,Pentecost Holiday,School
+DE,2023-05-30,Pentecost Holidays,School
+DE,2023-05-30,Pentecost Holidays,School
+DE,2023-05-30,Pentecost holidays,School
+DE,2023-05-30,Pentecost Holidays,School
+DE,2023-06-22,Summer Holidays,School
+DE,2023-07-06,Summer Holidays,School
+DE,2023-07-06,Summer Holidays,School
+DE,2023-07-06,Summer Holidays,School
+DE,2023-07-10,Summer Holidays,School
+DE,2023-07-10,Summer Holidays,School
+DE,2023-07-13,Summer holidays,School
+DE,2023-07-13,Summer Holidays,School
+DE,2023-07-13,Summer holidays,School
+DE,2023-07-17,Summer Holidays,School
+DE,2023-07-17,Summer Holidays,School
+DE,2023-07-17,Summer Holidays,School
+DE,2023-07-24,Summer Holidays,School
+DE,2023-07-24,Summer Holidays,School
+DE,2023-07-24,Summer Holidays,School
+DE,2023-07-27,Summer Holidays,School
+DE,2023-07-31,Summer Holidays,School
+DE,2023-10-02,Variable holiday,School
+DE,2023-10-02,Bridge Day,School
+DE,2023-10-02,Day before the 3 October,School
+DE,2023-10-02,Day off,School
+DE,2023-10-02,Additional holiday,School
+DE,2023-10-02,Day before the 3 October,School
+DE,2023-10-02,Autumn Holidays,School
+DE,2023-10-02,Autumn Holidays,School
+DE,2023-10-02,Holiday Day,School
+DE,2023-10-02,Autumn Holidays,School
+DE,2023-10-09,Autumn Holidays,School
+DE,2023-10-16,Autumn Holidays,School
+DE,2023-10-16,Autumn Holidays,School
+DE,2023-10-16,Autumn Holidays,School
+DE,2023-10-16,Autumn Holidays,School
+DE,2023-10-16,Autumn Holidays,School
+DE,2023-10-16,Autumn Holidays,School
+DE,2023-10-23,Autumn Holidays,School
+DE,2023-10-23,Autumn holidays,School
+DE,2023-10-23,Autumn Holidays,School
+DE,2023-10-23,Autumn holidays,School
+DE,2023-10-30,Additional holiday,School
+DE,2023-10-30,Autumn Holidays,School
+DE,2023-10-30,Day off,School
+DE,2023-10-30,Additional holiday,School
+DE,2023-10-30,Autumn Holidays,School
+DE,2023-11-01,Additional holiday,School
+DE,2023-11-22,Repentance Day,School
+DE,2023-12-21,Christmas Holidays,School
+DE,2023-12-21,Christmas Holidays,School
+DE,2023-12-21,Christmas Holidays,School
+DE,2023-12-21,Christmas Holidays,School
+DE,2023-12-22,Christmas Holidays,School
+DE,2023-12-22,Christmas Holidays,School
+DE,2023-12-23,Christmas Holidays,School
+DE,2023-12-23,Christmas Holidays,School
+DE,2023-12-23,Christmas holidays,School
+DE,2023-12-23,Christmas Holidays,School
+DE,2023-12-23,Christmas holidays,School
+DE,2023-12-23,Christmas Holidays,School
+DE,2023-12-27,Christmas Holidays,School
+DE,2023-12-27,Christmas Holidays,School
+DE,2023-12-27,Christmas Holidays,School
+DE,2023-12-27,Christmas Holidays,School

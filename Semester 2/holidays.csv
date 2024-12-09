@@ -1,0 +1,3908 @@
+country,date,name,type,subdivision
+AD,2022-01-01,Any nou,Public,National
+AD,2022-01-06,Reis,Public,National
+AD,2022-02-28,Carnaval,Public,National
+AD,2022-03-14,Dia de la Constitució,Public,National
+AD,2022-04-15,Divendres Sant,Public,National
+AD,2022-04-18,Dilluns de Pasqua,Public,National
+AD,2022-05-01,Festa del Treball,Public,National
+AD,2022-06-06,Dilluns de Pentecosta,Public,National
+AD,2022-08-15,Assumpció,Public,National
+AD,2022-09-08,Mare de Déu de Meritxell,Public,National
+AD,2022-11-01,Tots Sants,Public,National
+AD,2022-12-08,Immaculada Concepció,Public,National
+AD,2022-12-25,Nadal,Public,National
+AD,2022-12-26,Sant Esteve,Public,National
+AD,2023-01-01,Any nou,Public,National
+AD,2023-01-06,Reis,Public,National
+AD,2023-02-20,Carnaval,Public,National
+AD,2023-03-14,Dia de la Constitució,Public,National
+AD,2023-04-07,Divendres Sant,Public,National
+AD,2023-04-10,Dilluns de Pasqua,Public,National
+AD,2023-05-01,Festa del Treball,Public,National
+AD,2023-05-29,Dilluns de Pentecosta,Public,National
+AD,2023-08-15,Assumpció,Public,National
+AD,2023-09-08,Mare de Déu de Meritxell,Public,National
+AD,2023-11-01,Tots Sants,Public,National
+AD,2023-12-08,Immaculada Concepció,Public,National
+AD,2023-12-25,Nadal,Public,National
+AD,2023-12-26,Sant Esteve,Public,National
+AD,2024-01-01,Any nou,Public,National
+AD,2024-01-06,Reis,Public,National
+AD,2024-02-12,Carnaval,Public,National
+AD,2024-03-14,Dia de la Constitució,Public,National
+AD,2024-03-29,Divendres Sant,Public,National
+AD,2024-04-01,Dilluns de Pasqua,Public,National
+AD,2024-05-01,Festa del Treball,Public,National
+AD,2024-05-20,Dilluns de Pentecosta,Public,National
+AD,2024-08-15,Assumpció,Public,National
+AD,2024-09-08,Mare de Déu de Meritxell,Public,National
+AD,2024-11-01,Tots Sants,Public,National
+AD,2024-12-08,Immaculada Concepció,Public,National
+AD,2024-12-25,Nadal,Public,National
+AD,2024-12-26,Sant Esteve,Public,National
+AD,2021-12-23,Vacances de Nadal,School,National
+AD,2022-02-28,Vacances de Carnaval,School,National
+AD,2022-04-11,Vacances de Pasqua,School,National
+AD,2022-06-02,Vacances de Pentecosta,School,National
+AD,2022-07-02,Vacances d'estiu,School,National
+AD,2022-10-31,Vacances de Tots Sants,School,National
+AD,2022-12-23,Vacances de Nadal,School,National
+AD,2023-02-20,Vacances de Carnaval,School,National
+AD,2023-04-03,Vacances de Pasqua,School,National
+AD,2023-05-29,Vacances de Pentecosta,School,National
+AD,2023-07-01,Vacances d'estiu,School,National
+AD,2023-10-30,Vacances de Tots Sants,School,National
+AD,2023-12-25,Vacances de Nadal,School,National
+AD,2024-02-12,Vacances de Carnaval,School,National
+AD,2024-03-28,Vacances de Pasqua,School,National
+AD,2024-05-20,Vacances de Pentecosta,School,National
+AD,2024-06-29,Vacances d'estiu,School,National
+AD,2024-10-28,Vacances de Tots Sants,School,National
+AD,2024-12-23,Vacances de Nadal,School,National
+AL,2022-01-01,Viti i Ri,Public,National
+AL,2022-01-03,Viti i Ri,Public,National
+AL,2022-03-14,Dita e Verës,Public,National
+AL,2022-03-22,Dita e Nevruzit,Public,National
+AL,2022-04-17,Pashkët Katolike,Public,National
+AL,2022-04-18,Hënen e Pashkët Katolike,Public,National
+AL,2022-04-24,Pashkët Ortodokse,Public,National
+AL,2022-04-25,Hënen e Pashkët Ortodokse,Public,National
+AL,2022-05-01,Dita ndërkombëtare e punonjësve,Public,National
+AL,2022-05-02,Dita e Bajramit të Madh,Public,National
+AL,2022-07-09,Dita e Kurban Bajramit,Public,National
+AL,2022-10-19,Dita e Lumturimit te Nene Terezës,Public,National
+AL,2022-11-28,Dita e Flamurit dhe e Pavarësisë,Public,National
+AL,2022-11-29,Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,Public,National
+AL,2022-12-08,Dita Kombëtare e Rinisë,Public,National
+AL,2022-12-26,Krishtlindjet,Public,National
+AL,2023-01-01,Viti i Ri,Public,National
+AL,2023-01-02,Viti i Ri,Public,National
+AL,2023-03-14,Dita e Verës,Public,National
+AL,2023-03-22,Dita e Nevruzit,Public,National
+AL,2023-04-09,Pashkët Katolike,Public,National
+AL,2023-04-10,Hënen e Pashkët Katolike,Public,National
+AL,2023-04-16,Pashkët Ortodokse,Public,National
+AL,2023-04-17,Hënen e Pashkët Ortodokse,Public,National
+AL,2023-04-21,Dita e Bajramit të Madh,Public,National
+AL,2023-05-01,Dita ndërkombëtare e punonjësve,Public,National
+AL,2023-06-28,Dita e Kurban Bajramit,Public,National
+AL,2023-10-19,Dita e Lumturimit te Nene Terezës,Public,National
+AL,2023-11-28,Dita e Flamurit dhe e Pavarësisë,Public,National
+AL,2023-11-29,Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,Public,National
+AL,2023-12-08,Dita Kombëtare e Rinisë,Public,National
+AL,2023-12-25,Krishtlindjet,Public,National
+AL,2024-01-01,Viti i Ri,Public,National
+AL,2024-01-02,Viti i Ri,Public,National
+AL,2024-03-14,Dita e Verës,Public,National
+AL,2024-03-22,Dita e Nevruzit,Public,National
+AL,2024-03-31,Pashkët Katolike,Public,National
+AL,2024-04-01,Hënen e Pashkët Katolike,Public,National
+AL,2024-04-10,Dita e Bajramit të Madh,Public,National
+AL,2024-05-01,Dita ndërkombëtare e punonjësve,Public,National
+AL,2024-05-05,Pashkët Ortodokse,Public,National
+AL,2024-05-06,Hënen e Pashkët Ortodokse,Public,National
+AL,2024-06-16,Dita e Kurban Bajramit,Public,National
+AL,2024-10-21,Dita e Lumturimit te Nene Terezës,Public,National
+AL,2024-11-28,Dita e Flamurit dhe e Pavarësisë,Public,National
+AL,2024-11-29,Dita e Çlirimit të Shqipërisë nga pushtuesit nazifashistë,Public,National
+AL,2024-12-09,Dita Kombëtare e Rinisë,Public,National
+AL,2024-12-25,Krishtlindjet,Public,National
+AL,2021-12-24,Pushimet dimërore,School,National
+AL,2022-06-18,Pushimet verore,School,National
+AL,2022-12-26,Pushimet dimërore,School,National
+AL,2023-04-03,Pushimet e pranveres,School,National
+AL,2023-06-15,Pushimet verore,School,National
+AL,2023-12-26,Pushimet dimërore,School,National
+AL,2024-04-01,Pushimet e pranveres,School,National
+AL,2024-06-14,Pushimet verore,School,National
+AL,2024-12-23,Pushimet dimërore,School,National
+AT,2022-01-01,Neujahr,Public,National
+AT,2022-01-06,Heilige drei Könige,Public,National
+AT,2022-04-18,Ostermontag,Public,National
+AT,2022-05-01,Staatsfeiertag,Public,National
+AT,2022-05-26,Christi Himmelfahrt,Public,National
+AT,2022-06-06,Pfingstmontag,Public,National
+AT,2022-06-16,Fronleichnam,Public,National
+AT,2022-08-15,Mariä Himmelfahrt,Public,National
+AT,2022-10-26,Nationalfeiertag,Public,National
+AT,2022-11-01,Allerheiligen,Public,National
+AT,2022-12-08,Mariä Empfängnis,Public,National
+AT,2022-12-25,Christtag,Public,National
+AT,2022-12-26,Stefanitag,Public,National
+AT,2023-01-01,Neujahr,Public,National
+AT,2023-01-06,Heilige drei Könige,Public,National
+AT,2023-04-10,Ostermontag,Public,National
+AT,2023-05-01,Staatsfeiertag,Public,National
+AT,2023-05-18,Christi Himmelfahrt,Public,National
+AT,2023-05-29,Pfingstmontag,Public,National
+AT,2023-06-08,Fronleichnam,Public,National
+AT,2023-08-15,Mariä Himmelfahrt,Public,National
+AT,2023-10-26,Nationalfeiertag,Public,National
+AT,2023-11-01,Allerheiligen,Public,National
+AT,2023-12-08,Mariä Empfängnis,Public,National
+AT,2023-12-25,Christtag,Public,National
+AT,2023-12-26,Stefanitag,Public,National
+AT,2024-01-01,Neujahr,Public,National
+AT,2024-01-06,Heilige drei Könige,Public,National
+AT,2024-04-01,Ostermontag,Public,National
+AT,2024-05-01,Staatsfeiertag,Public,National
+AT,2024-05-09,Christi Himmelfahrt,Public,National
+AT,2024-05-20,Pfingstmontag,Public,National
+AT,2024-05-30,Fronleichnam,Public,National
+AT,2024-08-15,Mariä Himmelfahrt,Public,National
+AT,2024-10-26,Nationalfeiertag,Public,National
+AT,2024-11-01,Allerheiligen,Public,National
+AT,2024-12-08,Mariä Empfängnis,Public,National
+AT,2024-12-25,Christtag,Public,National
+AT,2024-12-26,Stefanitag,Public,National
+AT,2021-12-24,Weihnachtsferien,School,National
+AT,2022-02-07,Semesterferien,School,WI
+AT,2022-02-14,Semesterferien,School,KÄ
+AT,2022-02-21,Semesterferien,School,SM
+AT,2022-03-19,St. Josef,School,KÄ
+AT,2022-04-09,Osterferien,School,National
+AT,2022-05-04,St. Florian,School,OÖ
+AT,2022-06-04,Pfingstferien,School,National
+AT,2022-07-02,Sommerferien,School,BL
+AT,2022-07-09,Sommerferien,School,KÄ
+AT,2022-09-24,St. Rupert,School,SB
+AT,2022-10-27,Herbstferien,School,National
+AT,2022-11-02,Allerseelen,School,National
+AT,2022-11-11,St. Martin,School,BL
+AT,2022-11-15,St. Leopold,School,WI
+AT,2022-12-24,Weihnachtsferien,School,National
+AT,2023-02-06,Semesterferien,School,WI
+AT,2023-02-13,Semesterferien,School,KÄ
+AT,2023-02-20,Semesterferien,School,SM
+AT,2023-03-19,St. Josef,School,KÄ
+AT,2023-04-01,Osterferien,School,National
+AT,2023-05-04,St. Florian,School,OÖ
+AT,2023-05-27,Pfingstferien,School,National
+AT,2023-07-01,Sommerferien,School,BL
+AT,2023-07-08,Sommerferien,School,KÄ
+AT,2023-09-24,St. Rupert,School,SB
+AT,2023-10-27,Herbstferien,School,National
+AT,2023-11-02,Allerseelen,School,National
+AT,2023-11-11,St. Martin,School,BL
+AT,2023-11-15,St. Leopold,School,WI
+AT,2023-12-23,Weihnachtsferien,School,National
+AT,2024-02-05,Semesterferien,School,VA
+AT,2024-02-12,Semesterferien,School,KÄ
+AT,2024-02-19,Semesterferien,School,SM
+AT,2024-03-19,St. Josef,School,KÄ
+AT,2024-03-23,Osterferien,School,National
+AT,2024-05-04,St. Florian,School,OÖ
+AT,2024-05-18,Pfingstferien,School,National
+AT,2024-06-29,Sommerferien,School,BL
+AT,2024-07-06,Sommerferien,School,KÄ
+AT,2024-09-24,St. Rupert,School,SB
+AT,2024-10-27,Herbstferien,School,National
+AT,2024-11-02,Allerseelen,School,National
+AT,2024-11-11,St. Martin,School,BL
+AT,2024-11-15,St. Leopold,School,WI
+AT,2024-12-24,Weihnachtsferien,School,National
+BE,2022-01-01,Jour de l'an,Public,National
+BE,2022-04-17,Pâques,Public,National
+BE,2022-04-18,Lundi de Pâques,Public,National
+BE,2022-05-01,Fête du Travail,Public,National
+BE,2022-05-26,Ascension,Public,National
+BE,2022-06-05,Pentecôte,Public,National
+BE,2022-06-06,Lundi de Pentecôte,Public,National
+BE,2022-07-21,Fête nationale,Public,National
+BE,2022-08-15,Assomption,Public,National
+BE,2022-11-01,Toussaint,Public,National
+BE,2022-11-11,Armistice de 1918,Public,National
+BE,2022-12-25,Noël,Public,National
+BE,2023-01-01,Jour de l'an,Public,National
+BE,2023-04-09,Pâques,Public,National
+BE,2023-04-10,Lundi de Pâques,Public,National
+BE,2023-05-01,Fête du Travail,Public,National
+BE,2023-05-18,Ascension,Public,National
+BE,2023-05-28,Pentecôte,Public,National
+BE,2023-05-29,Lundi de Pentecôte,Public,National
+BE,2023-07-21,Fête nationale,Public,National
+BE,2023-08-15,Assomption,Public,National
+BE,2023-11-01,Toussaint,Public,National
+BE,2023-11-11,Armistice de 1918,Public,National
+BE,2023-12-25,Noël,Public,National
+BE,2024-01-01,Jour de l'an,Public,National
+BE,2024-03-31,Pâques,Public,National
+BE,2024-04-01,Lundi de Pâques,Public,National
+BE,2024-05-01,Fête du Travail,Public,National
+BE,2024-05-09,Ascension,Public,National
+BE,2024-05-19,Pentecôte,Public,National
+BE,2024-05-20,Lundi de Pentecôte,Public,National
+BE,2024-07-21,Fête nationale,Public,National
+BE,2024-08-15,Assomption,Public,National
+BE,2024-11-01,Toussaint,Public,National
+BE,2024-11-11,Armistice de 1918,Public,National
+BE,2024-12-25,Noël,Public,National
+BE,2021-12-24,Kerstvakantie,School,National
+BE,2021-12-27,Weihnachtsferien,School,DE
+BE,2021-12-27,Vacances d'hiver (Noël),School,FR
+BE,2022-02-28,Krokusvakantie,School,National
+BE,2022-02-28,Congé de détente (Carnaval),School,FR
+BE,2022-02-28,Karnevalsferien,School,DE
+BE,2022-04-04,Osterferien,School,DE
+BE,2022-04-04,Vacances de printemps (Pâques),School,FR
+BE,2022-04-04,Paasvakantie,School,National
+BE,2022-07-01,Sommerferien,School,DE
+BE,2022-07-01,Zomervakantie,School,National
+BE,2022-07-01,Vacances d'été,School,FR
+BE,2022-09-27,Fête de la Communauté française,School,FR
+BE,2022-10-24,Congé d'automne (Toussaint),School,FR
+BE,2022-10-31,Allerheiligenferien,School,DE
+BE,2022-10-31,Herfstvakantie,School,National
+BE,2022-11-15,Tag der Deutschsprachigen Gemeinschaft,School,DE
+BE,2022-12-26,Kerstvakantie,School,National
+BE,2022-12-26,Weihnachtsferien,School,DE
+BE,2022-12-26,Vacances d'hiver (Noël),School,FR
+BE,2023-02-20,Congé de détente (Carnaval),School,FR
+BE,2023-02-20,Karnevalsferien,School,DE
+BE,2023-02-20,Krokusvakantie,School,National
+BE,2023-04-03,Paasvakantie,School,National
+BE,2023-04-03,Osterferien,School,DE
+BE,2023-05-01,Vacances de printemps (Pâques),School,FR
+BE,2023-07-01,Zomervakantie,School,National
+BE,2023-07-01,Sommerferien,School,DE
+BE,2023-07-08,Vacances d'été,School,FR
+BE,2023-09-27,Fête de la Communauté française,School,FR
+BE,2023-10-23,Congé d'automne (Toussaint),School,FR
+BE,2023-10-30,Herfstvakantie,School,National
+BE,2023-10-30,Allerheiligenferien,School,DE
+BE,2023-11-15,Tag der Deutschsprachigen Gemeinschaft,School,DE
+BE,2023-12-25,Kerstvakantie,School,National
+BE,2023-12-25,Weihnachtsferien,School,DE
+BE,2023-12-25,Vacances d'hiver (Noël),School,FR
+BE,2024-02-12,Karnevalsferien,School,DE
+BE,2024-02-12,Krokusvakantie,School,National
+BE,2024-02-26,Congé de détente (Carnaval),School,FR
+BE,2024-04-01,Osterferien,School,DE
+BE,2024-04-01,Paasvakantie,School,National
+BE,2024-04-29,Vacances de printemps (Pâques),School,FR
+BE,2024-06-29,Sommerferien,School,DE
+BE,2024-07-01,Zomervakantie,School,National
+BE,2024-07-06,Vacances d'été,School,FR
+BE,2024-09-27,Fête de la Communauté française,School,FR
+BE,2024-10-21,Congé d'automne (Toussaint),School,FR
+BE,2024-10-28,Herfstvakantie,School,National
+BE,2024-10-28,Allerheiligenferien,School,DE
+BE,2024-11-15,Tag der Deutschsprachigen Gemeinschaft,School,DE
+BE,2024-12-23,Kerstvakantie,School,National
+BE,2024-12-23,Weihnachtsferien,School,DE
+BE,2024-12-23,Vacances d'hiver (Noël),School,FR
+BG,2022-01-01,Нова година,Public,National
+BG,2022-03-03,Ден на Освобождението на България от османско иго,Public,National
+BG,2022-04-22,Разпети петък,Public,National
+BG,2022-04-23,Велика събота,Public,National
+BG,2022-04-24,Великден,Public,National
+BG,2022-04-25,Велики понеделник,Public,National
+BG,2022-05-01,Ден на труда,Public,National
+BG,2022-05-06,Гергьовден,Public,National
+BG,2022-05-24,Ден на Българската просвета и култура и на славянската писменост,Public,National
+BG,2022-09-06,Ден на Съединението,Public,National
+BG,2022-09-22,Ден на независимостта на България,Public,National
+BG,2022-11-01,Ден на народните будители,Public,National
+BG,2022-12-24,Бъдни вечер,Public,National
+BG,2022-12-25,Рождество Христово,Public,National
+BG,2022-12-26,Рождество Христово,Public,National
+BG,2023-01-01,Нова година,Public,National
+BG,2023-03-03,Ден на Освобождението на България от османско иго,Public,National
+BG,2023-04-14,Разпети петък,Public,National
+BG,2023-04-15,Велика събота,Public,National
+BG,2023-04-16,Великден,Public,National
+BG,2023-04-17,Велики понеделник,Public,National
+BG,2023-05-01,Ден на труда,Public,National
+BG,2023-05-06,Гергьовден,Public,National
+BG,2023-05-24,Ден на Българската просвета и култура и на славянската писменост,Public,National
+BG,2023-09-06,Ден на Съединението,Public,National
+BG,2023-09-22,Ден на независимостта на България,Public,National
+BG,2023-11-01,Ден на народните будители,Public,National
+BG,2023-12-24,Бъдни вечер,Public,National
+BG,2023-12-25,Рождество Христово,Public,National
+BG,2023-12-26,Рождество Христово,Public,National
+BG,2024-01-01,Нова година,Public,National
+BG,2024-03-03,Ден на Освобождението на България от османско иго,Public,National
+BG,2024-05-01,Ден на труда,Public,National
+BG,2024-05-03,Разпети петък,Public,National
+BG,2024-05-04,Велика събота,Public,National
+BG,2024-05-05,Великден,Public,National
+BG,2024-05-06,Гергьовден,Public,National
+BG,2024-05-06,Велики понеделник,Public,National
+BG,2024-05-24,Ден на Българската просвета и култура и на славянската писменост,Public,National
+BG,2024-09-06,Ден на Съединението,Public,National
+BG,2024-09-22,Ден на независимостта на България,Public,National
+BG,2024-11-01,Ден на народните будители,Public,National
+BG,2024-12-24,Бъдни вечер,Public,National
+BG,2024-12-25,Рождество Христово,Public,National
+BG,2024-12-26,Рождество Христово,Public,National
+BG,2021-12-24,Коледна ваканция,School,National
+BG,2022-01-31,Свободен от училище,School,National
+BG,2022-02-01,Междусрочна ваканция,School,National
+BG,2022-02-02,Свободен от училище,School,National
+BG,2022-04-01,Пролетна ваканция,School,National
+BG,2022-04-07,Пролетна ваканция,School,National
+BG,2022-06-01,Лятна ваканция,School,National
+BG,2022-06-16,Лятна ваканция,School,National
+BG,2022-07-01,Лятна ваканция,School,National
+BG,2022-07-01,Лятна ваканция,School,National
+BG,2022-10-29,Есенна ваканция,School,National
+BG,2022-12-24,Коледна ваканция,School,National
+BG,2023-02-01,Междусрочна ваканция,School,National
+BG,2023-04-08,Пролетна ваканция,School,National
+BG,2023-04-12,Пролетна ваканция,School,National
+BG,2023-05-17,Лятна ваканция,School,National
+BG,2023-06-01,Лятна ваканция,School,National
+BG,2023-06-16,Лятна ваканция,School,National
+BG,2023-07-01,Лятна ваканция,School,National
+BG,2023-07-01,Лятна ваканция,School,National
+BG,2023-11-01,Есенна ваканция,School,National
+BG,2023-12-23,Коледна ваканция,School,National
+BG,2024-02-03,Междусрочна ваканция,School,National
+BG,2024-03-30,Пролетна ваканция,School,National
+BG,2024-04-05,Пролетна ваканция,School,National
+BG,2024-05-14,Лятна ваканция,School,National
+BG,2024-05-30,Лятна ваканция,School,National
+BG,2024-06-15,Лятна ваканция,School,National
+BG,2024-06-29,Лятна ваканция,School,National
+BG,2024-06-29,Лятна ваканция,School,National
+BY,2022-01-01,Новы год,Public,National
+BY,2022-01-07,Праваслаўнае Раство,Public,National
+BY,2022-03-08,Дзень жанчын,Public,National
+BY,2022-05-01,Свята працы,Public,National
+BY,2022-05-09,Дзень Перамогі,Public,National
+BY,2022-05-14,Радаўніца,Public,National
+BY,2022-07-03,Дзень Рэспублікі,Public,National
+BY,2022-11-07,Дзень Кастрычніцкай рэвалюцыі,Public,National
+BY,2022-12-25,Каталіцкае Раство,Public,National
+BY,2023-01-01,Новы год,Public,National
+BY,2023-01-07,Праваслаўнае Раство,Public,National
+BY,2023-03-08,Дзень жанчын,Public,National
+BY,2023-05-01,Свята працы,Public,National
+BY,2023-05-09,Дзень Перамогі,Public,National
+BY,2023-05-14,Радаўніца,Public,National
+BY,2023-07-03,Дзень Рэспублікі,Public,National
+BY,2023-11-07,Дзень Кастрычніцкай рэвалюцыі,Public,National
+BY,2023-12-25,Каталіцкае Раство,Public,National
+BY,2024-01-01,Новы год,Public,National
+BY,2024-01-07,Праваслаўнае Раство,Public,National
+BY,2024-03-08,Дзень жанчын,Public,National
+BY,2024-05-01,Свята працы,Public,National
+BY,2024-05-09,Дзень Перамогі,Public,National
+BY,2024-05-14,Радаўніца,Public,National
+BY,2024-07-03,Дзень Рэспублікі,Public,National
+BY,2024-11-07,Дзень Кастрычніцкай рэвалюцыі,Public,National
+BY,2024-12-25,Каталіцкае Раство,Public,National
+BY,2021-12-25,Зімовыя вакацыі,School,National
+BY,2022-03-27,Вясновыя вакацыі,School,National
+BY,2022-06-01,Летнія вакацыі,School,National
+BY,2022-10-30,Восеньскія вакацыі,School,National
+BY,2022-12-25,Зімовыя вакацыі,School,National
+BY,2023-03-26,Вясновыя вакацыі,School,National
+BY,2023-06-01,Летнія вакацыі,School,National
+BY,2023-10-29,Восеньскія вакацыі,School,National
+BY,2023-12-24,Зімовыя вакацыі,School,National
+BY,2024-03-24,Вясновыя вакацыі,School,National
+BY,2024-06-01,Летнія вакацыі,School,National
+BY,2024-10-27,Восеньскія вакацыі,School,National
+BY,2024-12-25,Зімовыя вакацыі,School,National
+CH,2022-01-01,Neujahrstag,Public,National
+CH,2022-01-02,Berchtoldstag,Public,VD
+CH,2022-01-06,Dreikönigstag,Public,UR
+CH,2022-01-17,Antoniustag,Public,SO-TH-AD
+CH,2022-01-21,Meinradstag,Public,SZ-ES
+CH,2022-02-02,Mariä Lichtmess,Public,SZ-SZ-UB
+CH,2022-02-05,Agathatag,Public,SZ-SZ-SA
+CH,2022-03-01,Jahrestag der Ausrufung der Republik,Public,NE
+CH,2022-03-19,Josephstag,Public,NW
+CH,2022-03-21,Heiliger Benedikt,Public,OW-EN
+CH,2022-04-07,Näfelser Fahrt,Public,GL
+CH,2022-04-15,Karfreitag,Public,VD
+CH,2022-04-18,Ostermontag,Public,VD
+CH,2022-04-25,Sechseläuten,Public,ZH-ZH-ZH
+CH,2022-05-01,Heiliger Sigismund,Public,SZ-SZ-MU
+CH,2022-05-01,Tag der Arbeit,Public,TG
+CH,2022-05-01,Tag der Arbeit,Public,SO-SO
+CH,2022-05-26,Auffahrt,Public,National
+CH,2022-06-06,Pfingstmontag,Public,VD
+CH,2022-06-16,Fronleichnam,Public,AG-MU
+CH,2022-06-23,Fest der Unabhängigkeit,Public,JU
+CH,2022-06-29,Peter und Paul,Public,TI
+CH,2022-08-01,Bundesfeiertag,Public,National
+CH,2022-08-15,Mariä Himmelfahrt,Public,AG-MU
+CH,2022-09-08,Genfer Bettag,Public,GE
+CH,2022-09-12,Knabenschiessen,Public,ZH-ZH-ZH
+CH,2022-09-14,Engelweihe,Public,SZ-ES
+CH,2022-09-18,"Eidgenössischer Dank-, Buss- und Bettag",Public,VD
+CH,2022-09-22,Mauritiustag,Public,AI-AP
+CH,2022-09-25,Bruder-Klausen-Fest,Public,OW
+CH,2022-10-16,Gallustag,Public,SZ-SZ-MO
+CH,2022-11-01,Allerheiligen,Public,AG-MU
+CH,2022-11-11,Martinstag,Public,SZ-SZ-SZ
+CH,2022-12-08,Mariä Empfängnis,Public,AG-MU
+CH,2022-12-25,Weihnachten,Public,National
+CH,2022-12-26,Stephanstag,Public,TG
+CH,2022-12-31,Wiederherstellung der Republik,Public,GE
+CH,2023-01-01,Neujahrstag,Public,National
+CH,2023-01-02,Berchtoldstag,Public,VD
+CH,2023-01-06,Dreikönigstag,Public,UR
+CH,2023-01-17,Antoniustag,Public,SO-TH-AD
+CH,2023-01-21,Meinradstag,Public,SZ-ES
+CH,2023-02-02,Mariä Lichtmess,Public,SZ-SZ-UB
+CH,2023-02-05,Agathatag,Public,SZ-SZ-SA
+CH,2023-03-01,Jahrestag der Ausrufung der Republik,Public,NE
+CH,2023-03-19,Josephstag,Public,NW
+CH,2023-03-21,Heiliger Benedikt,Public,OW-EN
+CH,2023-04-07,Karfreitag,Public,VD
+CH,2023-04-10,Ostermontag,Public,VD
+CH,2023-04-13,Näfelser Fahrt,Public,GL
+CH,2023-04-17,Sechseläuten,Public,ZH-ZH-ZH
+CH,2023-05-01,Tag der Arbeit,Public,SO-SO
+CH,2023-05-01,Tag der Arbeit,Public,TG
+CH,2023-05-01,Heiliger Sigismund,Public,SZ-SZ-MU
+CH,2023-05-18,Auffahrt,Public,National
+CH,2023-05-29,Pfingstmontag,Public,VD
+CH,2023-06-08,Fronleichnam,Public,AG-MU
+CH,2023-06-23,Fest der Unabhängigkeit,Public,JU
+CH,2023-06-29,Peter und Paul,Public,TI
+CH,2023-08-01,Bundesfeiertag,Public,National
+CH,2023-08-15,Mariä Himmelfahrt,Public,AG-MU
+CH,2023-09-07,Genfer Bettag,Public,GE
+CH,2023-09-11,Knabenschiessen,Public,ZH-ZH-ZH
+CH,2023-09-14,Engelweihe,Public,SZ-ES
+CH,2023-09-17,"Eidgenössischer Dank-, Buss- und Bettag",Public,VD
+CH,2023-09-22,Mauritiustag,Public,AI-AP
+CH,2023-09-25,Bruder-Klausen-Fest,Public,OW
+CH,2023-10-16,Gallustag,Public,SZ-SZ-MO
+CH,2023-11-01,Allerheiligen,Public,AG-MU
+CH,2023-11-11,Martinstag,Public,SZ-SZ-SZ
+CH,2023-12-08,Mariä Empfängnis,Public,AG-MU
+CH,2023-12-25,Weihnachten,Public,National
+CH,2023-12-26,Stephanstag,Public,TG
+CH,2023-12-31,Wiederherstellung der Republik,Public,GE
+CH,2024-01-01,Neujahrstag,Public,National
+CH,2024-01-02,Berchtoldstag,Public,VD
+CH,2024-01-06,Dreikönigstag,Public,UR
+CH,2024-01-17,Antoniustag,Public,SO-TH-AD
+CH,2024-01-21,Meinradstag,Public,SZ-ES
+CH,2024-02-02,Mariä Lichtmess,Public,SZ-SZ-UB
+CH,2024-02-05,Agathatag,Public,SZ-SZ-SA
+CH,2024-03-01,Jahrestag der Ausrufung der Republik,Public,NE
+CH,2024-03-19,Josephstag,Public,NW
+CH,2024-03-21,Heiliger Benedikt,Public,OW-EN
+CH,2024-03-29,Karfreitag,Public,VD
+CH,2024-04-01,Ostermontag,Public,VD
+CH,2024-04-04,Näfelser Fahrt,Public,GL
+CH,2024-04-15,Sechseläuten,Public,ZH-ZH-ZH
+CH,2024-05-01,Tag der Arbeit,Public,TG
+CH,2024-05-01,Heiliger Sigismund,Public,SZ-SZ-MU
+CH,2024-05-01,Tag der Arbeit,Public,SO-SO
+CH,2024-05-09,Auffahrt,Public,National
+CH,2024-05-20,Pfingstmontag,Public,VD
+CH,2024-05-30,Fronleichnam,Public,AG-MU
+CH,2024-06-23,Fest der Unabhängigkeit,Public,JU
+CH,2024-06-29,Peter und Paul,Public,TI
+CH,2024-08-01,Bundesfeiertag,Public,National
+CH,2024-08-15,Mariä Himmelfahrt,Public,AG-MU
+CH,2024-09-05,Genfer Bettag,Public,GE
+CH,2024-09-09,Knabenschiessen,Public,ZH-ZH-ZH
+CH,2024-09-14,Engelweihe,Public,SZ-ES
+CH,2024-09-15,"Eidgenössischer Dank-, Buss- und Bettag",Public,VD
+CH,2024-09-22,Mauritiustag,Public,AI-AP
+CH,2024-09-25,Bruder-Klausen-Fest,Public,OW
+CH,2024-10-16,Gallustag,Public,SZ-SZ-MO
+CH,2024-11-01,Allerheiligen,Public,AG-MU
+CH,2024-11-11,Martinstag,Public,SZ-SZ-SZ
+CH,2024-12-08,Mariä Empfängnis,Public,AG-MU
+CH,2024-12-25,Weihnachten,Public,National
+CH,2024-12-26,Stephanstag,Public,TG
+CH,2024-12-31,Wiederherstellung der Republik,Public,GE
+CH,2021-12-18,Winter,School,AI
+CH,2021-12-18,Winter,School,NW
+CH,2021-12-18,Weihnachtsferien,School,BL
+CH,2021-12-18,Winter,School,LU
+CH,2021-12-18,Winter,School,TG
+CH,2021-12-18,Winter,School,ZH
+CH,2021-12-18,Winter,School,SG
+CH,2021-12-18,Weihnachtsferien,School,BS
+CH,2021-12-23,Winter,School,ZG
+CH,2021-12-24,Winter,School,TI
+CH,2021-12-24,Winter,School,FR
+CH,2021-12-24,Winter,School,SH
+CH,2021-12-24,Winter,School,GL
+CH,2021-12-24,Winter,School,AG
+CH,2021-12-24,Winter,School,VS
+CH,2021-12-24,Winter,School,FR
+CH,2021-12-24,Winter,School,SZ
+CH,2021-12-24,Vacances de Noël,School,JU
+CH,2021-12-24,Winter,School,VS
+CH,2021-12-24,Winter,School,AR
+CH,2021-12-24,Winter,School,OW
+CH,2021-12-24,Winter,School,VD
+CH,2021-12-24,Winter,School,UR
+CH,2021-12-24,Winter,School,BE
+CH,2021-12-24,Winter,School,NE
+CH,2021-12-24,Winter,School,GE
+CH,2021-12-25,Winter,School,BE
+CH,2021-12-27,Weihnachtsferien,School,SO
+CH,2022-01-29,Sport,School,SH
+CH,2022-01-29,Sport,School,GL
+CH,2022-01-29,Sport,School,TG
+CH,2022-02-05,Sport,School,ZG
+CH,2022-02-07,Winterferien,School,SO
+CH,2022-02-12,Sport,School,GE
+CH,2022-02-19,Sport,School,UR
+CH,2022-02-19,Sport,School,OW
+CH,2022-02-19,Sport,School,NW
+CH,2022-02-19,Sport,School,LU
+CH,2022-02-19,Sport,School,VD
+CH,2022-02-21,Semaine de relâche hivernale,School,JU
+CH,2022-02-25,Sport,School,AI
+CH,2022-02-26,Sport,School,SZ
+CH,2022-02-26,Sport,School,VS
+CH,2022-02-26,Fasnachtsferien,School,BS
+CH,2022-02-26,Sport,School,TI
+CH,2022-02-26,Sport,School,FR
+CH,2022-02-26,Sport,School,NE
+CH,2022-02-26,Sport,School,FR
+CH,2022-02-26,Fasnachtsferien,School,BL
+CH,2022-02-26,Sport,School,VS
+CH,2022-03-05,Sport,School,VS
+CH,2022-04-02,Frühling,School,TG
+CH,2022-04-07,Frühling,School,GL
+CH,2022-04-09,Frühling,School,AR
+CH,2022-04-09,Frühling,School,BE
+CH,2022-04-09,Frühlingsferien,School,BL
+CH,2022-04-09,Frühlingsferien,School,BS
+CH,2022-04-09,Frühling,School,AI
+CH,2022-04-09,Frühling,School,BE
+CH,2022-04-09,Frühling,School,SG
+CH,2022-04-09,Frühling,School,AG
+CH,2022-04-09,Frühling,School,NE
+CH,2022-04-11,Vacances de Pâques,School,JU
+CH,2022-04-11,Frühlingsferien,School,SO
+CH,2022-04-14,Frühling,School,GE
+CH,2022-04-15,Frühling,School,NW
+CH,2022-04-15,Frühling,School,FR
+CH,2022-04-15,Frühling,School,ZG
+CH,2022-04-15,Frühling,School,FR
+CH,2022-04-15,Frühling,School,TI
+CH,2022-04-15,Frühling,School,ZH
+CH,2022-04-15,Frühling,School,LU
+CH,2022-04-15,Frühling,School,VD
+CH,2022-04-15,Frühling,School,OW
+CH,2022-04-15,Frühling,School,SH
+CH,2022-04-15,Frühling,School,VS
+CH,2022-04-30,Frühling,School,UR
+CH,2022-04-30,Frühling,School,SZ
+CH,2022-04-30,Frühling,School,VS
+CH,2022-05-07,Frühling,School,VS
+CH,2022-05-26,Ascension,School,JU
+CH,2022-05-27,Auffahrtsbrücke,School,BL
+CH,2022-05-27,Auffahrtsbrücke,School,BS
+CH,2022-06-16,Sommer,School,TI
+CH,2022-06-25,Sommer,School,VS
+CH,2022-06-29,Sommer,School,VS
+CH,2022-06-30,Sommer,School,VS
+CH,2022-07-02,Sommer,School,NE
+CH,2022-07-02,Sommer,School,UR
+CH,2022-07-02,Sommer,School,AI
+CH,2022-07-02,Sommer,School,GE
+CH,2022-07-02,Sommer,School,FR
+CH,2022-07-02,Sommer,School,OW
+CH,2022-07-02,Sommer,School,VD
+CH,2022-07-02,Sommerferien,School,BS
+CH,2022-07-02,Sommer,School,GL
+CH,2022-07-02,Sommerferien,School,BL
+CH,2022-07-04,Vacances d'été,School,JU
+CH,2022-07-09,Sommer,School,BE
+CH,2022-07-09,Sommer,School,NW
+CH,2022-07-09,Sommer,School,TG
+CH,2022-07-09,Sommer,School,FR
+CH,2022-07-09,Sommer,School,SZ
+CH,2022-07-09,Sommer,School,SH
+CH,2022-07-09,Sommer,School,NW
+CH,2022-07-09,Sommer,School,BE
+CH,2022-07-09,Sommer,School,AR
+CH,2022-07-09,Sommer,School,SG
+CH,2022-07-09,Sommer,School,ZG
+CH,2022-07-09,Sommer,School,LU
+CH,2022-07-11,Sommerferien,School,SO
+CH,2022-07-16,Sommer,School,ZH
+CH,2022-07-16,Sommer,School,AG
+CH,2022-09-24,Herbst,School,BE
+CH,2022-10-01,Herbst,School,LU
+CH,2022-10-01,Herbst,School,SG
+CH,2022-10-01,Herbst,School,NE
+CH,2022-10-01,Herbstferien,School,BL
+CH,2022-10-01,Herbst,School,AG
+CH,2022-10-01,Herbst,School,UR
+CH,2022-10-01,Herbst,School,SH
+CH,2022-10-01,Herbstferien,School,BS
+CH,2022-10-01,Herbst,School,SZ
+CH,2022-10-01,Herbst,School,OW
+CH,2022-10-01,Herbst,School,NW
+CH,2022-10-03,Herbstferien,School,SO
+CH,2022-10-08,Herbst,School,BE
+CH,2022-10-08,Herbst,School,AR
+CH,2022-10-08,Herbst,School,AI
+CH,2022-10-08,Herbst,School,VS
+CH,2022-10-08,Herbst,School,TG
+CH,2022-10-08,Herbst,School,ZG
+CH,2022-10-08,Herbst,School,GL
+CH,2022-10-08,Herbst,School,ZH
+CH,2022-10-10,Vacances d'automne,School,JU
+CH,2022-10-13,Herbst,School,VS
+CH,2022-10-15,Herbst,School,VD
+CH,2022-10-15,Herbst,School,FR
+CH,2022-10-15,Herbst,School,FR
+CH,2022-10-22,Herbst,School,GE
+CH,2022-10-29,Herbst,School,TI
+CH,2022-12-22,Winter,School,ZG
+CH,2022-12-24,Winter,School,AG
+CH,2022-12-24,Weihnachtsferien,School,BS
+CH,2022-12-24,Winter,School,GE
+CH,2022-12-24,Winter,School,UR
+CH,2022-12-24,Winter,School,SZ
+CH,2022-12-24,Winter,School,NE
+CH,2022-12-24,Winter,School,NW
+CH,2022-12-24,Winter,School,OW
+CH,2022-12-24,Winter,School,ZH
+CH,2022-12-24,Winter,School,GL
+CH,2022-12-24,Winter,School,AI
+CH,2022-12-24,Winter,School,VS
+CH,2022-12-24,Winter,School,LU
+CH,2022-12-24,Winter,School,SH
+CH,2022-12-24,Winter,School,SG
+CH,2022-12-24,Winter,School,BE
+CH,2022-12-24,Winter,School,VD
+CH,2022-12-24,Weihnachtsferien,School,BL
+CH,2022-12-24,Winter,School,TG
+CH,2022-12-24,Winter,School,BE
+CH,2022-12-24,Winter,School,VS
+CH,2022-12-24,Winter,School,TI
+CH,2022-12-24,Winter,School,FR
+CH,2022-12-24,Winter,School,FR
+CH,2022-12-24,Winter,School,AR
+CH,2022-12-26,Vacances de Noël,School,JU
+CH,2022-12-26,Weihnachtsferien,School,SO
+CH,2023-01-28,Sport,School,SH
+CH,2023-01-28,Sport,School,TG
+CH,2023-01-28,Sport,School,GL
+CH,2023-02-04,Sport,School,ZG
+CH,2023-02-06,Winterferien,School,SO
+CH,2023-02-11,Sport,School,NW
+CH,2023-02-11,Sport,School,OW
+CH,2023-02-11,Sport,School,LU
+CH,2023-02-11,Sport,School,VD
+CH,2023-02-17,Sport,School,AI
+CH,2023-02-18,Sport,School,TI
+CH,2023-02-18,Sport,School,VS
+CH,2023-02-18,Sport,School,GE
+CH,2023-02-18,Fasnachtsferien,School,BL
+CH,2023-02-18,Fasnachtsferien,School,BS
+CH,2023-02-18,Sport,School,FR
+CH,2023-02-18,Sport,School,FR
+CH,2023-02-20,Semaine de relâche hivernale,School,JU
+CH,2023-02-25,Sport,School,SZ
+CH,2023-02-25,Sport,School,NE
+CH,2023-02-25,Sport,School,VS
+CH,2023-03-04,Sport,School,UR
+CH,2023-03-04,Sport,School,VS
+CH,2023-03-25,Frühling,School,TG
+CH,2023-04-01,Frühlingsferien,School,BL
+CH,2023-04-01,Frühlingsferien,School,BS
+CH,2023-04-07,Frühling,School,GE
+CH,2023-04-07,Frühling,School,FR
+CH,2023-04-07,Frühling,School,AI
+CH,2023-04-07,Frühling,School,TI
+CH,2023-04-07,Frühling,School,BE
+CH,2023-04-07,Frühling,School,OW
+CH,2023-04-07,Frühling,School,AR
+CH,2023-04-07,Frühling,School,BE
+CH,2023-04-07,Frühling,School,GL
+CH,2023-04-07,Frühling,School,NW
+CH,2023-04-07,Frühling,School,VD
+CH,2023-04-07,Vacances de Pâques,School,JU
+CH,2023-04-07,Frühling,School,VS
+CH,2023-04-07,Frühling,School,AG
+CH,2023-04-07,Frühling,School,NE
+CH,2023-04-07,Frühling,School,FR
+CH,2023-04-07,Frühling,School,SG
+CH,2023-04-07,Frühling,School,LU
+CH,2023-04-10,Frühlingsferien,School,SO
+CH,2023-04-15,Frühling,School,SH
+CH,2023-04-15,Frühling,School,ZG
+CH,2023-04-22,Frühling,School,ZH
+CH,2023-04-22,Frühling,School,UR
+CH,2023-04-29,Frühling,School,SZ
+CH,2023-05-13,Frühling,School,VS
+CH,2023-05-13,Frühling,School,VS
+CH,2023-05-18,Ascension,School,JU
+CH,2023-05-19,Auffahrtsbrücke,School,BL
+CH,2023-05-19,Auffahrtsbrücke,School,BS
+CH,2023-06-17,Sommer,School,TI
+CH,2023-06-24,Sommer,School,VS
+CH,2023-07-01,Sommer,School,UR
+CH,2023-07-01,Sommer,School,GE
+CH,2023-07-01,Sommerferien,School,BS
+CH,2023-07-01,Sommer,School,FR
+CH,2023-07-01,Sommer,School,VS
+CH,2023-07-01,Sommerferien,School,BL
+CH,2023-07-01,Sommer,School,GL
+CH,2023-07-01,Sommer,School,AI
+CH,2023-07-01,Sommer,School,VD
+CH,2023-07-01,Sommer,School,NE
+CH,2023-07-03,Vacances d'été,School,JU
+CH,2023-07-08,Sommer,School,BE
+CH,2023-07-08,Sommer,School,TG
+CH,2023-07-08,Sommer,School,SG
+CH,2023-07-08,Sommer,School,FR
+CH,2023-07-08,Sommer,School,OW
+CH,2023-07-08,Sommer,School,NW
+CH,2023-07-08,Sommer,School,NW
+CH,2023-07-08,Sommer,School,AR
+CH,2023-07-08,Sommer,School,BE
+CH,2023-07-08,Sommer,School,SH
+CH,2023-07-08,Sommer,School,ZG
+CH,2023-07-08,Sommer,School,SZ
+CH,2023-07-08,Sommer,School,LU
+CH,2023-07-10,Sommerferien,School,SO
+CH,2023-07-15,Sommer,School,ZH
+CH,2023-07-22,Sommer,School,AG
+CH,2023-09-23,Herbst,School,BE
+CH,2023-09-30,Herbst,School,OW
+CH,2023-09-30,Herbst,School,SG
+CH,2023-09-30,Herbst,School,SH
+CH,2023-09-30,Herbst,School,AG
+CH,2023-09-30,Herbst,School,LU
+CH,2023-09-30,Herbstferien,School,BS
+CH,2023-09-30,Herbst,School,NE
+CH,2023-09-30,Herbstferien,School,BL
+CH,2023-09-30,Herbst,School,NW
+CH,2023-09-30,Herbst,School,SZ
+CH,2023-10-02,Herbstferien,School,SO
+CH,2023-10-07,Herbst,School,TG
+CH,2023-10-07,Herbst,School,UR
+CH,2023-10-07,Herbst,School,AR
+CH,2023-10-07,Herbst,School,AI
+CH,2023-10-07,Herbst,School,ZG
+CH,2023-10-07,Herbst,School,BE
+CH,2023-10-07,Herbst,School,ZH
+CH,2023-10-07,Herbst,School,GL
+CH,2023-10-14,Herbst,School,VS
+CH,2023-10-14,Herbst,School,VD
+CH,2023-10-14,Herbst,School,FR
+CH,2023-10-14,Herbst,School,FR
+CH,2023-10-16,Vacances d'automne,School,JU
+CH,2023-10-19,Herbst,School,VS
+CH,2023-10-21,Herbst,School,GE
+CH,2023-10-28,Herbst,School,TI
+CH,2023-12-21,Winter,School,NE
+CH,2023-12-23,Winter,School,LU
+CH,2023-12-23,Winter,School,SG
+CH,2023-12-23,Winter,School,FR
+CH,2023-12-23,Winter,School,OW
+CH,2023-12-23,Winter,School,TG
+CH,2023-12-23,Winter,School,UR
+CH,2023-12-23,Winter,School,NW
+CH,2023-12-23,Winter,School,VD
+CH,2023-12-23,Winter,School,SZ
+CH,2023-12-23,Winter,School,BE
+CH,2023-12-23,Winter,School,GE
+CH,2023-12-23,Winter,School,GL
+CH,2023-12-23,Winter,School,VS
+CH,2023-12-23,Weihnachtsferien,School,BS
+CH,2023-12-23,Winter,School,BE
+CH,2023-12-23,Winter,School,ZG
+CH,2023-12-23,Winter,School,VS
+CH,2023-12-23,Winter,School,ZH
+CH,2023-12-23,Winter,School,TI
+CH,2023-12-23,Winter,School,FR
+CH,2023-12-23,Weihnachtsferien,School,BL
+CH,2023-12-23,Winter,School,AG
+CH,2023-12-23,Winter,School,AR
+CH,2023-12-23,Winter,School,SH
+CH,2023-12-23,Winter,School,AI
+CH,2023-12-25,Weihnachtsferien,School,SO
+CH,2023-12-25,Vacances de Noël,School,JU
+CH,2024-01-27,Sport,School,TG
+CH,2024-01-27,Sport,School,SH
+CH,2024-01-27,Sport,School,GL
+CH,2024-02-03,Sport,School,OW
+CH,2024-02-03,Sport,School,NW
+CH,2024-02-03,Sport,School,ZG
+CH,2024-02-03,Sport,School,LU
+CH,2024-02-05,Winterferien,School,SO
+CH,2024-02-09,Sport,School,AI
+CH,2024-02-10,Sport,School,FR
+CH,2024-02-10,Sport,School,VD
+CH,2024-02-10,Fasnachtsferien,School,BL
+CH,2024-02-10,Fasnachtsferien,School,BS
+CH,2024-02-10,Sport,School,FR
+CH,2024-02-10,Sport,School,TI
+CH,2024-02-10,Sport,School,VS
+CH,2024-02-17,Sport,School,GE
+CH,2024-02-19,Semaine de relâche hivernale,School,JU
+CH,2024-02-24,Sport,School,SZ
+CH,2024-02-24,Sport,School,NE
+CH,2024-02-24,Sport,School,VS
+CH,2024-03-02,Sport,School,UR
+CH,2024-03-02,Sport,School,VS
+CH,2024-03-23,Frühlingsferien,School,BL
+CH,2024-03-23,Frühlingsferien,School,BS
+CH,2024-03-29,Frühling,School,LU
+CH,2024-03-29,Frühling,School,VD
+CH,2024-03-29,Frühling,School,FR
+CH,2024-03-29,Frühling,School,GL
+CH,2024-03-29,Vacances de Pâques,School,JU
+CH,2024-03-29,Frühling,School,NW
+CH,2024-03-29,Frühling,School,TG
+CH,2024-03-29,Frühling,School,OW
+CH,2024-03-29,Frühling,School,NE
+CH,2024-03-29,Frühling,School,VS
+CH,2024-03-29,Frühling,School,BE
+CH,2024-03-29,Frühling,School,TI
+CH,2024-03-29,Frühling,School,GE
+CH,2024-03-29,Frühling,School,FR
+CH,2024-04-06,Frühling,School,AI
+CH,2024-04-06,Frühling,School,BE
+CH,2024-04-06,Frühling,School,AR
+CH,2024-04-06,Frühling,School,AG
+CH,2024-04-06,Frühling,School,SG
+CH,2024-04-08,Frühlingsferien,School,SO
+CH,2024-04-13,Frühling,School,ZG
+CH,2024-04-13,Frühling,School,SH
+CH,2024-04-20,Frühling,School,ZH
+CH,2024-04-27,Frühling,School,SZ
+CH,2024-04-27,Frühling,School,UR
+CH,2024-04-27,Frühling,School,VS
+CH,2024-05-04,Frühling,School,VS
+CH,2024-05-09,Ascension,School,JU
+CH,2024-05-10,Auffahrtsbrücke,School,BL
+CH,2024-05-10,Auffahrtsbrücke,School,BS
+CH,2024-06-15,Sommer,School,TI
+CH,2024-06-22,Sommer,School,VS
+CH,2024-06-29,Sommer,School,FR
+CH,2024-06-29,Sommer,School,AI
+CH,2024-06-29,Sommer,School,GL
+CH,2024-06-29,Sommerferien,School,BS
+CH,2024-06-29,Sommer,School,VS
+CH,2024-06-29,Sommer,School,GE
+CH,2024-06-29,Sommerferien,School,BL
+CH,2024-06-29,Sommer,School,VD
+CH,2024-07-06,Sommer,School,SG
+CH,2024-07-06,Sommer,School,AR
+CH,2024-07-06,Sommer,School,NW
+CH,2024-07-06,Sommer,School,LU
+CH,2024-07-06,Sommer,School,FR
+CH,2024-07-06,Sommer,School,TG
+CH,2024-07-06,Sommer,School,BE
+CH,2024-07-06,Sommer,School,ZG
+CH,2024-07-06,Sommer,School,SZ
+CH,2024-07-06,Sommer,School,NW
+CH,2024-07-06,Sommer,School,UR
+CH,2024-07-06,Sommer,School,BE
+CH,2024-07-06,Sommer,School,SH
+CH,2024-07-06,Sommer,School,NE
+CH,2024-07-06,Sommer,School,OW
+CH,2024-07-08,Sommerferien,School,SO
+CH,2024-07-08,Vacances d'été,School,JU
+CH,2024-07-13,Sommer,School,ZH
+CH,2024-07-20,Sommer,School,AG
+CH,2024-09-21,Herbst,School,BE
+CH,2024-09-28,Herbst,School,OW
+CH,2024-09-28,Herbst,School,NW
+CH,2024-09-28,Herbstferien,School,BS
+CH,2024-09-28,Herbst,School,SH
+CH,2024-09-28,Herbst,School,SZ
+CH,2024-09-28,Herbstferien,School,BL
+CH,2024-09-28,Herbst,School,AG
+CH,2024-09-28,Herbst,School,LU
+CH,2024-09-28,Herbst,School,SG
+CH,2024-09-30,Herbstferien,School,SO
+CH,2024-10-05,Herbst,School,ZH
+CH,2024-10-05,Herbst,School,TG
+CH,2024-10-05,Herbst,School,GL
+CH,2024-10-05,Herbst,School,UR
+CH,2024-10-05,Herbst,School,NE
+CH,2024-10-05,Herbst,School,AR
+CH,2024-10-05,Herbst,School,BE
+CH,2024-10-05,Herbst,School,ZG
+CH,2024-10-05,Herbst,School,AI
+CH,2024-10-12,Herbst,School,VD
+CH,2024-10-12,Herbst,School,FR
+CH,2024-10-12,Herbst,School,FR
+CH,2024-10-12,Herbst,School,VS
+CH,2024-10-14,Vacances d'automne,School,JU
+CH,2024-10-17,Herbst,School,VS
+CH,2024-10-19,Herbst,School,GE
+CH,2024-10-26,Herbst,School,TI
+CH,2024-12-21,Winter,School,FR
+CH,2024-12-21,Winter,School,BE
+CH,2024-12-21,Winter,School,VD
+CH,2024-12-21,Winter,School,TI
+CH,2024-12-21,Winter,School,VS
+CH,2024-12-21,Winter,School,VS
+CH,2024-12-21,Winter,School,UR
+CH,2024-12-21,Winter,School,AR
+CH,2024-12-21,Winter,School,LU
+CH,2024-12-21,Winter,School,AG
+CH,2024-12-21,Winter,School,GE
+CH,2024-12-21,Winter,School,NW
+CH,2024-12-21,Winter,School,BE
+CH,2024-12-21,Winter,School,OW
+CH,2024-12-21,Winter,School,ZG
+CH,2024-12-21,Weihnachtsferien,School,BS
+CH,2024-12-21,Winter,School,FR
+CH,2024-12-21,Winter,School,AI
+CH,2024-12-21,Winter,School,GL
+CH,2024-12-21,Weihnachtsferien,School,BL
+CH,2024-12-21,Winter,School,SG
+CH,2024-12-21,Winter,School,ZH
+CH,2024-12-21,Winter,School,NE
+CH,2024-12-21,Winter,School,TG
+CH,2024-12-23,Weihnachtsferien,School,SO
+CH,2024-12-23,Vacances de Noël,School,JU
+CH,2024-12-24,Winter,School,SH
+CH,2024-12-25,Winter,School,SZ
+CZ,2022-01-01,Nový rok,Public,National
+CZ,2022-01-01,Den obnovy samostatného českého státu,Public,National
+CZ,2022-04-15,Velký pátek,Public,National
+CZ,2022-04-18,Velikonoční pondělí,Public,National
+CZ,2022-05-01,Svátek práce,Public,National
+CZ,2022-05-08,Den vítězství,Public,National
+CZ,2022-07-05,Den slovanských věrozvěstů Cyrila a Metoděje,Public,National
+CZ,2022-07-06,Den upálení mistra Jana Husa,Public,National
+CZ,2022-09-28,Den české státnosti,Public,National
+CZ,2022-10-28,Den vzniku samostatného československého státu,Public,National
+CZ,2022-11-17,Den boje za svobodu a demokracii a Mezinárodní den studentstva,Public,National
+CZ,2022-12-24,Štědrý den,Public,National
+CZ,2022-12-25,1. svátek vánoční,Public,National
+CZ,2022-12-26,2. svátek vánoční,Public,National
+CZ,2023-01-01,Den obnovy samostatného českého státu,Public,National
+CZ,2023-01-01,Nový rok,Public,National
+CZ,2023-04-07,Velký pátek,Public,National
+CZ,2023-04-10,Velikonoční pondělí,Public,National
+CZ,2023-05-01,Svátek práce,Public,National
+CZ,2023-05-08,Den vítězství,Public,National
+CZ,2023-07-05,Den slovanských věrozvěstů Cyrila a Metoděje,Public,National
+CZ,2023-07-06,Den upálení mistra Jana Husa,Public,National
+CZ,2023-09-28,Den české státnosti,Public,National
+CZ,2023-10-28,Den vzniku samostatného československého státu,Public,National
+CZ,2023-11-17,Den boje za svobodu a demokracii a Mezinárodní den studentstva,Public,National
+CZ,2023-12-24,Štědrý den,Public,National
+CZ,2023-12-25,1. svátek vánoční,Public,National
+CZ,2023-12-26,2. svátek vánoční,Public,National
+CZ,2024-01-01,Den obnovy samostatného českého státu,Public,National
+CZ,2024-01-01,Nový rok,Public,National
+CZ,2024-03-29,Velký pátek,Public,National
+CZ,2024-04-01,Velikonoční pondělí,Public,National
+CZ,2024-05-01,Svátek práce,Public,National
+CZ,2024-05-08,Den vítězství,Public,National
+CZ,2024-07-05,Den slovanských věrozvěstů Cyrila a Metoděje,Public,National
+CZ,2024-07-06,Den upálení mistra Jana Husa,Public,National
+CZ,2024-09-28,Den české státnosti,Public,National
+CZ,2024-10-28,Den vzniku samostatného československého státu,Public,National
+CZ,2024-11-17,Den boje za svobodu a demokracii a Mezinárodní den studentstva,Public,National
+CZ,2024-12-24,Štědrý den,Public,National
+CZ,2024-12-25,1. svátek vánoční,Public,National
+CZ,2024-12-26,2. svátek vánoční,Public,National
+CZ,2021-12-23,Vánoční prázdniny,School,National
+CZ,2022-02-04,Pololetní prázdniny,School,National
+CZ,2022-02-07,Jarní prázdniny,School,ZL-ZL
+CZ,2022-02-14,Jarní prázdniny,School,LI-SM
+CZ,2022-02-21,Jarní prázdniny,School,KR-JC
+CZ,2022-02-28,Jarní prázdniny,School,PL-KT
+CZ,2022-03-07,Jarní prázdniny,School,PR
+CZ,2022-03-07,Jarní prázdniny,School,JM-BM
+CZ,2022-03-14,Jarní prázdniny,School,KA-CH
+CZ,2022-03-14,Jarní prázdniny,School,PR
+CZ,2022-04-14,Velikonoční prázdniny,School,National
+CZ,2022-07-01,Hlavní prázdniny,School,National
+CZ,2022-10-26,Podzimní prázdniny,School,National
+CZ,2022-12-23,Vánoční prázdniny,School,National
+CZ,2023-02-03,Pololetní prázdniny,School,National
+CZ,2023-02-06,Jarní prázdniny,School,KA-CH
+CZ,2023-02-06,Jarní prázdniny,School,PR
+CZ,2023-02-13,Jarní prázdniny,School,ZL-ZL
+CZ,2023-02-20,Jarní prázdniny,School,LI-SM
+CZ,2023-02-27,Jarní prázdniny,School,KR-JC
+CZ,2023-03-06,Jarní prázdniny,School,PL-KT
+CZ,2023-03-13,Jarní prázdniny,School,PR
+CZ,2023-03-13,Jarní prázdniny,School,JM-BM
+CZ,2023-04-06,Velikonoční prázdniny,School,National
+CZ,2023-07-01,Hlavní prázdniny,School,National
+CZ,2023-10-26,Podzimní prázdniny,School,National
+CZ,2023-12-23,Vánoční prázdniny,School,National
+CZ,2024-02-02,Pololetní prázdniny,School,National
+CZ,2024-02-05,Jarní prázdniny,School,JM-BM
+CZ,2024-02-05,Jarní prázdniny,School,PR
+CZ,2024-02-12,Jarní prázdniny,School,PR
+CZ,2024-02-12,Jarní prázdniny,School,KA-CH
+CZ,2024-02-19,Jarní prázdniny,School,ZL-ZL
+CZ,2024-02-26,Jarní prázdniny,School,LI-SM
+CZ,2024-03-04,Jarní prázdniny,School,KR-JC
+CZ,2024-03-11,Jarní prázdniny,School,PL-KT
+CZ,2024-03-28,Velikonoční prázdniny,School,National
+CZ,2024-06-29,Hlavní prázdniny,School,National
+CZ,2024-10-29,Podzimní prázdniny,School,National
+CZ,2024-12-23,Vánoční prázdniny,School,National
+DE,2022-01-01,Neujahr,Public,National
+DE,2022-01-06,Heilige Drei Könige,Public,BY
+DE,2022-03-08,Internationaler Frauentag,Public,BE
+DE,2022-04-15,Karfreitag,Public,National
+DE,2022-04-17,Ostersonntag,Public,BB
+DE,2022-04-18,Ostermontag,Public,National
+DE,2022-05-01,Tag der Arbeit,Public,National
+DE,2022-05-26,Christi Himmelfahrt,Public,National
+DE,2022-06-05,Pfingstsonntag,Public,BB
+DE,2022-06-06,Pfingstmontag,Public,National
+DE,2022-06-16,Fronleichnam,Public,NW
+DE,2022-08-08,Friedensfest,Public,BY-AU
+DE,2022-08-15,Mariä Himmelfahrt,Public,SL
+DE,2022-09-20,Weltkindertag,Public,TH
+DE,2022-10-03,Tag der Deutschen Einheit,Public,National
+DE,2022-10-31,Reformationstag,Public,HH
+DE,2022-11-01,Allerheiligen,Public,NW
+DE,2022-11-16,Buß- und Bettag,Public,SN
+DE,2022-12-25,1. Weihnachtsfeiertag,Public,National
+DE,2022-12-26,2. Weihnachtsfeiertag,Public,National
+DE,2023-01-01,Neujahr,Public,National
+DE,2023-01-06,Heilige Drei Könige,Public,BY
+DE,2023-03-08,Internationaler Frauentag,Public,BE
+DE,2023-04-07,Karfreitag,Public,National
+DE,2023-04-09,Ostersonntag,Public,BB
+DE,2023-04-10,Ostermontag,Public,National
+DE,2023-05-01,Tag der Arbeit,Public,National
+DE,2023-05-18,Christi Himmelfahrt,Public,National
+DE,2023-05-28,Pfingstsonntag,Public,BB
+DE,2023-05-29,Pfingstmontag,Public,National
+DE,2023-06-08,Fronleichnam,Public,NW
+DE,2023-08-08,Friedensfest,Public,BY-AU
+DE,2023-08-15,Mariä Himmelfahrt,Public,SL
+DE,2023-09-20,Weltkindertag,Public,TH
+DE,2023-10-03,Tag der Deutschen Einheit,Public,National
+DE,2023-10-31,Reformationstag,Public,HH
+DE,2023-11-01,Allerheiligen,Public,NW
+DE,2023-11-22,Buß- und Bettag,Public,SN
+DE,2023-12-25,1. Weihnachtsfeiertag,Public,National
+DE,2023-12-26,2. Weihnachtsfeiertag,Public,National
+DE,2024-01-01,Neujahr,Public,National
+DE,2024-01-06,Heilige Drei Könige,Public,BY
+DE,2024-03-08,Internationaler Frauentag,Public,BE
+DE,2024-03-29,Karfreitag,Public,National
+DE,2024-03-31,Ostersonntag,Public,BB
+DE,2024-04-01,Ostermontag,Public,National
+DE,2024-05-01,Tag der Arbeit,Public,National
+DE,2024-05-09,Christi Himmelfahrt,Public,National
+DE,2024-05-19,Pfingstsonntag,Public,BB
+DE,2024-05-20,Pfingstmontag,Public,National
+DE,2024-05-30,Fronleichnam,Public,NW
+DE,2024-08-08,Friedensfest,Public,BY-AU
+DE,2024-08-15,Mariä Himmelfahrt,Public,SL
+DE,2024-09-20,Weltkindertag,Public,TH
+DE,2024-10-03,Tag der Deutschen Einheit,Public,National
+DE,2024-10-31,Reformationstag,Public,HH
+DE,2024-11-01,Allerheiligen,Public,NW
+DE,2024-11-20,Buß- und Bettag,Public,SN
+DE,2024-12-25,1. Weihnachtsfeiertag,Public,National
+DE,2024-12-26,2. Weihnachtsfeiertag,Public,National
+DE,2021-12-22,Weihnachtsferien,School,MV-BBS
+DE,2021-12-22,Weihnachtsferien,School,ST
+DE,2021-12-23,Weihnachtsferien,School,HE
+DE,2021-12-23,Weihnachtsferien,School,SN
+DE,2021-12-23,Weihnachtsferien,School,HH
+DE,2021-12-23,Weihnachtsferien,School,HB
+DE,2021-12-23,Weihnachtsferien,School,NI
+DE,2021-12-23,Weihnachtsferien,School,BW
+DE,2021-12-23,Weihnachtsferien,School,SL
+DE,2021-12-23,Weihnachtsferien,School,SH
+DE,2021-12-24,Weihnachtsferien,School,NW
+DE,2021-12-24,Weihnachtsferien,School,BY
+DE,2022-01-28,Halbjahrespause,School,HH
+DE,2022-01-30,Winterferien,School,BE
+DE,2022-01-31,Winterferien,School,BB
+DE,2022-01-31,Halbjahresferien,School,NI
+DE,2022-01-31,Halbjahresferien,School,HB
+DE,2022-02-05,Winterferien,School,MV-BBS
+DE,2022-02-05,Winterferien,School,MV-ABS
+DE,2022-02-12,Winterferien,School,SN
+DE,2022-02-12,Winterferien,School,TH
+DE,2022-02-12,Winterferien,School,ST
+DE,2022-02-18,Schulfrei,School,MV-ABS
+DE,2022-02-21,Winterferien,School,RP
+DE,2022-02-21,Fastnachtsferien,School,SL
+DE,2022-02-28,Frühjahrsferien,School,BY
+DE,2022-03-07,Frühjahrsferien,School,HH
+DE,2022-04-04,Osterferien,School,SH
+DE,2022-04-04,Osterferien,School,HB
+DE,2022-04-04,Osterferien,School,NI
+DE,2022-04-11,Osterferien,School,TH
+DE,2022-04-11,Osterferien,School,NW
+DE,2022-04-11,Osterferien,School,MV-BBS
+DE,2022-04-11,Osterferien,School,HE
+DE,2022-04-11,Osterferien,School,BB
+DE,2022-04-11,Osterferien,School,BY
+DE,2022-04-11,Osterferien,School,ST
+DE,2022-04-11,Osterferien,School,MV-ABS
+DE,2022-04-11,Osterferien,School,BE
+DE,2022-04-13,Osterferien,School,RP
+DE,2022-04-14,Osterferien,School,SL
+DE,2022-04-15,Osterferien,School,SN
+DE,2022-04-19,Osterferien,School,BW
+DE,2022-05-23,Pfingstferien,School,ST
+DE,2022-05-23,Pfingstferien,School,HH
+DE,2022-05-27,Himmelfahrt,School,SH
+DE,2022-05-27,Zusätzlicher Ferientag,School,MV-ABS
+DE,2022-05-27,Schulfreier Tag,School,TH
+DE,2022-05-27,Unterrichtsfreier Tag,School,BE
+DE,2022-05-27,Unterrichtsfreier Tag,School,SN
+DE,2022-05-27,Zusätzlicher Ferientag,School,MV-BBS
+DE,2022-05-27,Tag nach Himmelfahrt,School,NI
+DE,2022-05-27,Tag nach Himmelfahrt,School,HB
+DE,2022-05-27,Variabler Ferientag,School,BB
+DE,2022-06-03,Pfingstferien,School,MV-ABS
+DE,2022-06-07,Pfingstferien,School,SL
+DE,2022-06-07,Pfingstferien,School,BE
+DE,2022-06-07,Pfingstferien,School,BW
+DE,2022-06-07,Pfingstferien,School,BY
+DE,2022-06-07,Pfingstferien,School,NI
+DE,2022-06-07,Pfingstferien,School,HB
+DE,2022-06-27,Sommerferien,School,NW
+DE,2022-07-04,Sommerferien,School,SH
+DE,2022-07-04,Sommerferien,School,MV-ABS
+DE,2022-07-07,Sommerferien,School,BE
+DE,2022-07-07,Sommerferien,School,HH
+DE,2022-07-07,Sommerferien,School,BB
+DE,2022-07-11,Sommerferien,School,MV-BBS
+DE,2022-07-14,Sommerferien,School,NI
+DE,2022-07-14,Sommerferien,School,ST
+DE,2022-07-14,Sommerferien,School,HB
+DE,2022-07-18,Sommerferien,School,SN
+DE,2022-07-18,Sommerferien,School,TH
+DE,2022-07-25,Sommerferien,School,RP
+DE,2022-07-25,Sommerferien,School,SL
+DE,2022-07-25,Sommerferien,School,HE
+DE,2022-07-28,Sommerferien,School,BW
+DE,2022-08-01,Sommerferien,School,BY
+DE,2022-10-04,Herbstferien,School,NW
+DE,2022-10-10,Herbstferien,School,MV-ABS
+DE,2022-10-10,Herbstferien,School,MV-BBS
+DE,2022-10-10,Herbstferien,School,SH
+DE,2022-10-10,Herbstferien,School,HH
+DE,2022-10-17,Herbstferien,School,HB
+DE,2022-10-17,Herbstferien,School,TH
+DE,2022-10-17,Herbstferien,School,NI
+DE,2022-10-17,Herbstferien,School,SN
+DE,2022-10-17,Herbstferien,School,RP
+DE,2022-10-24,Herbstferien,School,BE
+DE,2022-10-24,Herbstferien,School,HE
+DE,2022-10-24,Herbstferien,School,ST
+DE,2022-10-24,Herbstferien,School,BB
+DE,2022-10-24,Herbstferien,School,SL
+DE,2022-10-28,Zusätzlicher Ferientag,School,MV-BBS
+DE,2022-10-31,Herbstferien,School,BY
+DE,2022-11-01,Zusätzlicher Ferientag,School,MV-ABS
+DE,2022-11-02,Zusätzlicher Ferientag,School,MV-ABS
+DE,2022-11-02,Herbstferien,School,BW
+DE,2022-11-16,Buß- und Bettag,School,BY
+DE,2022-12-21,Weihnachtsferien,School,ST
+DE,2022-12-21,Weihnachtsferien,School,BW
+DE,2022-12-22,Weihnachtsferien,School,TH
+DE,2022-12-22,Weihnachtsferien,School,SN
+DE,2022-12-22,Weihnachtsferien,School,SL
+DE,2022-12-22,Weihnachtsferien,School,MV-ABS
+DE,2022-12-22,Weihnachtsferien,School,BB
+DE,2022-12-22,Weihnachtsferien,School,HE
+DE,2022-12-22,Weihnachtsferien,School,BE
+DE,2022-12-23,Weihnachtsferien,School,NW
+DE,2022-12-23,Weihnachtsferien,School,HH
+DE,2022-12-23,Weihnachtsferien,School,NI
+DE,2022-12-23,Weihnachtsferien,School,HB
+DE,2022-12-23,Weihnachtsferien,School,SH
+DE,2022-12-23,Weihnachtsferien,School,RP
+DE,2022-12-24,Weihnachtsferien,School,BY
+DE,2023-01-27,Halbjahrespause,School,HH
+DE,2023-01-30,Halbjahresferien,School,NI
+DE,2023-01-30,Winterferien,School,BB
+DE,2023-01-30,Halbjahresferien,School,HB
+DE,2023-01-30,Winterferien,School,BE
+DE,2023-02-06,Winterferien,School,MV-ABS
+DE,2023-02-06,Winterferien,School,ST
+DE,2023-02-06,Winterferien,School,MV-BBS
+DE,2023-02-13,Winterferien,School,SN
+DE,2023-02-13,Winterferien,School,TH
+DE,2023-02-20,Fastnachtsferien,School,SL
+DE,2023-02-20,Frühjahrsferien,School,BY
+DE,2023-03-06,Frühjahrsferien,School,HH
+DE,2023-03-27,Osterferien,School,NI
+DE,2023-03-27,Osterferien,School,HB
+DE,2023-04-03,Osterferien,School,TH
+DE,2023-04-03,Osterferien,School,MV-ABS
+DE,2023-04-03,Osterferien,School,SL
+DE,2023-04-03,Osterferien,School,MV-BBS
+DE,2023-04-03,Osterferien,School,NW
+DE,2023-04-03,Osterferien,School,BE
+DE,2023-04-03,Osterferien,School,BY
+DE,2023-04-03,Osterferien,School,BB
+DE,2023-04-03,Osterferien,School,RP
+DE,2023-04-03,Osterferien,School,ST
+DE,2023-04-03,Osterferien,School,HE
+DE,2023-04-06,Osterferien,School,SH
+DE,2023-04-07,Osterferien,School,SN
+DE,2023-04-11,Osterferien,School,BW
+DE,2023-05-15,Pfingstferien,School,ST
+DE,2023-05-15,Pfingstferien,School,HH
+DE,2023-05-19,Variabler Ferientag,School,BB
+DE,2023-05-19,Tag nach Himmelfahrt,School,HB
+DE,2023-05-19,Unterrichtsfreier Tag,School,BE
+DE,2023-05-19,Schulfreier Tag,School,TH
+DE,2023-05-19,Zusätzlicher Ferientag,School,MV-ABS
+DE,2023-05-19,Zusätzlicher Ferientag,School,MV-BBS
+DE,2023-05-19,Unterrichtsfreier Tag,School,SN
+DE,2023-05-19,Tag nach Himmelfahrt,School,NI
+DE,2023-05-19,Himmelfahrt,School,SH
+DE,2023-05-26,Pfingstferien,School,MV-ABS
+DE,2023-05-26,Zusätzlicher Ferientag,School,MV-BBS
+DE,2023-05-30,Pfingstferien,School,BY
+DE,2023-05-30,Pfingstferien,School,HB
+DE,2023-05-30,Pfingstferien,School,BW
+DE,2023-05-30,Pfingstferien,School,NI
+DE,2023-05-30,Pfingstferien,School,SL
+DE,2023-05-30,Pfingstferien,School,NW
+DE,2023-05-30,Pfingstferien,School,BE
+DE,2023-05-30,Pfingstferien,School,RP
+DE,2023-06-22,Sommerferien,School,NW
+DE,2023-07-06,Sommerferien,School,NI
+DE,2023-07-06,Sommerferien,School,ST
+DE,2023-07-06,Sommerferien,School,HB
+DE,2023-07-10,Sommerferien,School,SN
+DE,2023-07-10,Sommerferien,School,TH
+DE,2023-07-13,Sommerferien,School,BE
+DE,2023-07-13,Sommerferien,School,HH
+DE,2023-07-13,Sommerferien,School,BB
+DE,2023-07-17,Sommerferien,School,MV-BBS
+DE,2023-07-17,Sommerferien,School,SH
+DE,2023-07-17,Sommerferien,School,MV-ABS
+DE,2023-07-24,Sommerferien,School,HE
+DE,2023-07-24,Sommerferien,School,RP
+DE,2023-07-24,Sommerferien,School,SL
+DE,2023-07-27,Sommerferien,School,BW
+DE,2023-07-31,Sommerferien,School,BY
+DE,2023-10-02,Variabler Ferientag,School,BB
+DE,2023-10-02,Brückentag,School,HH
+DE,2023-10-02,Tag vor dem 3. Oktober,School,HB
+DE,2023-10-02,Unterrichtsfreier Tag,School,BE
+DE,2023-10-02,Zusätzlicher Ferientag,School,MV-BBS
+DE,2023-10-02,Tag vor dem 3. Oktober,School,NI
+DE,2023-10-02,Herbstferien,School,NW
+DE,2023-10-02,Herbstferien,School,TH
+DE,2023-10-02,Ferientag,School,ST
+DE,2023-10-02,Herbstferien,School,SN
+DE,2023-10-09,Herbstferien,School,MV-ABS
+DE,2023-10-16,Herbstferien,School,RP
+DE,2023-10-16,Herbstferien,School,SH
+DE,2023-10-16,Herbstferien,School,HH
+DE,2023-10-16,Herbstferien,School,NI
+DE,2023-10-16,Herbstferien,School,ST
+DE,2023-10-16,Herbstferien,School,HB
+DE,2023-10-23,Herbstferien,School,SL
+DE,2023-10-23,Herbstferien,School,BB
+DE,2023-10-23,Herbstferien,School,HE
+DE,2023-10-23,Herbstferien,School,BE
+DE,2023-10-30,Zusätzlicher Ferientag,School,MV-ABS
+DE,2023-10-30,Herbstferien,School,BW
+DE,2023-10-30,Unterrichtsfreier Tag,School,SN
+DE,2023-10-30,Zusätzlicher Ferientag,School,MV-BBS
+DE,2023-10-30,Herbstferien,School,BY
+DE,2023-11-01,Zusätzlicher Ferientag,School,MV-ABS
+DE,2023-11-22,Buß- und Bettag,School,BY
+DE,2023-12-21,Weihnachtsferien,School,MV-ABS
+DE,2023-12-21,Weihnachtsferien,School,NW
+DE,2023-12-21,Weihnachtsferien,School,SL
+DE,2023-12-21,Weihnachtsferien,School,ST
+DE,2023-12-22,Weihnachtsferien,School,TH
+DE,2023-12-22,Weihnachtsferien,School,HH
+DE,2023-12-23,Weihnachtsferien,School,HB
+DE,2023-12-23,Weihnachtsferien,School,SN
+DE,2023-12-23,Weihnachtsferien,School,BB
+DE,2023-12-23,Weihnachtsferien,School,BW
+DE,2023-12-23,Weihnachtsferien,School,BE
+DE,2023-12-23,Weihnachtsferien,School,BY
+DE,2023-12-27,Weihnachtsferien,School,NI
+DE,2023-12-27,Weihnachtsferien,School,SH
+DE,2023-12-27,Weihnachtsferien,School,HE
+DE,2023-12-27,Weihnachtsferien,School,RP
+DE,2024-02-01,Halbjahresferien,School,HB
+DE,2024-02-01,Halbjahresferien,School,NI
+DE,2024-02-02,Halbjahrespause,School,HH
+DE,2024-02-05,Winterferien,School,BE
+DE,2024-02-05,Winterferien,School,MV-ABS
+DE,2024-02-05,Winterferien,School,ST
+DE,2024-02-05,Winterferien,School,BB
+DE,2024-02-05,Winterferien,School,MV-BBS
+DE,2024-02-12,Fastnachtsferien,School,SL
+DE,2024-02-12,Winterferien,School,SN
+DE,2024-02-12,Winterferien,School,TH
+DE,2024-02-12,Frühjahrsferien,School,BY
+DE,2024-03-18,Osterferien,School,NI
+DE,2024-03-18,Frühjahrsferien,School,HH
+DE,2024-03-18,Osterferien,School,HB
+DE,2024-03-23,Osterferien,School,BW
+DE,2024-03-25,Osterferien,School,ST
+DE,2024-03-25,Osterferien,School,RP
+DE,2024-03-25,Osterferien,School,SL
+DE,2024-03-25,Osterferien,School,BE
+DE,2024-03-25,Osterferien,School,BY
+DE,2024-03-25,Osterferien,School,MV-BBS
+DE,2024-03-25,Osterferien,School,HE
+DE,2024-03-25,Osterferien,School,NW
+DE,2024-03-25,Osterferien,School,BB
+DE,2024-03-25,Osterferien,School,MV-ABS
+DE,2024-03-25,Osterferien,School,TH
+DE,2024-03-28,Osterferien,School,SN
+DE,2024-04-02,Osterferien,School,SH
+DE,2024-05-10,Tag nach Himmelfahrt,School,NI
+DE,2024-05-10,Brückentag,School,HH
+DE,2024-05-10,Unterrichtsfreier Tag,School,SN
+DE,2024-05-10,Unterrichtsfreier Tag,School,BE
+DE,2024-05-10,Schulfreier Tag,School,TH
+DE,2024-05-10,Tag nach Himmelfahrt,School,HB
+DE,2024-05-10,Himmelfahrt,School,SH
+DE,2024-05-10,Zusätzlicher Ferientag,School,MV-ABS
+DE,2024-05-10,Variabler Ferientag,School,BB
+DE,2024-05-10,Zusätzlicher Ferientag,School,MV-BBS
+DE,2024-05-17,Pfingstferien,School,MV-ABS
+DE,2024-05-18,Pfingstferien,School,SN
+DE,2024-05-21,Pfingstferien,School,BW
+DE,2024-05-21,Pfingstferien,School,ST
+DE,2024-05-21,Pfingstferien,School,HB
+DE,2024-05-21,Pfingstferien,School,NW
+DE,2024-05-21,Pfingstferien,School,NI
+DE,2024-05-21,Pfingstferien,School,RP
+DE,2024-05-21,Pfingstferien,School,HH
+DE,2024-05-21,Pfingstferien,School,BY
+DE,2024-05-21,Pfingstferien,School,SL
+DE,2024-06-20,Sommerferien,School,SN
+DE,2024-06-20,Sommerferien,School,TH
+DE,2024-06-24,Sommerferien,School,HB
+DE,2024-06-24,Sommerferien,School,ST
+DE,2024-06-24,Sommerferien,School,NI
+DE,2024-07-08,Sommerferien,School,NW
+DE,2024-07-15,Sommerferien,School,MV-BBS
+DE,2024-07-15,Sommerferien,School,HE
+DE,2024-07-15,Sommerferien,School,SL
+DE,2024-07-15,Sommerferien,School,RP
+DE,2024-07-18,Sommerferien,School,BB
+DE,2024-07-18,Sommerferien,School,BE
+DE,2024-07-18,Sommerferien,School,HH
+DE,2024-07-22,Sommerferien,School,MV-ABS
+DE,2024-07-22,Sommerferien,School,SH
+DE,2024-07-25,Sommerferien,School,BW
+DE,2024-07-29,Sommerferien,School,BY
+DE,2024-09-30,Herbstferien,School,ST
+DE,2024-09-30,Herbstferien,School,TH
+DE,2024-10-04,Zusätzlicher Ferientag,School,MV-ABS
+DE,2024-10-04,Unterrichtsfreier Tag,School,BE
+DE,2024-10-04,Zusätzlicher Ferientag,School,MV-BBS
+DE,2024-10-04,Herbstferien,School,NI
+DE,2024-10-04,Herbstferien,School,HB
+DE,2024-10-04,Brückentag,School,HH
+DE,2024-10-04,Variabler Ferientag,School,BB
+DE,2024-10-07,Herbstferien,School,SN
+DE,2024-10-14,Herbstferien,School,HE
+DE,2024-10-14,Herbstferien,School,RP
+DE,2024-10-14,Herbstferien,School,SL
+DE,2024-10-14,Herbstferien,School,NW
+DE,2024-10-21,Herbstferien,School,SH
+DE,2024-10-21,Herbstferien,School,BE
+DE,2024-10-21,Herbstferien,School,HH
+DE,2024-10-21,Herbstferien,School,MV-ABS
+DE,2024-10-21,Herbstferien,School,BB
+DE,2024-10-28,Herbstferien,School,BY
+DE,2024-10-28,Herbstferien,School,BW
+DE,2024-11-01,Ferientag,School,ST
+DE,2024-11-01,Tag nach dem Reformationstag,School,HB
+DE,2024-11-01,Zusätzlicher Ferientag,School,MV-BBS
+DE,2024-11-01,Zusätzlicher Ferientag,School,MV-ABS
+DE,2024-11-01,Tag nach dem Reformationstag,School,NI
+DE,2024-11-20,Buß- und Bettag,School,BY
+DE,2024-12-19,Weihnachtsferien,School,SH
+DE,2024-12-20,Weihnachtsferien,School,HH
+DE,2024-12-23,Weihnachtsferien,School,SL
+DE,2024-12-23,Weihnachtsferien,School,BB
+DE,2024-12-23,Weihnachtsferien,School,RP
+DE,2024-12-23,Weihnachtsferien,School,NW
+DE,2024-12-23,Weihnachtsferien,School,BE
+DE,2024-12-23,Weihnachtsferien,School,MV-BBS
+DE,2024-12-23,Weihnachtsferien,School,MV-ABS
+DE,2024-12-23,Weihnachtsferien,School,TH
+DE,2024-12-23,Weihnachtsferien,School,HB
+DE,2024-12-23,Weihnachtsferien,School,SN
+DE,2024-12-23,Weihnachtsferien,School,HE
+DE,2024-12-23,Weihnachtsferien,School,NI
+DE,2024-12-23,Weihnachtsferien,School,BW
+DE,2024-12-23,Weihnachtsferien,School,ST
+DE,2024-12-23,Weihnachtsferien,School,BY
+EE,2022-01-01,uusaasta,Public,National
+EE,2022-02-24,iseseisvuspäev,Public,National
+EE,2022-03-15,suur reede,Public,National
+EE,2022-03-17,ülestõusmispühade 1. püha,Public,National
+EE,2022-05-01,kevadpüha,Public,National
+EE,2022-06-05,nelipühade 1. püha,Public,National
+EE,2022-06-23,võidupüha,Public,National
+EE,2022-06-24,jaanipäev,Public,National
+EE,2022-08-20,taasiseseisvumispäev,Public,National
+EE,2022-12-24,jõululaupäev,Public,National
+EE,2022-12-25,esimene jõulupüha,Public,National
+EE,2022-12-26,teine jõulupüha,Public,National
+EE,2023-01-01,uusaasta,Public,National
+EE,2023-02-24,iseseisvuspäev,Public,National
+EE,2023-04-07,suur reede,Public,National
+EE,2023-04-09,ülestõusmispühade 1. püha,Public,National
+EE,2023-05-01,kevadpüha,Public,National
+EE,2023-05-28,nelipühade 1. püha,Public,National
+EE,2023-06-23,võidupüha,Public,National
+EE,2023-06-24,jaanipäev,Public,National
+EE,2023-08-20,taasiseseisvumispäev,Public,National
+EE,2023-12-24,jõululaupäev,Public,National
+EE,2023-12-25,esimene jõulupüha,Public,National
+EE,2023-12-26,teine jõulupüha,Public,National
+EE,2024-01-01,uusaasta,Public,National
+EE,2024-02-24,iseseisvuspäev,Public,National
+EE,2024-03-29,suur reede,Public,National
+EE,2024-03-31,ülestõusmispühade 1. püha,Public,National
+EE,2024-05-01,kevadpüha,Public,National
+EE,2024-05-19,nelipühade 1. püha,Public,National
+EE,2024-06-23,võidupüha,Public,National
+EE,2024-06-24,jaanipäev,Public,National
+EE,2024-08-20,taasiseseisvumispäev,Public,National
+EE,2024-12-24,jõululaupäev,Public,National
+EE,2024-12-25,esimene jõulupüha,Public,National
+EE,2024-12-26,teine jõulupüha,Public,National
+EE,2021-12-23,jõulupühad,School,National
+EE,2022-02-28,talvepuhkus,School,National
+EE,2022-04-25,kevadpühad,School,National
+EE,2022-06-14,suvepuhkus,School,National
+EE,2022-10-24,sügispuhkus,School,National
+EE,2022-12-22,jõulupühad,School,National
+EE,2023-02-27,talvepuhkus,School,National
+EE,2023-04-24,kevadpühad,School,National
+EE,2023-06-14,suvepuhkus,School,National
+EE,2023-10-23,sügispuhkus,School,National
+EE,2023-12-21,jõulupühad,School,National
+EE,2024-02-26,talvepuhkus,School,National
+EE,2024-04-22,kevadpühad,School,National
+EE,2024-06-13,suvepuhkus,School,National
+EE,2024-10-21,sügispuhkus,School,National
+EE,2024-12-23,jõulupühad,School,National
+ES,2022-01-01,Año Nuevo,Public,National
+ES,2022-01-06,Epifanía del Señor,Public,National
+ES,2022-02-02,Virgen de la Candelaria,Public,CN-SC-TE
+ES,2022-02-28,Día de Andalucía,Public,AN
+ES,2022-03-01,Día de las Illes Balears,Public,IB
+ES,2022-03-19,Día de San José,Public,VC
+ES,2022-04-14,Jueves Santo,Public,NC
+ES,2022-04-15,Viernes Santo,Public,National
+ES,2022-04-18,Lunes de Pascua,Public,NC
+ES,2022-04-23,Día de Castilla y León,Public,CL
+ES,2022-04-23,Día de Aragón,Public,AR
+ES,2022-05-02,Lunes siguiente a la Fiesta del Trabajo,Public,AS
+ES,2022-05-02,Día de la Comunidad de Madrid,Public,MD
+ES,2022-05-03,Fiesta del fin del Ramadán (Eid al-Fitr),Public,ML
+ES,2022-05-17,Día de las Letras Gallegas,Public,GA
+ES,2022-05-30,Día de Canarias,Public,CN
+ES,2022-05-31,Día de Castilla-La Mancha,Public,CM
+ES,2022-06-06,Lunes de Pascua Granada,Public,CT
+ES,2022-06-09,Día de la Región de Murcia,Public,MC
+ES,2022-06-09,Día de La Rioja,Public,RI
+ES,2022-06-13,San Antonio,Public,CE
+ES,2022-06-16,Corpus Christi,Public,CM
+ES,2022-06-24,San Juan,Public,CT
+ES,2022-07-09,Fiesta del Sacrificio (Eid al-Adha),Public,CE
+ES,2022-07-11,Fiesta del Sacrificio (Eid al-Adha),Public,ML
+ES,2022-07-25,Santiago Apóstol,Public,NC
+ES,2022-07-25,Día Nacional de Galicia,Public,GA
+ES,2022-07-28,Día de las Instituciones de Cantabria,Public,CB
+ES,2022-08-05,Nuestra Señora de África,Public,CE
+ES,2022-08-05,Nuestra Señora de Las Nieves,Public,CN-SC-LP
+ES,2022-08-15,Asunción de la Virgen,Public,National
+ES,2022-09-02,Día de Ceuta,Public,CE
+ES,2022-09-06,V Centenario Vuelta al Mundo,Public,PV
+ES,2022-09-08,Día de Ntra. Sra. Virgen de la Victoria,Public,ML
+ES,2022-09-08,Día de Estremadura,Public,EX
+ES,2022-09-08,Día de Asturias,Public,AS
+ES,2022-09-08,Nuestra Señora del Pino,Public,CN-LP-GC
+ES,2022-09-15,Nuestra Señora de Los Volcanes,Public,CN-LP-LA
+ES,2022-09-15,La Bien Aparecida,Public,CB
+ES,2022-09-16,Nuestra Señora de la Peña,Public,CN-LP-FV
+ES,2022-09-17,Día de Melilla,Public,ML
+ES,2022-09-24,Nuestra Señora de Los Reyes,Public,CN-SC-EH
+ES,2022-10-03,Nuestra Señora de Guadalupe,Public,CN-SC-LG
+ES,2022-10-12,Fiesta Nacional de España,Public,National
+ES,2022-11-01,Todos los Santos,Public,National
+ES,2022-12-03,San Francisco Javier,Public,NC
+ES,2022-12-06,Día de la Constitución Española,Public,National
+ES,2022-12-08,Inmaculada Concepción,Public,National
+ES,2022-12-26,San Esteban,Public,CT
+ES,2022-12-26,Lunes siguiente a la Natividad del Señor,Public,NC
+ES,2023-01-01,Lunes siguiente a Año Nuevo,Public,AS
+ES,2023-01-06,Epifanía del Señor,Public,National
+ES,2023-02-02,Virgen de la Candelaria,Public,CN-SC-TE
+ES,2023-02-21,Martes de Carnaval,Public,EX
+ES,2023-02-28,Día de Andalucía,Public,AN
+ES,2023-03-01,Día de las Illes Balears,Public,IB
+ES,2023-03-13,Estatuto de Autonomía de Melilla,Public,ML
+ES,2023-03-20,Lunes siguiente a San José,Public,MD
+ES,2023-04-06,Jueves Santo,Public,NC
+ES,2023-04-07,Viernes Santo,Public,National
+ES,2023-04-10,Lunes de Pascua,Public,NC
+ES,2023-04-21,Fiesta del fin del Ramadán (Eid al-Fitr),Public,ML
+ES,2023-04-24,Lunes siguiente a día de Aragón,Public,AR
+ES,2023-05-01,Día del Trabajador,Public,National
+ES,2023-05-02,Día de la Comunidad de Madrid,Public,MD
+ES,2023-05-17,Día de las Letras Gallegas,Public,GA
+ES,2023-05-30,Día de Canarias,Public,CN
+ES,2023-05-31,Día de Castilla-La Mancha,Public,CM
+ES,2023-06-08,Corpus Christi,Public,CM
+ES,2023-06-09,Día de La Rioja,Public,RI
+ES,2023-06-09,Día de la Región de Murcia,Public,MC
+ES,2023-06-13,San Antonio,Public,CE
+ES,2023-06-24,San Juan,Public,CT
+ES,2023-06-29,Fiesta del Sacrificio (Eid al-Adha),Public,ML
+ES,2023-07-25,Día Nacional de Galicia,Public,GA
+ES,2023-07-25,Santiago Apóstol,Public,NC
+ES,2023-07-28,Día de las Instituciones de Cantabria,Public,CB
+ES,2023-08-05,Nuestra Señora de Las Nieves,Public,CN-SC-LP
+ES,2023-08-05,Nuestra Señora de África,Public,CE
+ES,2023-08-15,Asunción de la Virgen,Public,National
+ES,2023-09-02,Día de Ceuta,Public,CE
+ES,2023-09-08,Nuestra Señora del Pino,Public,CN-LP-GC
+ES,2023-09-08,Día de Estremadura,Public,EX
+ES,2023-09-08,Día de Asturias,Public,AS
+ES,2023-09-11,Fiesta Nacional de Cataluña,Public,CT
+ES,2023-09-15,La Bien Aparecida,Public,CB
+ES,2023-09-15,Nuestra Señora de Los Volcanes,Public,CN-LP-LA
+ES,2023-09-15,Nuestra Señora de la Peña,Public,CN-LP-FV
+ES,2023-09-25,Nuestra Señora de Los Reyes,Public,CN-SC-EH
+ES,2023-10-09,Nuestra Señora de Guadalupe,Public,CN-SC-LG
+ES,2023-10-09,Día de la Comunitat Valenciana,Public,VC
+ES,2023-10-12,Fiesta Nacional de España,Public,National
+ES,2023-11-01,Todos los Santos,Public,National
+ES,2023-12-03,San Francisco Javier,Public,NC
+ES,2023-12-06,Día de la Constitución Española,Public,National
+ES,2023-12-08,Inmaculada Concepción,Public,National
+ES,2023-12-25,Navidad,Public,National
+ES,2023-12-26,San Esteban,Public,CT
+ES,2024-01-01,Año Nuevo,Public,National
+ES,2024-01-06,Epifanía del Señor,Public,National
+ES,2024-02-02,Virgen de la Candelaria,Public,CN-SC-TE
+ES,2024-02-13,Martes de Carnaval,Public,EX
+ES,2024-02-28,Día de Andalucía,Public,AN
+ES,2024-03-01,Día de las Illes Balears,Public,IB
+ES,2024-03-13,Estatuto de Autonomía de Melilla,Public,ML
+ES,2024-03-19,Día de San José,Public,VC
+ES,2024-03-28,Jueves Santo,Public,NC
+ES,2024-03-29,Viernes Santo,Public,National
+ES,2024-04-01,Lunes de Pascua,Public,NC
+ES,2024-04-10,Fiesta del fin del Ramadán (Eid al-Fitr),Public,ML
+ES,2024-04-23,Día de Castilla y León,Public,CL
+ES,2024-04-23,Día de Aragón,Public,AR
+ES,2024-05-01,Día del Trabajador,Public,National
+ES,2024-05-02,Día de la Comunidad de Madrid,Public,MD
+ES,2024-05-17,Día de las Letras Gallegas,Public,GA
+ES,2024-05-30,Corpus Christi,Public,CM
+ES,2024-05-30,Día de Canarias,Public,CN
+ES,2024-05-31,Día de Castilla-La Mancha,Public,CM
+ES,2024-06-10,Lunes siguiente a Día de La Rioja,Public,RI
+ES,2024-06-13,San Antonio,Public,CE
+ES,2024-06-17,Fiesta del Sacrificio (Eid al-Adha),Public,ML
+ES,2024-06-24,San Juan,Public,CT
+ES,2024-07-25,Santiago Apóstol,Public,NC
+ES,2024-07-25,Día Nacional de Galicia,Public,GA
+ES,2024-08-05,Nuestra Señora de África,Public,CE
+ES,2024-08-05,Nuestra Señora de Las Nieves,Public,CN-SC-LP
+ES,2024-08-15,Asunción de la Virgen,Public,National
+ES,2024-09-09,Lunes siguiente al Día de Asturias,Public,AS
+ES,2024-09-09,Nuestra Señora del Pino,Public,CN-LP-GC
+ES,2024-09-11,Fiesta Nacional de Cataluña,Public,CT
+ES,2024-09-16,Nuestra Señora de Los Volcanes,Public,CN-LP-LA
+ES,2024-09-17,Día de Melilla,Public,ML
+ES,2024-09-20,Nuestra Señora de la Peña,Public,CN-LP-FV
+ES,2024-09-24,Nuestra Señora de Los Reyes,Public,CN-SC-EH
+ES,2024-10-07,Nuestra Señora de Guadalupe,Public,CN-SC-LG
+ES,2024-10-09,Día de la Comunitat Valenciana,Public,VC
+ES,2024-10-12,Fiesta Nacional de España,Public,National
+ES,2024-11-01,Todos los Santos,Public,National
+ES,2024-12-03,San Francisco Javier,Public,NC
+ES,2024-12-06,Día de la Constitución Española,Public,National
+ES,2024-12-09,Lunes siguiente a la Inmaculada Concepción,Public,National
+ES,2024-12-25,Navidad,Public,National
+ES,2024-12-26,San Esteban,Public,CT
+ES,2021-12-22,Vacaciones de Navidad,School,CL
+ES,2021-12-22,Vacaciones de Navidad,School,GA
+ES,2021-12-23,No lectivos,School,CB
+ES,2021-12-23,Vacaciones de Navidad,School,EX
+ES,2021-12-23,Vacaciones de Navidad,School,RI
+ES,2021-12-23,Vacaciones de Navidad,School,VC
+ES,2021-12-23,Vacaciones de Navidad,School,AN-HL
+ES,2021-12-23,Vacaciones de Navidad,School,ML
+ES,2021-12-23,Vacaciones de Navidad,School,AN-SE
+ES,2021-12-23,Vacaciones de Navidad,School,CN
+ES,2021-12-23,Vacaciones de Navidad,School,IB
+ES,2021-12-23,Vacaciones de Navidad,School,MD
+ES,2021-12-23,Vacaciones de Navidad,School,AN-JA
+ES,2021-12-23,Vacaciones de Navidad,School,NC
+ES,2021-12-23,Descanso de Navidad,School,CM
+ES,2021-12-23,Vacaciones de Navidad,School,AN-CO
+ES,2021-12-23,Vacaciones de Navidad,School,CT
+ES,2021-12-23,Vacaciones de Navidad,School,CE
+ES,2021-12-23,Vacaciones de Navidad,School,AR
+ES,2021-12-24,Vacaciones de Navidad,School,AN-AL
+ES,2021-12-24,Vacaciones de Navidad,School,AN-GR
+ES,2021-12-24,Vacaciones de Navidad,School,PV
+ES,2021-12-24,Vacaciones de Navidad,School,AS
+ES,2021-12-24,Vacaciones de Navidad,School,AN-CA
+ES,2021-12-24,Vacaciones de Navidad,School,AN-MA
+ES,2021-12-24,Vacaciones de Navidad,School,MC
+ES,2022-01-07,Día no lectivo,School,MD
+ES,2022-01-07,Día no lectivo,School,AN-AL
+ES,2022-01-07,Día de la Comunidad Educativa,School,AN-MA
+ES,2022-01-07,Día no lectivo,School,AN-GR
+ES,2022-01-28,Día no lectivo,School,EX
+ES,2022-02-17,Día no lectivo,School,AR-HU
+ES,2022-02-18,Día no lectivo,School,AR-HU
+ES,2022-02-25,Día de la Comunidad Educativa,School,AN-HL
+ES,2022-02-25,Día no lectivo,School,AN-GR
+ES,2022-02-25,Día no lectivo,School,AS
+ES,2022-02-25,Día no lectivo,School,MD
+ES,2022-02-25,Día de la Comunidad Educativa,School,AN-SE
+ES,2022-02-25,Día de la Comunidad Educativa,School,AN-CO
+ES,2022-02-28,No lectivos,School,CB
+ES,2022-02-28,Semana Blanca,School,AN-MA
+ES,2022-02-28,Días de libre disposición,School,CM
+ES,2022-02-28,Día no lectivo,School,MD
+ES,2022-02-28,Día no lectivo,School,AS
+ES,2022-02-28,Carnavales,School,CL
+ES,2022-02-28,Fiesta Escolar Unificada,School,IB
+ES,2022-02-28,Festividad patronal del nivel educativo,School,NC
+ES,2022-02-28,Carnavales,School,EX
+ES,2022-02-28,Carnavales,School,GA
+ES,2022-03-01,Día no lectivo,School,AS
+ES,2022-03-01,Día de la Comunidad Educativa,School,AN-JA
+ES,2022-03-01,Día de la Comunidad Educativa,School,AN-CA
+ES,2022-03-01,Día de la Comunidad Educativa,School,AN-GR
+ES,2022-03-01,Día de la Comunidad Educativa,School,AN-AL
+ES,2022-03-04,Día no lectivo,School,AR-ZG
+ES,2022-03-11,Día de la Comunidad Educativa,School,RI
+ES,2022-03-14,Día no lectivo,School,RI
+ES,2022-04-04,Días de libre disposición,School,ML
+ES,2022-04-04,Días de libre disposición,School,CE
+ES,2022-04-06,Vacaciones de Semana Santa,School,CL
+ES,2022-04-08,Día no lectivo,School,MD
+ES,2022-04-09,Vacaciones de Pascua,School,MD
+ES,2022-04-10,Vacaciones de Semana Santa,School,AN-AL
+ES,2022-04-10,Vacaciones de Semana Santa,School,AN-GR
+ES,2022-04-11,Vacaciones de Semana Santa,School,CT
+ES,2022-04-11,Vacaciones de Semana Santa,School,AN-CA
+ES,2022-04-11,Vacaciones de Pascua,School,RI
+ES,2022-04-11,Vacaciones de Pascua,School,MC
+ES,2022-04-11,Vacaciones de Pascua,School,GA
+ES,2022-04-11,Vacaciones de Semana Santa,School,ML
+ES,2022-04-11,Vacaciones de Semana Santa,School,AN-CO
+ES,2022-04-11,Vacaciones de Semana Santa,School,CE
+ES,2022-04-11,Vacaciones de Semana Santa,School,AN-SE
+ES,2022-04-11,Vacaciones de Semana Santa,School,CN
+ES,2022-04-11,Descanso de Semana Santa,School,CM
+ES,2022-04-11,Vacaciones de Semana Santa,School,AR
+ES,2022-04-11,Vacaciones de Semana Santa,School,AN-HL
+ES,2022-04-11,Vacaciones de Pascua,School,EX
+ES,2022-04-11,Vacaciones de Semana Santa,School,AS
+ES,2022-04-11,Vacaciones de Semana Santa,School,AN-JA
+ES,2022-04-11,Vacaciones de Semana Santa,School,AN-MA
+ES,2022-04-14,No lectivos,School,CB
+ES,2022-04-14,Vacaciones de Pascua,School,NC
+ES,2022-04-14,Vacaciones de Pascua,School,VC
+ES,2022-04-14,Vacaciones de Semana Santa,School,IB
+ES,2022-04-14,Vacaciones de Pascua,School,PV
+ES,2022-04-18,Día no lectivo,School,MD
+ES,2022-05-02,Día no lectivo,School,RI
+ES,2022-05-02,Día no lectivo,School,MD
+ES,2022-05-03,Fin del Ramadán,School,CE
+ES,2022-06-10,Día no lectivo,School,RI
+ES,2022-06-16,Día no lectivo,School,CM
+ES,2022-06-22,Vacaciones de verano,School,EX
+ES,2022-06-22,Vacaciones de verano,School,VC
+ES,2022-06-22,Vacaciones de verano,School,PV
+ES,2022-06-23,Vacaciones de verano,School,CT
+ES,2022-06-23,Vacaciones de verano,School,AR
+ES,2022-06-23,Vacaciones de verano,School,ML
+ES,2022-06-23,Vacaciones de verano,School,AN-AL
+ES,2022-06-23,Vacaciones de verano,School,AN-CA
+ES,2022-06-23,Vacaciones de verano,School,GA
+ES,2022-06-23,Vacaciones de verano,School,NC
+ES,2022-06-24,Vacaciones de verano,School,AN-HL
+ES,2022-06-24,No lectivos,School,CB
+ES,2022-06-24,Vacaciones de verano,School,IB
+ES,2022-06-24,Vacaciones de verano,School,MC
+ES,2022-06-24,Vacaciones de verano,School,CN
+ES,2022-06-24,Vacaciones de verano,School,CE
+ES,2022-06-24,Vacaciones de verano,School,AN-JA
+ES,2022-06-24,Vacaciones de verano,School,CL
+ES,2022-06-25,Vacaciones de verano,School,RI
+ES,2022-06-25,Vacaciones de verano,School,AN-MA
+ES,2022-06-25,Vacaciones de verano,School,AN-SE
+ES,2022-06-25,Vacaciones de verano,School,AN-GR
+ES,2022-06-25,Vacaciones de verano,School,MD
+ES,2022-06-25,Vacaciones de verano,School,AN-CO
+ES,2022-06-25,Vacaciones de verano,School,CM
+ES,2022-07-01,Vacaciones de verano,School,AS
+ES,2022-10-10,Día no lectivo,School,AR-ZG
+ES,2022-10-11,Día no lectivo,School,AR
+ES,2022-10-31,Día no lectivo,School,AR
+ES,2022-10-31,Día no lectivo,School,CL
+ES,2022-10-31,Día de libre disposición,School,ML
+ES,2022-10-31,Día de la Educación,School,GA
+ES,2022-10-31,Día no lectivo,School,AN-GR
+ES,2022-10-31,Día de libre disposición,School,CE
+ES,2022-10-31,Día no lectivo,School,RI
+ES,2022-10-31,Día no lectivo,School,EX
+ES,2022-10-31,Día no lectivo,School,AS
+ES,2022-10-31,Día no lectivo,School,MD
+ES,2022-10-31,Día no lectivo,School,AN-AL
+ES,2022-11-02,Día no lectivo,School,AS
+ES,2022-11-18,Día no lectivo,School,CM
+ES,2022-11-22,Día no lectivo,School,EX
+ES,2022-11-25,Día no lectivo,School,EX
+ES,2022-11-28,Festividad patronal del nivel educativo,School,NC
+ES,2022-12-05,Día no lectivo,School,MD
+ES,2022-12-05,Día no lectivo,School,AR
+ES,2022-12-05,Día no lectivo,School,AN-AL
+ES,2022-12-05,Día de libre disposición,School,CE
+ES,2022-12-05,Día no lectivo,School,AN-CO
+ES,2022-12-05,Día de libre disposición,School,ML
+ES,2022-12-05,Día no lectivo,School,AS
+ES,2022-12-07,Día no lectivo,School,MD
+ES,2022-12-07,Día no lectivo,School,AN-AL
+ES,2022-12-09,Día no lectivo,School,CL
+ES,2022-12-09,Día no lectivo,School,EX
+ES,2022-12-22,Vacaciones de Navidad,School,CT
+ES,2022-12-22,Vacaciones de Navidad,School,AR
+ES,2022-12-22,Vacaciones de Navidad,School,CL
+ES,2022-12-23,Vacaciones de Navidad,School,VC
+ES,2022-12-23,Descanso de Navidad,School,CM
+ES,2022-12-23,No lectivos,School,CB
+ES,2022-12-23,Vacaciones de Navidad,School,NC
+ES,2022-12-23,Vacaciones de Navidad,School,EX
+ES,2022-12-23,Vacaciones de Navidad,School,IB
+ES,2022-12-23,Vacaciones de Navidad,School,AN-CO
+ES,2022-12-23,Vacaciones de Navidad,School,MD
+ES,2022-12-23,Vacaciones de Navidad,School,AN-SE
+ES,2022-12-23,Vacaciones de Navidad,School,CE
+ES,2022-12-23,Vacaciones de Navidad,School,GA
+ES,2022-12-23,Vacaciones de Navidad,School,AN-JA
+ES,2022-12-23,Vacaciones de Navidad,School,CN
+ES,2022-12-23,Vacaciones de Navidad,School,AN-HL
+ES,2022-12-23,Vacaciones de Navidad,School,ML
+ES,2022-12-24,Vacaciones de Navidad,School,AN-CA
+ES,2022-12-24,Vacaciones de Navidad,School,PV
+ES,2022-12-24,Vacaciones de Navidad,School,AN-GR
+ES,2022-12-24,Vacaciones de Navidad,School,AN-AL
+ES,2022-12-24,Vacaciones de Navidad,School,RI
+ES,2022-12-24,Vacaciones de Navidad,School,MC
+ES,2022-12-24,Vacaciones de Navidad,School,AN-MA
+ES,2022-12-27,Vacaciones de Navidad,School,AS
+ES,2023-02-16,Día no lectivo,School,AR-HU
+ES,2023-02-17,Día no lectivo,School,AR-HU
+ES,2023-02-17,Día no lectivo,School,AS
+ES,2023-02-17,Día de libre disposición,School,ML
+ES,2023-02-17,Día de libre disposición,School,CE
+ES,2023-02-20,Día no lectivo,School,AS
+ES,2023-02-20,Carnavales,School,GA
+ES,2023-02-20,Carnavales,School,EX
+ES,2023-02-20,Días de libre disposición,School,CM
+ES,2023-02-20,Carnavales,School,CL
+ES,2023-02-21,Día no lectivo,School,AS
+ES,2023-02-24,Día no lectivo,School,MD
+ES,2023-02-27,Día de la Comunidad Educativa,School,AN-CO
+ES,2023-02-27,Día de la Comunidad Educativa,School,AN-JA
+ES,2023-02-27,Día de la Comunidad Educativa,School,AN-CA
+ES,2023-02-27,Semana Blanca,School,AN-MA
+ES,2023-02-27,Día de la Comunidad Educativa,School,AN-GR
+ES,2023-02-27,Día de la Comunidad Educativa,School,AN-SE
+ES,2023-02-27,Día de la Comunidad Educativa,School,AN-AL
+ES,2023-02-27,Día no lectivo,School,MD
+ES,2023-02-27,Día de la Comunidad Educativa,School,AN-HL
+ES,2023-02-28,Fiesta Escolar Unificada,School,IB
+ES,2023-02-28,No lectivos,School,CB
+ES,2023-03-01,Día no lectivo,School,AN-AL
+ES,2023-03-01,Día no lectivo,School,AN-GR
+ES,2023-03-01,Día no lectivo,School,AN-CA
+ES,2023-03-02,Día no lectivo,School,AR-ZG
+ES,2023-03-09,Día no lectivo,School,RI
+ES,2023-03-10,Día de la Comunidad Educativa,School,RI
+ES,2023-03-27,Días de libre disposición,School,ML
+ES,2023-03-27,Días de libre disposición,School,CE
+ES,2023-03-29,Vacaciones de Semana Santa,School,CL
+ES,2023-03-31,Día no lectivo,School,MD
+ES,2023-04-01,Vacaciones de Pascua,School,MD
+ES,2023-04-01,Vacaciones de Pascua,School,RI
+ES,2023-04-02,Vacaciones de Semana Santa,School,AN-AL
+ES,2023-04-02,Vacaciones de Semana Santa,School,AN-GR
+ES,2023-04-03,Vacaciones de Semana Santa,School,AN-CO
+ES,2023-04-03,Vacaciones de Semana Santa,School,AN-CA
+ES,2023-04-03,Vacaciones de Semana Santa,School,AN-JA
+ES,2023-04-03,Descanso de Semana Santa,School,CM
+ES,2023-04-03,Vacaciones de Semana Santa,School,AR
+ES,2023-04-03,Vacaciones de Semana Santa,School,CE
+ES,2023-04-03,Vacaciones de Semana Santa,School,AN-SE
+ES,2023-04-03,Vacaciones de Semana Santa,School,AN-MA
+ES,2023-04-03,Vacaciones de Pascua,School,GA
+ES,2023-04-03,Vacaciones de Semana Santa,School,CT
+ES,2023-04-03,Vacaciones de Semana Santa,School,AN-HL
+ES,2023-04-03,Vacaciones de Pascua,School,MC
+ES,2023-04-03,Vacaciones de Semana Santa,School,AS
+ES,2023-04-03,Vacaciones de Semana Santa,School,CN
+ES,2023-04-03,Vacaciones de Pascua,School,EX
+ES,2023-04-03,Vacaciones de Semana Santa,School,ML
+ES,2023-04-06,Vacaciones de Pascua,School,PV
+ES,2023-04-06,Vacaciones de Pascua,School,VC
+ES,2023-04-06,No lectivos,School,CB
+ES,2023-04-06,Vacaciones de Pascua,School,NC
+ES,2023-04-06,Vacaciones de Semana Santa,School,IB
+ES,2023-04-10,Día no lectivo,School,MD
+ES,2023-04-20,Días de libre disposición,School,CE
+ES,2023-05-02,Día no lectivo,School,AN-CO
+ES,2023-05-02,Día no lectivo,School,AN-AL
+ES,2023-06-21,Vacaciones de verano,School,NC
+ES,2023-06-22,Vacaciones de verano,School,ML
+ES,2023-06-22,Vacaciones de verano,School,VC
+ES,2023-06-22,Vacaciones de verano,School,PV
+ES,2023-06-22,Vacaciones de verano,School,MD
+ES,2023-06-22,Vacaciones de verano,School,GA
+ES,2023-06-23,Vacaciones de verano,School,AN-CA
+ES,2023-06-23,Vacaciones de verano,School,CT
+ES,2023-06-23,Vacaciones de verano,School,AN-JA
+ES,2023-06-23,Vacaciones de verano,School,EX
+ES,2023-06-23,Vacaciones de verano,School,AN-AL
+ES,2023-06-24,Vacaciones de verano,School,AN-CO
+ES,2023-06-24,Vacaciones de verano,School,AN-GR
+ES,2023-06-24,Vacaciones de verano,School,CL
+ES,2023-06-24,Vacaciones de verano,School,AN-HL
+ES,2023-06-24,Vacaciones de verano,School,CM
+ES,2023-06-24,No lectivos,School,CB
+ES,2023-06-24,Vacaciones de verano,School,RI
+ES,2023-06-24,Vacaciones de verano,School,AR
+ES,2023-06-24,Vacaciones de verano,School,AS
+ES,2023-06-24,Vacaciones de verano,School,MC
+ES,2023-06-24,Vacaciones de verano,School,CE
+ES,2023-06-24,Vacaciones de verano,School,AN-SE
+ES,2023-06-24,Vacaciones de verano,School,CN
+ES,2023-06-24,Vacaciones de verano,School,AN-MA
+ES,2023-06-24,Vacaciones de verano,School,IB
+ES,2023-10-09,Día de la Comunitat Valenciana,School,EX
+ES,2023-10-13,Día no lectivo,School,CM
+ES,2023-10-13,Día no lectivo,School,AR
+ES,2023-10-13,Día no lectivo,School,MD
+ES,2023-10-13,Día no lectivo,School,EX
+ES,2023-10-13,Día no lectivo,School,RI
+ES,2023-10-13,Día de libre disposición,School,CE
+ES,2023-10-13,Día no lectivo,School,AN-CO
+ES,2023-10-13,Día de libre disposición,School,ML
+ES,2023-10-13,Día no lectivo,School,CL
+ES,2023-10-13,Día no lectivo,School,AN-AL
+ES,2023-10-30,No lectivos,School,CB
+ES,2023-11-02,Día de la Comunidad Educativa,School,AN-HL
+ES,2023-11-02,No lectivos,School,CB
+ES,2023-11-02,Día no lectivo,School,AS
+ES,2023-11-03,Día no lectivo,School,AS
+ES,2023-11-17,Día no lectivo,School,CM
+ES,2023-11-22,Día no lectivo,School,EX
+ES,2023-11-27,Festividad patronal del nivel educativo,School,NC
+ES,2023-12-07,Día de la Educación,School,GA
+ES,2023-12-07,Día no lectivo,School,RI
+ES,2023-12-07,Día de libre disposición,School,CE
+ES,2023-12-07,Día no lectivo,School,CL
+ES,2023-12-07,Día no lectivo,School,AN-AL
+ES,2023-12-07,Día no lectivo,School,AN-CO
+ES,2023-12-07,No lectivos,School,CB
+ES,2023-12-07,Día no lectivo,School,MD
+ES,2023-12-07,Día no lectivo,School,EX
+ES,2023-12-07,Día no lectivo,School,CM
+ES,2023-12-07,Día no lectivo,School,AN-GR
+ES,2023-12-07,Día no lectivo,School,AR
+ES,2023-12-07,Día no lectivo,School,AN-JA
+ES,2023-12-07,Día no lectivo,School,AS
+ES,2023-12-07,Día de la Comunidad Educativa,School,AN-CA
+ES,2023-12-07,Día de libre disposición,School,ML
+ES,2023-12-21,Vacaciones de Navidad,School,CT
+ES,2023-12-22,Vacaciones de Navidad,School,GA
+ES,2023-12-22,Día no lectivo,School,AN-AL
+ES,2023-12-22,Vacaciones de Navidad,School,EX
+ES,2023-12-22,Vacaciones de Navidad,School,AR
+ES,2023-12-22,Vacaciones de Navidad,School,CL
+ES,2023-12-22,Vacaciones de Navidad,School,IB
+ES,2023-12-23,Vacaciones de Navidad,School,ML
+ES,2023-12-23,Vacaciones de Navidad,School,PV
+ES,2023-12-23,Vacaciones de Navidad,School,AN-CA
+ES,2023-12-23,Vacaciones de Navidad,School,AN-HL
+ES,2023-12-23,Vacaciones de Navidad,School,NC
+ES,2023-12-23,Vacaciones de Navidad,School,AN-CO
+ES,2023-12-23,Vacaciones de Navidad,School,VC
+ES,2023-12-23,Vacaciones de Navidad,School,RI
+ES,2023-12-23,Vacaciones de Navidad,School,AN-AL
+ES,2023-12-23,Descanso de Navidad,School,CM
+ES,2023-12-23,Vacaciones de Navidad,School,MD
+ES,2023-12-23,Vacaciones de Navidad,School,AN-GR
+ES,2023-12-24,Vacaciones de Navidad,School,MC
+ES,2023-12-25,Vacaciones de Navidad,School,AN-JA
+ES,2023-12-25,Vacaciones de Navidad,School,AN-SE
+ES,2023-12-25,Vacaciones de Navidad,School,CE
+ES,2023-12-25,Vacaciones de Navidad,School,CN
+ES,2023-12-25,Vacaciones de Navidad,School,AN-MA
+ES,2023-12-26,Vacaciones de Navidad,School,AS
+ES,2023-12-26,No lectivos,School,CB
+ES,2024-01-26,Día no lectivo,School,EX
+ES,2024-02-12,Carnavales,School,EX
+ES,2024-02-12,Días de libre disposición,School,CM
+ES,2024-02-12,Carnavales,School,GA
+ES,2024-02-12,No lectivos,School,CB
+ES,2024-02-12,Carnavales,School,CL
+ES,2024-02-12,Día no lectivo,School,AS
+ES,2024-02-13,Día no lectivo,School,AS
+ES,2024-02-15,Días de libre disposición,School,CE
+ES,2024-02-15,Día no lectivo,School,AR-HU
+ES,2024-02-16,Día no lectivo,School,AR-HU
+ES,2024-02-16,Días de libre disposición,School,ML
+ES,2024-02-17,Día de la Comunidad Educativa,School,RI
+ES,2024-02-22,Días de libre disposición,School,MD
+ES,2024-02-26,Semana Blanca,School,AN-MA
+ES,2024-02-26,Día no lectivo,School,AN-CA
+ES,2024-02-26,Día no lectivo,School,AN-CO
+ES,2024-02-27,Día no lectivo,School,AN-CA
+ES,2024-02-27,Día de la Comunidad Educativa,School,AN-SE
+ES,2024-02-27,Día de la Comunidad Educativa,School,AN-CO
+ES,2024-02-29,Día de la Comunidad Educativa,School,AN-AL
+ES,2024-02-29,Día de la Comunidad Educativa,School,AN-GR
+ES,2024-02-29,Fiesta Escolar Unificada,School,IB
+ES,2024-02-29,Día de la Comunidad Educativa,School,AN-JA
+ES,2024-03-01,Día no lectivo,School,AN-AL
+ES,2024-03-01,Día no lectivo,School,AN-CO
+ES,2024-03-01,Día no lectivo,School,AN-GR
+ES,2024-03-04,Día no lectivo,School,AR-ZG
+ES,2024-03-18,Días de libre disposición,School,ML
+ES,2024-03-18,Días de libre disposición,School,CE
+ES,2024-03-22,Día no lectivo,School,MD
+ES,2024-03-22,Vacaciones de Semana Santa,School,CL
+ES,2024-03-23,Vacaciones de Semana Santa,School,AN-AL
+ES,2024-03-23,Vacaciones de Semana Santa,School,AN-CO
+ES,2024-03-23,Vacaciones de Pascua,School,MD
+ES,2024-03-23,Vacaciones de Semana Santa,School,CT
+ES,2024-03-25,Vacaciones de Pascua,School,EX
+ES,2024-03-25,Vacaciones de Semana Santa,School,AN-HL
+ES,2024-03-25,Vacaciones de Semana Santa,School,AN-CA
+ES,2024-03-25,No lectivos,School,CB
+ES,2024-03-25,Descanso de Semana Santa,School,CM
+ES,2024-03-25,Vacaciones de Semana Santa,School,AS
+ES,2024-03-25,Vacaciones de Semana Santa,School,AN-MA
+ES,2024-03-25,Vacaciones de Pascua,School,GA
+ES,2024-03-25,Vacaciones de Semana Santa,School,AN-GR
+ES,2024-03-25,Vacaciones de Semana Santa,School,AN-SE
+ES,2024-03-25,Vacaciones de Semana Santa,School,CN
+ES,2024-03-25,Vacaciones de Semana Santa,School,ML
+ES,2024-03-25,Vacaciones de Pascua,School,MC
+ES,2024-03-25,Vacaciones de Semana Santa,School,CE
+ES,2024-03-25,Vacaciones de Semana Santa,School,AN-JA
+ES,2024-03-28,Vacaciones de Pascua,School,NC
+ES,2024-03-28,Vacaciones de Pascua,School,VC
+ES,2024-03-28,Vacaciones de Pascua,School,RI
+ES,2024-03-28,Vacaciones de Semana Santa,School,AR
+ES,2024-03-28,Vacaciones de Semana Santa,School,IB
+ES,2024-03-28,Vacaciones de Pascua,School,PV
+ES,2024-04-01,Día no lectivo,School,MD
+ES,2024-04-10,Día de libre disposición,School,CE
+ES,2024-04-22,Día no lectivo,School,AR-ZG
+ES,2024-04-22,Día no lectivo,School,CL
+ES,2024-05-02,Día no lectivo,School,AS
+ES,2024-05-02,No lectivos,School,CB
+ES,2024-05-03,Día no lectivo,School,MD
+ES,2024-05-03,Día no lectivo,School,AS
+ES,2024-06-19,Fin de lecciones,School,NC
+ES,2024-06-20,Vacaciones de verano,School,MC
+ES,2024-06-21,Vacaciones de verano,School,EX
+ES,2024-06-22,Vacaciones de verano,School,CN
+ES,2024-06-22,Vacaciones de verano,School,MD
+ES,2024-06-22,Vacaciones de verano,School,RI
+ES,2024-06-22,Vacaciones de verano,School,IB
+ES,2024-06-22,Vacaciones de verano,School,GA
+ES,2024-06-22,Vacaciones de verano,School,CE
+ES,2024-06-22,Vacaciones de verano,School,CM
+ES,2024-06-22,Vacaciones de verano,School,ML
+ES,2024-06-22,Vacaciones de verano,School,AN-AL
+ES,2024-06-22,Vacaciones de verano,School,VC
+ES,2024-06-22,Vacaciones de verano,School,CT
+ES,2024-06-22,Vacaciones de verano,School,CL
+ES,2024-06-23,Vacaciones de verano,School,PV
+ES,2024-06-23,Fin de lecciones,School,AS
+ES,2024-06-23,Vacaciones de verano,School,AN-CO
+ES,2024-06-24,Vacaciones de verano,School,AN-JA
+ES,2024-06-24,Vacaciones de verano,School,AN-GR
+ES,2024-06-25,Vacaciones de verano,School,AN-SE
+ES,2024-06-25,Vacaciones de verano,School,AN-CA
+ES,2024-06-25,Vacaciones de verano,School,AN-MA
+ES,2024-06-25,Vacaciones de verano,School,AR
+ES,2024-06-26,Vacaciones de verano,School,AN-HL
+ES,2024-06-26,No lectivos,School,CB
+ES,2024-10-10,Día no lectivo,School,AR-ZG
+ES,2024-10-11,Día no lectivo,School,AN-AL
+ES,2024-10-11,Día no lectivo,School,AR-ZG
+ES,2024-10-28,No lectivos,School,CB
+ES,2024-10-30,Día no lectivo,School,AS
+ES,2024-10-31,Día no lectivo,School,CL
+ES,2024-10-31,Día no lectivo,School,AS
+ES,2024-11-15,Día no lectivo,School,CM
+ES,2024-11-22,Día no lectivo,School,EX
+ES,2024-11-25,Día no lectivo,School,EX
+ES,2024-12-07,Día no lectivo,School,AN-AL
+ES,2024-12-20,Vacaciones de Navidad,School,AR
+ES,2024-12-21,Vacaciones de Navidad,School,CT
+ES,2024-12-21,Vacaciones de Navidad,School,IB
+ES,2024-12-21,Vacaciones de Navidad,School,CL
+ES,2024-12-21,Vacaciones de Navidad,School,MD
+ES,2024-12-23,Vacaciones de Navidad,School,AN-SE
+ES,2024-12-23,Vacaciones de Navidad,School,VC
+ES,2024-12-23,Vacaciones de Navidad,School,ML
+ES,2024-12-23,Vacaciones de Navidad,School,AS
+ES,2024-12-23,Día no lectivo,School,AN-AL
+ES,2024-12-23,Vacaciones de Navidad,School,CN
+ES,2024-12-23,Descanso de Navidad,School,CM
+ES,2024-12-23,Vacaciones de Navidad,School,RI
+ES,2024-12-23,Vacaciones de Navidad,School,AN-MA
+ES,2024-12-23,Vacaciones de Navidad,School,AN-CA
+ES,2024-12-23,No lectivos,School,CB
+ES,2024-12-23,Vacaciones de Navidad,School,AN-CO
+ES,2024-12-23,Vacaciones de Navidad,School,CE
+ES,2024-12-23,Vacaciones de Navidad,School,AN-JA
+ES,2024-12-23,Vacaciones de Navidad,School,AN-HL
+ES,2024-12-23,Vacaciones de Navidad,School,GA
+ES,2024-12-23,Vacaciones de Navidad,School,EX
+ES,2024-12-24,Vacaciones de Navidad,School,PV
+ES,2024-12-24,Vacaciones de Navidad,School,AN-AL
+ES,2024-12-24,Vacaciones de Navidad,School,AN-GR
+ES,2024-12-24,Vacaciones de Navidad,School,MC
+FR,2022-01-01,Jour de l'an,Public,National
+FR,2022-04-15,Vendredi saint,Public,GE-MO
+FR,2022-04-18,Lundi de Pâques,Public,National
+FR,2022-04-27,Abolition de l'esclavage,Public,YT
+FR,2022-05-01,Fête du Travail,Public,National
+FR,2022-05-08,Victoire 1945,Public,National
+FR,2022-05-22,Abolition de l'esclavage,Public,MQ
+FR,2022-05-26,Ascension,Public,National
+FR,2022-05-27,Abolition de l'esclavage,Public,MF
+FR,2022-06-06,Lundi de Pentecôte,Public,National
+FR,2022-06-10,Abolition de l'esclavage,Public,GY
+FR,2022-07-14,Fête nationale,Public,National
+FR,2022-08-15,Assomption,Public,National
+FR,2022-10-09,Abolition de l'esclavage,Public,BL
+FR,2022-11-01,Toussaint,Public,National
+FR,2022-11-11,Armistice 1918,Public,National
+FR,2022-12-20,Abolition de l'esclavage,Public,RU
+FR,2022-12-25,Noël,Public,National
+FR,2022-12-26,2ème jour de Noël,Public,GE-MO
+FR,2023-01-01,Jour de l'an,Public,National
+FR,2023-04-07,Vendredi saint,Public,GE-MO
+FR,2023-04-10,Lundi de Pâques,Public,National
+FR,2023-04-27,Abolition de l'esclavage,Public,YT
+FR,2023-05-01,Fête du Travail,Public,National
+FR,2023-05-08,Victoire 1945,Public,National
+FR,2023-05-18,Ascension,Public,National
+FR,2023-05-22,Abolition de l'esclavage,Public,MQ
+FR,2023-05-27,Abolition de l'esclavage,Public,MF
+FR,2023-05-29,Lundi de Pentecôte,Public,National
+FR,2023-06-10,Abolition de l'esclavage,Public,GY
+FR,2023-07-14,Fête nationale,Public,National
+FR,2023-08-15,Assomption,Public,National
+FR,2023-10-09,Abolition de l'esclavage,Public,BL
+FR,2023-11-01,Toussaint,Public,National
+FR,2023-11-11,Armistice 1918,Public,National
+FR,2023-12-20,Abolition de l'esclavage,Public,RU
+FR,2023-12-25,Noël,Public,National
+FR,2023-12-26,2ème jour de Noël,Public,GE-MO
+FR,2024-01-01,Jour de l'an,Public,National
+FR,2024-03-29,Vendredi saint,Public,GE-MO
+FR,2024-04-01,Lundi de Pâques,Public,National
+FR,2024-04-27,Abolition de l'esclavage,Public,YT
+FR,2024-05-01,Fête du Travail,Public,National
+FR,2024-05-08,Victoire 1945,Public,National
+FR,2024-05-09,Ascension,Public,National
+FR,2024-05-20,Lundi de Pentecôte,Public,National
+FR,2024-05-22,Abolition de l'esclavage,Public,MQ
+FR,2024-05-27,Abolition de l'esclavage,Public,MF
+FR,2024-06-10,Abolition de l'esclavage,Public,GY
+FR,2024-07-14,Fête nationale,Public,National
+FR,2024-08-15,Assomption,Public,National
+FR,2024-10-09,Abolition de l'esclavage,Public,BL
+FR,2024-11-01,Toussaint,Public,National
+FR,2024-11-11,Armistice 1918,Public,National
+FR,2024-12-20,Abolition de l'esclavage,Public,RU
+FR,2024-12-25,Noël,Public,National
+FR,2024-12-26,2ème jour de Noël,Public,GE-MO
+FR,2021-12-19,Vacances de Noël,School,HF
+FR,2022-02-06,Vacances d'hiver,School,HF
+FR,2022-02-13,Vacances d'hiver,School,AR
+FR,2022-02-20,Vacances d'hiver,School,OC
+FR,2022-04-10,Vacances de printemps,School,HF
+FR,2022-04-17,Vacances de printemps,School,AR
+FR,2022-04-24,Vacances de printemps,School,OC
+FR,2022-05-26,Pont de l'Ascension,School,HF
+FR,2022-07-08,Vacances d'été,School,HF
+FR,2022-07-09,Vacances d'été,School,CO
+FR,2022-10-23,Vacances de la Toussaint,School,HF
+FR,2022-12-18,Vacances de Noël,School,HF
+FR,2023-02-05,Vacances d'hiver,School,AR
+FR,2023-02-12,Vacances d'hiver,School,HF
+FR,2023-02-19,Vacances d'hiver,School,OC
+FR,2023-04-09,Vacances de printemps,School,AR
+FR,2023-04-16,Vacances de printemps,School,HF
+FR,2023-04-23,Vacances de printemps,School,OC
+FR,2023-05-18,Pont de l'Ascension,School,HF
+FR,2023-07-08,Vacances d'été,School,CO
+FR,2023-07-09,Vacances d'été,School,HF
+FR,2023-10-22,Vacances de la Toussaint,School,HF
+FR,2023-12-24,Vacances de Noël,School,HF
+FR,2024-02-11,Vacances d'hiver,School,OC
+FR,2024-02-18,Vacances d'hiver,School,AR
+FR,2024-02-25,Vacances d'hiver,School,HF
+FR,2024-04-07,Vacances de printemps,School,OC
+FR,2024-04-14,Vacances de printemps,School,AR
+FR,2024-04-21,Vacances de printemps,School,HF
+FR,2024-04-28,Vacances de printemps,School,CO
+FR,2024-07-07,Vacances d'été,School,HF
+FR,2024-07-07,Vacances d'été,School,CO
+FR,2024-10-12,Vacances de la Toussaint,School,YT
+FR,2024-10-12,Vacances après première période,School,RU
+FR,2024-10-19,Vacances de la Toussaint,School,HF
+FR,2024-10-22,Vacances de la Toussaint,School,MF
+FR,2024-10-23,Vacances de la Toussaint,School,SP
+FR,2024-12-14,Vacances de Noël,School,YT
+FR,2024-12-19,Vacances d'été austral,School,RU
+FR,2024-12-21,Vacances de Noël,School,HF
+HR,2022-01-01,Nova Godina,Public,National
+HR,2022-01-06,Bogojavljanje ili Sveta tri kralja,Public,National
+HR,2022-04-18,Uskrsni ponedjeljak,Public,National
+HR,2022-05-01,Praznik rada,Public,National
+HR,2022-05-30,Dan državnosti,Public,National
+HR,2022-06-16,Tijelovo,Public,National
+HR,2022-06-22,Dan antifašističke borbe,Public,National
+HR,2022-08-05,Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja,Public,National
+HR,2022-08-15,Velika Gospa,Public,National
+HR,2022-11-01,Svi sveti,Public,National
+HR,2022-11-18,Dan sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje,Public,National
+HR,2022-12-25,Božić,Public,National
+HR,2022-12-26,Božić,Public,National
+HR,2023-01-01,Nova Godina,Public,National
+HR,2023-01-06,Bogojavljanje ili Sveta tri kralja,Public,National
+HR,2023-04-10,Uskrsni ponedjeljak,Public,National
+HR,2023-05-01,Praznik rada,Public,National
+HR,2023-05-30,Dan državnosti,Public,National
+HR,2023-06-08,Tijelovo,Public,National
+HR,2023-06-22,Dan antifašističke borbe,Public,National
+HR,2023-08-05,Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja,Public,National
+HR,2023-08-15,Velika Gospa,Public,National
+HR,2023-11-01,Svi sveti,Public,National
+HR,2023-11-18,Dan sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje,Public,National
+HR,2023-12-25,Božić,Public,National
+HR,2023-12-26,Božić,Public,National
+HR,2024-01-01,Nova Godina,Public,National
+HR,2024-01-06,Bogojavljanje ili Sveta tri kralja,Public,National
+HR,2024-04-01,Uskrsni ponedjeljak,Public,National
+HR,2024-04-17,Dan izbora,Public,National
+HR,2024-05-01,Praznik rada,Public,National
+HR,2024-05-30,Dan državnosti,Public,National
+HR,2024-05-30,Tijelovo,Public,National
+HR,2024-06-22,Dan antifašističke borbe,Public,National
+HR,2024-08-05,Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja,Public,National
+HR,2024-08-15,Velika Gospa,Public,National
+HR,2024-11-01,Svi sveti,Public,National
+HR,2024-11-18,Dan sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje,Public,National
+HR,2024-12-25,Božić,Public,National
+HR,2024-12-26,Božić,Public,National
+HR,2021-12-24,Zimski odmor (prvi dio),School,National
+HR,2022-02-21,Zimski odmor (drugi dio),School,National
+HR,2022-04-14,Proljetni odmor,School,National
+HR,2022-06-23,Ljetni odmor,School,National
+HR,2022-10-31,Jesenski odmor,School,National
+HR,2022-12-27,Zimski odmor (prvi dio),School,National
+HR,2023-02-20,Zimski odmor (drugi dio),School,National
+HR,2023-04-06,Proljetni odmor,School,National
+HR,2023-06-23,Ljetni odmor,School,National
+HR,2023-10-30,Jesenski odmor,School,National
+HR,2023-12-27,Zimski odmor (prvi dio),School,National
+HR,2024-02-19,Zimski odmor (drugi dio),School,National
+HR,2024-03-28,Proljetni odmor,School,National
+HR,2024-06-24,Ljetni odmor,School,National
+HR,2024-10-31,Jesenski odmor,School,National
+HR,2024-12-23,Zimski odmor (prvi dio),School,National
+HU,2022-01-01,Újév,Public,National
+HU,2022-03-15,Nemzeti ünnep,Public,National
+HU,2022-04-15,Nagypéntek,Public,National
+HU,2022-04-18,Húsvéthétfő,Public,National
+HU,2022-05-01,A munka ünnepe,Public,National
+HU,2022-06-06,Pünkösdhétfő,Public,National
+HU,2022-08-20,Az államalapítás ünnepe,Public,National
+HU,2022-10-23,Nemzeti ünnep,Public,National
+HU,2022-11-01,Mindenszentek,Public,National
+HU,2022-12-25,Karácsony,Public,National
+HU,2022-12-26,Karácsony másnapja,Public,National
+HU,2023-01-01,Újév,Public,National
+HU,2023-03-15,Nemzeti ünnep,Public,National
+HU,2023-04-07,Nagypéntek,Public,National
+HU,2023-04-10,Húsvéthétfő,Public,National
+HU,2023-05-01,A munka ünnepe,Public,National
+HU,2023-05-29,Pünkösdhétfő,Public,National
+HU,2023-08-20,Az államalapítás ünnepe,Public,National
+HU,2023-10-23,Nemzeti ünnep,Public,National
+HU,2023-11-01,Mindenszentek,Public,National
+HU,2023-12-25,Karácsony,Public,National
+HU,2023-12-26,Karácsony másnapja,Public,National
+HU,2024-01-01,Újév,Public,National
+HU,2024-03-15,Nemzeti ünnep,Public,National
+HU,2024-03-29,Nagypéntek,Public,National
+HU,2024-04-01,Húsvéthétfő,Public,National
+HU,2024-05-01,A munka ünnepe,Public,National
+HU,2024-05-20,Pünkösdhétfő,Public,National
+HU,2024-08-20,Az államalapítás ünnepe,Public,National
+HU,2024-10-23,Nemzeti ünnep,Public,National
+HU,2024-11-01,Mindenszentek,Public,National
+HU,2024-12-25,Karácsony,Public,National
+HU,2024-12-26,Karácsony másnapja,Public,National
+HU,2021-12-22,Téli szünet,School,National
+HU,2022-04-14,Tavaszi szünet,School,National
+HU,2022-06-16,Nyári szünet,School,National
+HU,2022-10-29,Őszi szünet,School,National
+HU,2022-12-22,Téli szünet,School,National
+HU,2023-04-06,Tavaszi szünet,School,National
+HU,2023-06-16,Nyári szünet,School,National
+HU,2023-10-28,Őszi szünet,School,National
+HU,2023-12-21,Téli szünet,School,National
+HU,2024-03-29,Tavaszi szünet,School,National
+HU,2024-06-16,Nyári szünet,School,National
+HU,2024-10-26,Őszi szünet,School,National
+HU,2024-12-21,Téli szünet,School,National
+IE,2022-01-01,Lá Caille,Public,National
+IE,2022-03-17,Lá Fhéile Pádraig,Public,National
+IE,2022-04-18,Luan Cásca,Public,National
+IE,2022-05-02,Lá Bealtaine,Public,National
+IE,2022-06-06,Lá Saoire i mí an Mheithimh,Public,National
+IE,2022-08-01,Lá Saoire i mí Lúnasa,Public,National
+IE,2022-10-31,Lá Saoire i mí Dheireadh Fómhair,Public,National
+IE,2022-12-25,Lá Nollag,Public,National
+IE,2022-12-26,Lá Fhéile Stiofáin,Public,National
+IE,2023-01-01,Lá Caille,Public,National
+IE,2023-02-06,Lá Fhéile Bríde,Public,National
+IE,2023-03-17,Lá Fhéile Pádraig,Public,National
+IE,2023-04-10,Luan Cásca,Public,National
+IE,2023-05-01,Lá Bealtaine,Public,National
+IE,2023-06-05,Lá Saoire i mí an Mheithimh,Public,National
+IE,2023-08-07,Lá Saoire i mí Lúnasa,Public,National
+IE,2023-10-30,Lá Saoire i mí Dheireadh Fómhair,Public,National
+IE,2023-12-25,Lá Nollag,Public,National
+IE,2023-12-26,Lá Fhéile Stiofáin,Public,National
+IE,2024-01-01,Lá Caille,Public,National
+IE,2024-02-05,Lá Fhéile Bríde,Public,National
+IE,2024-03-17,Lá Fhéile Pádraig,Public,National
+IE,2024-04-01,Luan Cásca,Public,National
+IE,2024-05-06,Lá Bealtaine,Public,National
+IE,2024-06-03,Lá Saoire i mí an Mheithimh,Public,National
+IE,2024-08-05,Lá Saoire i mí Lúnasa,Public,National
+IE,2024-10-28,Lá Saoire i mí Dheireadh Fómhair,Public,National
+IE,2024-12-25,Lá Nollag,Public,National
+IE,2024-12-26,Lá Fhéile Stiofáin,Public,National
+IE,2021-12-22,Christmas,School,National
+IE,2022-02-21,February mid-term break,School,National
+IE,2022-02-24,February mid-term break,School,National
+IE,2022-04-08,Easter,School,National
+IE,2022-10-31,October mid-term break,School,National
+IE,2022-12-21,Christmas,School,National
+IE,2023-02-13,February mid-term break,School,National
+IE,2023-02-16,February mid-term break,School,National
+IE,2023-03-31,Easter,School,National
+IE,2023-10-30,October mid-term break,School,National
+IE,2023-12-22,Christmas,School,National
+IE,2024-02-12,February mid-term break,School,National
+IE,2024-02-15,February mid-term break,School,National
+IE,2024-03-22,Easter,School,National
+IE,2024-10-28,October mid-term break,School,National
+IE,2024-12-20,Christmas,School,National
+IT,2022-01-01,Capodanno,Public,National
+IT,2022-01-06,Epifania,Public,National
+IT,2022-04-18,Lunedì di Pasqua,Public,National
+IT,2022-04-25,Festa di San Marco,Public,VE-VE
+IT,2022-04-25,Anniversario della liberazione d'Italia,Public,National
+IT,2022-04-28,Sa Die de Sa Sardigna,Public,SA
+IT,2022-05-01,Festa del lavoro,Public,National
+IT,2022-06-02,Festa della Repubblica,Public,National
+IT,2022-06-24,San Giovanni Battista,Public,TO-FI
+IT,2022-06-29,Santi Pietro e Paolo,Public,LA-RM
+IT,2022-07-15,Santa Rosalia,Public,SI-PA
+IT,2022-08-15,Ferragosto,Public,National
+IT,2022-09-19,San Gennaro,Public,CM-NA
+IT,2022-10-04,San Petronio,Public,ER-BO
+IT,2022-10-30,San Saturnino,Public,SA-CA
+IT,2022-11-01,Ognissanti,Public,National
+IT,2022-11-03,San Giusto,Public,FV-TS
+IT,2022-12-06,San Nicola,Public,PU-BA
+IT,2022-12-07,Sant'Ambrogio,Public,LO-MI
+IT,2022-12-08,Immacolata Concezione,Public,National
+IT,2022-12-25,Natale di Gesù,Public,National
+IT,2022-12-26,Santo Stefano,Public,National
+IT,2023-01-01,Capodanno,Public,National
+IT,2023-01-06,Epifania,Public,National
+IT,2023-04-10,Lunedì di Pasqua,Public,National
+IT,2023-04-25,Festa di San Marco,Public,VE-VE
+IT,2023-04-25,Anniversario della liberazione d'Italia,Public,National
+IT,2023-04-28,Sa Die de Sa Sardigna,Public,SA
+IT,2023-05-01,Festa del lavoro,Public,National
+IT,2023-06-02,Festa della Repubblica,Public,National
+IT,2023-06-24,San Giovanni Battista,Public,TO-FI
+IT,2023-06-29,Santi Pietro e Paolo,Public,LA-RM
+IT,2023-07-15,Santa Rosalia,Public,SI-PA
+IT,2023-08-15,Ferragosto,Public,National
+IT,2023-09-19,San Gennaro,Public,CM-NA
+IT,2023-10-04,San Petronio,Public,ER-BO
+IT,2023-10-30,San Saturnino,Public,SA-CA
+IT,2023-11-01,Ognissanti,Public,National
+IT,2023-11-03,San Giusto,Public,FV-TS
+IT,2023-12-06,San Nicola,Public,PU-BA
+IT,2023-12-07,Sant'Ambrogio,Public,LO-MI
+IT,2023-12-08,Immacolata Concezione,Public,National
+IT,2023-12-25,Natale di Gesù,Public,National
+IT,2023-12-26,Santo Stefano,Public,National
+IT,2024-01-01,Capodanno,Public,National
+IT,2024-01-06,Epifania,Public,National
+IT,2024-04-01,Lunedì di Pasqua,Public,National
+IT,2024-04-25,Festa di San Marco,Public,VE-VE
+IT,2024-04-25,Anniversario della liberazione d'Italia,Public,National
+IT,2024-04-28,Sa Die de Sa Sardigna,Public,SA
+IT,2024-05-01,Festa del lavoro,Public,National
+IT,2024-06-02,Festa della Repubblica,Public,National
+IT,2024-06-24,San Giovanni Battista,Public,TO-FI
+IT,2024-06-29,Santi Pietro e Paolo,Public,LA-RM
+IT,2024-07-15,Santa Rosalia,Public,SI-PA
+IT,2024-08-15,Ferragosto,Public,National
+IT,2024-09-19,San Gennaro,Public,CM-NA
+IT,2024-10-04,San Petronio,Public,ER-BO
+IT,2024-10-30,San Saturnino,Public,SA-CA
+IT,2024-11-01,Ognissanti,Public,National
+IT,2024-11-03,San Giusto,Public,FV-TS
+IT,2024-12-06,San Nicola,Public,PU-BA
+IT,2024-12-07,Sant'Ambrogio,Public,LO-MI
+IT,2024-12-08,Immacolata Concezione,Public,National
+IT,2024-12-25,Natale di Gesù,Public,National
+IT,2024-12-26,Santo Stefano,Public,National
+IT,2021-12-23,festività natalizie,School,UM
+IT,2021-12-23,festività natalizie,School,LO
+IT,2021-12-23,festività natalizie,School,MO
+IT,2021-12-23,festività natalizie,School,PU
+IT,2021-12-24,festività natalizie,School,LI
+IT,2021-12-24,festività natalizie,School,CL
+IT,2021-12-24,festività natalizie,School,AB
+IT,2022-01-31,vacanza galleggiante,School,VA
+IT,2022-02-26,vacanze galleggianti,School,PI
+IT,2022-02-28,vacanza galleggiante,School,LO
+IT,2022-02-28,vacanza galleggiante,School,FV
+IT,2022-03-01,vacanza galleggiante,School,LO
+IT,2022-03-01,vacanza galleggiante,School,AB
+IT,2022-03-02,vacanza galleggiante,School,FV
+IT,2022-03-03,vacanza galleggiante,School,TR-BZ
+IT,2022-03-04,vacanze galleggianti,School,TR-BZ
+IT,2022-03-04,vacanze galleggianti,School,LO
+IT,2022-03-06,vacanza galleggiante,School,TR-BZ
+IT,2022-04-14,festività pasquali,School,National
+IT,2022-04-23,vacanza galleggiante,School,TR-BZ
+IT,2022-04-28,vacanza galleggiante,School,SA
+IT,2022-06-03,vacanze galleggianti,School,LI
+IT,2022-06-05,vacanze estive,School,MA
+IT,2022-06-05,vacanze galleggianti,School,TR-BZ
+IT,2022-06-05,vacanze estive,School,ER
+IT,2022-06-09,vacanze estive,School,LO
+IT,2022-06-09,vacanze estive,School,LA
+IT,2022-06-09,vacanze estive,School,MO
+IT,2022-06-09,vacanze estive,School,CM
+IT,2022-06-09,vacanze estive,School,VA
+IT,2022-06-10,vacanze estive,School,UM
+IT,2022-06-11,vacanze estive,School,LI
+IT,2022-06-11,vacanze estive,School,TR-TN
+IT,2022-06-11,vacanze estive,School,SI
+IT,2022-06-11,vacanze estive,School,TO
+IT,2022-06-12,vacanze estive,School,FV
+IT,2022-06-17,vacanze estive,School,TR-BZ
+IT,2022-10-31,vacanza galleggiante,School,UM
+IT,2022-11-02,vacanza galleggiante,School,ER
+IT,2022-11-03,vacanze galleggianti,School,TR-BZ
+IT,2022-12-09,vacanze galleggianti,School,CL
+IT,2022-12-23,festività natalizie,School,UM
+IT,2022-12-23,festività natalizie,School,LO
+IT,2022-12-24,festività natalizie,School,ER
+IT,2022-12-24,festività natalizie,School,AB
+IT,2023-01-30,vacanze galleggianti,School,VA
+IT,2023-02-18,vacanza galleggiante,School,TR-BZ
+IT,2023-02-20,vacanza galleggiante,School,AB
+IT,2023-02-21,vacanza galleggiante,School,AB
+IT,2023-02-22,vacanza galleggiante,School,FV
+IT,2023-02-23,vacanza galleggiante,School,TR-BZ
+IT,2023-02-24,vacanze galleggianti,School,TR-BZ
+IT,2023-02-24,vacanze galleggianti,School,LO
+IT,2023-04-06,festività pasquali,School,VE
+IT,2023-04-06,festività pasquali,School,LO
+IT,2023-04-24,vacanza galleggiante,School,UM
+IT,2023-04-28,vacanza galleggiante,School,SA
+IT,2023-05-29,vacanza galleggiante,School,TR-BZ
+IT,2023-06-03,vacanza galleggiante,School,UM
+IT,2023-06-08,vacanze estive,School,ER
+IT,2023-06-09,vacanze estive,School,LO
+IT,2023-06-09,vacanze estive,School,LA
+IT,2023-06-10,vacanze estive,School,TR-TN
+IT,2023-06-11,vacanze estive,School,UM
+IT,2023-06-11,vacanze estive,School,TO
+IT,2023-06-11,vacanze estive,School,CL
+IT,2023-06-11,vacanze estive,School,PI
+IT,2023-06-16,vacanze estive,School,VA
+IT,2023-06-17,vacanze estive,School,TR-BZ
+IT,2023-10-30,vacanze galleggianti,School,TR-BZ
+IT,2023-11-01,vacanze galleggianti,School,TR-BZ
+IT,2023-11-02,vacanza galleggiante,School,UM
+IT,2023-12-09,vacanza galleggiante,School,UM
+IT,2023-12-22,festività natalizie,School,UM
+IT,2023-12-23,festività natalizie,School,LO
+IT,2023-12-24,festività natalizie,School,VA
+IT,2023-12-24,festività natalizie,School,ER
+IT,2023-12-24,festività natalizie,School,MA
+IT,2023-12-27,festività natalizie,School,LI
+IT,2024-01-30,vacanze galleggianti,School,VA
+IT,2024-02-08,vacanze galleggianti,School,TR-TN
+IT,2024-02-10,vacanze galleggianti,School,PI
+IT,2024-02-12,vacanze galleggianti,School,LO
+IT,2024-02-12,vacanze galleggianti,School,TR-BZ
+IT,2024-02-12,vacanze galleggianti,School,FV
+IT,2024-02-13,vacanze galleggianti,School,SA
+IT,2024-03-28,festività pasquali,School,VA
+IT,2024-03-28,festività pasquali,School,LO
+IT,2024-04-25,vacanze galleggianti,School,TR-BZ
+IT,2024-04-26,vacanze galleggianti,School,CL
+IT,2024-04-29,vacanze galleggianti,School,LI
+IT,2024-05-20,vacanza galleggiante,School,TR-BZ
+IT,2024-06-06,vacanze estive,School,ER
+IT,2024-06-07,vacanze estive,School,SA
+IT,2024-06-08,vacanze estive,School,LO
+IT,2024-06-10,vacanze estive,School,TO
+IT,2024-06-11,vacanze estive,School,TR-TN
+IT,2024-06-14,vacanze estive,School,TR-BZ
+IT,2024-10-26,vacanze galleggianti,School,TR-BZ
+IT,2024-10-31,vacanza galleggiante,School,TR-TN
+IT,2024-11-02,vacanza galleggiante,School,UM
+IT,2024-12-07,vacanza galleggiante,School,MO
+IT,2024-12-23,festività natalizie,School,LO
+IT,2024-12-24,festività natalizie,School,ER
+LI,2022-01-01,Neujahr,Public,National
+LI,2022-01-06,Heilige Drei Könige,Public,National
+LI,2022-04-18,Ostermontag,Public,National
+LI,2022-05-01,Tag der Arbeit,Public,National
+LI,2022-05-26,Christi Himmelfahrt,Public,National
+LI,2022-06-06,Pfingstmontag,Public,National
+LI,2022-06-16,Fronleichnam,Public,National
+LI,2022-08-15,Staatsfeiertag (Maria Himmelfahrt),Public,National
+LI,2022-09-08,Mariä Geburt,Public,National
+LI,2022-11-01,Allerheiligen,Public,National
+LI,2022-12-08,Mariä Empfängnis,Public,National
+LI,2022-12-25,Weihnachten,Public,National
+LI,2022-12-26,Stephanstag,Public,National
+LI,2023-01-01,Neujahr,Public,National
+LI,2023-01-06,Heilige Drei Könige,Public,National
+LI,2023-04-10,Ostermontag,Public,National
+LI,2023-05-01,Tag der Arbeit,Public,National
+LI,2023-05-18,Christi Himmelfahrt,Public,National
+LI,2023-05-29,Pfingstmontag,Public,National
+LI,2023-06-08,Fronleichnam,Public,National
+LI,2023-08-15,Staatsfeiertag (Maria Himmelfahrt),Public,National
+LI,2023-09-08,Mariä Geburt,Public,National
+LI,2023-11-01,Allerheiligen,Public,National
+LI,2023-12-08,Mariä Empfängnis,Public,National
+LI,2023-12-25,Weihnachten,Public,National
+LI,2023-12-26,Stephanstag,Public,National
+LI,2024-01-01,Neujahr,Public,National
+LI,2024-01-06,Heilige Drei Könige,Public,National
+LI,2024-04-01,Ostermontag,Public,National
+LI,2024-05-01,Tag der Arbeit,Public,National
+LI,2024-05-09,Christi Himmelfahrt,Public,National
+LI,2024-05-20,Pfingstmontag,Public,National
+LI,2024-05-30,Fronleichnam,Public,National
+LI,2024-08-15,Staatsfeiertag (Maria Himmelfahrt),Public,National
+LI,2024-09-08,Mariä Geburt,Public,National
+LI,2024-11-01,Allerheiligen,Public,National
+LI,2024-12-08,Mariä Empfängnis,Public,National
+LI,2024-12-25,Weihnachten,Public,National
+LI,2024-12-26,Stephanstag,Public,National
+LI,2021-12-24,Winterferien,School,National
+LI,2022-02-26,Sportferien,School,National
+LI,2022-04-13,Frühlingsferien,School,National
+LI,2022-04-14,Schulfrei,School,National
+LI,2022-05-27,Schulfrei,School,National
+LI,2022-06-17,Schulfrei,School,National
+LI,2022-07-02,Sommerferien,School,National
+LI,2022-10-01,Herbstferien,School,National
+LI,2022-12-24,Winterferien,School,National
+LI,2023-02-18,Sportferien,School,National
+LI,2023-04-06,Schulfrei,School,National
+LI,2023-04-07,Frühlingsferien,School,National
+LI,2023-05-19,Schulfrei,School,National
+LI,2023-06-09,Schulfrei,School,National
+LI,2023-07-08,Sommerferien,School,National
+LI,2023-10-07,Herbstferien,School,National
+LI,2023-12-23,Winterferien,School,National
+LI,2024-02-10,Sportferien,School,National
+LI,2024-03-28,Schulfrei,School,National
+LI,2024-03-29,Frühlingsferien,School,National
+LI,2024-05-10,Schulfrei,School,National
+LI,2024-05-31,Schulfrei,School,National
+LI,2024-07-06,Sommerferien,School,National
+LI,2024-10-05,Herbstferien,School,National
+LI,2024-12-21,Winterferien,School,National
+LT,2022-01-01,Naujieji metai,Public,National
+LT,2022-02-16,Lietuvos valstybės atkūrimo diena,Public,National
+LT,2022-03-11,Lietuvos nepriklausomybės atkūrimo diena,Public,National
+LT,2022-04-17,Velykos,Public,National
+LT,2022-04-18,Antroji Velykų diena,Public,National
+LT,2022-05-01,Tarptautinė darbo diena,Public,National
+LT,2022-06-24,Rasos ir Joninių diena,Public,National
+LT,2022-07-06,Valstybės diena,Public,National
+LT,2022-08-15,Žolinė,Public,National
+LT,2022-11-01,Visų šventųjų diena,Public,National
+LT,2022-11-02,Vėlinės,Public,National
+LT,2022-12-24,Šv. Kūčios,Public,National
+LT,2022-12-25,Šv. Kalėdos,Public,National
+LT,2022-12-26,Šv. Kalėdos,Public,National
+LT,2023-01-01,Naujieji metai,Public,National
+LT,2023-02-16,Lietuvos valstybės atkūrimo diena,Public,National
+LT,2023-03-11,Lietuvos nepriklausomybės atkūrimo diena,Public,National
+LT,2023-04-09,Velykos,Public,National
+LT,2023-04-10,Antroji Velykų diena,Public,National
+LT,2023-05-01,Tarptautinė darbo diena,Public,National
+LT,2023-06-24,Rasos ir Joninių diena,Public,National
+LT,2023-07-06,Valstybės diena,Public,National
+LT,2023-08-15,Žolinė,Public,National
+LT,2023-11-01,Visų šventųjų diena,Public,National
+LT,2023-11-02,Vėlinės,Public,National
+LT,2023-12-24,Šv. Kūčios,Public,National
+LT,2023-12-25,Šv. Kalėdos,Public,National
+LT,2023-12-26,Šv. Kalėdos,Public,National
+LT,2024-01-01,Naujieji metai,Public,National
+LT,2024-02-16,Lietuvos valstybės atkūrimo diena,Public,National
+LT,2024-03-11,Lietuvos nepriklausomybės atkūrimo diena,Public,National
+LT,2024-03-31,Velykos,Public,National
+LT,2024-04-01,Antroji Velykų diena,Public,National
+LT,2024-05-01,Tarptautinė darbo diena,Public,National
+LT,2024-06-24,Rasos ir Joninių diena,Public,National
+LT,2024-07-06,Valstybės diena,Public,National
+LT,2024-08-15,Žolinė,Public,National
+LT,2024-11-01,Visų šventųjų diena,Public,National
+LT,2024-11-02,Vėlinės,Public,National
+LT,2024-12-24,Šv. Kūčios,Public,National
+LT,2024-12-25,Šv. Kalėdos,Public,National
+LT,2024-12-26,Šv. Kalėdos,Public,National
+LT,2021-12-27,Žiemos atostogos,School,National
+LT,2022-02-14,Žiemos atostogos,School,National
+LT,2022-04-19,Pavasario atostogos,School,National
+LT,2022-09-01,Atgal į mokyklą,School,National
+LT,2022-10-31,Rudens atostogos,School,National
+LT,2022-12-27,Žiemos atostogos,School,National
+LT,2023-02-13,Žiemos atostogos,School,National
+LT,2023-04-11,Pavasario atostogos,School,National
+LT,2023-09-01,Atgal į mokyklą,School,National
+LT,2023-10-30,Rudens atostogos,School,National
+LT,2023-12-27,Žiemos atostogos,School,National
+LT,2024-02-19,Žiemos atostogos,School,National
+LT,2024-04-02,Pavasario atostogos,School,National
+LT,2024-09-01,Atgal į mokyklą,School,National
+LT,2024-10-28,Rudens atostogos,School,National
+LT,2024-12-27,Žiemos atostogos,School,National
+LU,2022-01-01,Neujahr,Public,National
+LU,2022-04-15,Karfreitag,Public,National
+LU,2022-04-18,Ostermontag,Public,National
+LU,2022-05-01,1. Mai,Public,National
+LU,2022-05-09,Europatag,Public,National
+LU,2022-05-26,Christi Himmelfahrt,Public,National
+LU,2022-06-06,Pfingstmontag,Public,National
+LU,2022-06-23,Großherzogsgeburtstag,Public,National
+LU,2022-08-15,Mariä Himmelfahrt,Public,National
+LU,2022-11-01,Allerheiligen,Public,National
+LU,2022-12-25,Erster Weihnachtsfeiertag,Public,National
+LU,2022-12-26,Zweiter Weihnachtsfeiertag,Public,National
+LU,2023-01-01,Neujahr,Public,National
+LU,2023-04-07,Karfreitag,Public,National
+LU,2023-04-10,Ostermontag,Public,National
+LU,2023-05-01,1. Mai,Public,National
+LU,2023-05-09,Europatag,Public,National
+LU,2023-05-18,Christi Himmelfahrt,Public,National
+LU,2023-05-29,Pfingstmontag,Public,National
+LU,2023-06-23,Großherzogsgeburtstag,Public,National
+LU,2023-08-15,Mariä Himmelfahrt,Public,National
+LU,2023-11-01,Allerheiligen,Public,National
+LU,2023-12-25,Erster Weihnachtsfeiertag,Public,National
+LU,2023-12-26,Zweiter Weihnachtsfeiertag,Public,National
+LU,2024-01-01,Neujahr,Public,National
+LU,2024-03-29,Karfreitag,Public,National
+LU,2024-04-01,Ostermontag,Public,National
+LU,2024-05-01,1. Mai,Public,National
+LU,2024-05-09,Christi Himmelfahrt,Public,National
+LU,2024-05-09,Europatag,Public,National
+LU,2024-05-20,Pfingstmontag,Public,National
+LU,2024-06-23,Großherzogsgeburtstag,Public,National
+LU,2024-08-15,Mariä Himmelfahrt,Public,National
+LU,2024-11-01,Allerheiligen,Public,National
+LU,2024-12-25,Erster Weihnachtsfeiertag,Public,National
+LU,2024-12-26,Zweiter Weihnachtsfeiertag,Public,National
+LU,2021-12-18,Vacances de Noël,School,National
+LU,2022-02-12,Congé de Carnaval,School,National
+LU,2022-04-02,Vacances de Pâques,School,National
+LU,2022-05-21,Congé de la Pentecôte,School,National
+LU,2022-07-16,Vacances d’été,School,National
+LU,2022-10-29,Congé de la Toussaint,School,National
+LU,2022-12-24,Vacances de Noël,School,National
+LU,2023-02-11,Congé de Carnaval,School,National
+LU,2023-04-01,Vacances de Pâques,School,National
+LU,2023-05-27,Congé de la Pentecôte,School,National
+LU,2023-07-15,Vacances d’été,School,National
+LU,2023-10-28,Congé de la Toussaint,School,National
+LU,2023-12-23,Vacances de Noël,School,National
+LU,2024-02-10,Congé de Carnaval,School,National
+LU,2024-03-30,Vacances de Pâques,School,National
+LU,2024-05-25,Congé de la Pentecôte,School,National
+LU,2024-07-16,Vacances d’été,School,National
+LU,2024-10-26,Congé de la Toussaint,School,National
+LU,2024-12-21,Vacances de Noël,School,National
+LV,2022-01-01,Jaungada dienu,Public,National
+LV,2022-04-15,Lielo Piektdienu,Public,National
+LV,2022-04-17,Pirmās Lieldienas,Public,National
+LV,2022-04-18,Lieldienu dienu,Public,National
+LV,2022-05-01,Darba svētkus,Public,National
+LV,2022-05-04,Latvijas Republikas Neatkarības atjaunošanas dienu,Public,National
+LV,2022-05-08,Mātes dienu,Public,National
+LV,2022-06-05,Vasarsvētkus,Public,National
+LV,2022-06-23,Līgo dienu,Public,National
+LV,2022-06-24,Jāņu dienu,Public,National
+LV,2022-11-18,Latvijas Republikas Proklamēšanas dienu,Public,National
+LV,2022-12-24,Ziemassvētku vakars,Public,National
+LV,2022-12-25,Ziemassvētki,Public,National
+LV,2022-12-26,Otrie Ziemassvētki,Public,National
+LV,2022-12-31,Vecgada dienu,Public,National
+LV,2023-01-01,Jaungada dienu,Public,National
+LV,2023-04-07,Lielo Piektdienu,Public,National
+LV,2023-04-09,Pirmās Lieldienas,Public,National
+LV,2023-04-10,Lieldienu dienu,Public,National
+LV,2023-05-01,Darba svētkus,Public,National
+LV,2023-05-04,Latvijas Republikas Neatkarības atjaunošanas dienu,Public,National
+LV,2023-05-14,Mātes dienu,Public,National
+LV,2023-05-28,Vasarsvētkus,Public,National
+LV,2023-05-29,Izcīnot bronzas medaļu 2023. gada pasaules čempionātā hokejā,Public,National
+LV,2023-06-23,Līgo dienu,Public,National
+LV,2023-06-24,Jāņu dienu,Public,National
+LV,2023-11-18,Latvijas Republikas Proklamēšanas dienu,Public,National
+LV,2023-12-24,Ziemassvētku vakars,Public,National
+LV,2023-12-25,Ziemassvētki,Public,National
+LV,2023-12-26,Otrie Ziemassvētki,Public,National
+LV,2023-12-31,Vecgada dienu,Public,National
+LV,2024-01-01,Jaungada dienu,Public,National
+LV,2024-03-29,Lielo Piektdienu,Public,National
+LV,2024-03-31,Pirmās Lieldienas,Public,National
+LV,2024-04-01,Lieldienu dienu,Public,National
+LV,2024-05-01,Darba svētkus,Public,National
+LV,2024-05-04,Latvijas Republikas Neatkarības atjaunošanas dienu,Public,National
+LV,2024-05-12,Mātes dienu,Public,National
+LV,2024-05-19,Vasarsvētkus,Public,National
+LV,2024-06-23,Līgo dienu,Public,National
+LV,2024-06-24,Jāņu dienu,Public,National
+LV,2024-11-18,Latvijas Republikas Proklamēšanas dienu,Public,National
+LV,2024-12-24,Ziemassvētku vakars,Public,National
+LV,2024-12-25,Ziemassvētki,Public,National
+LV,2024-12-26,Otrie Ziemassvētki,Public,National
+LV,2024-12-31,Vecgada dienu,Public,National
+LV,2021-12-22,Ziemas brīvdienas,School,National
+LV,2022-03-14,Pavasara brīvdienas,School,National
+LV,2022-06-01,Vasaras brīvdienas,School,National
+LV,2022-10-24,Rudens brīvdienas,School,National
+LV,2022-12-26,Ziemas brīvdienas,School,National
+LV,2023-03-13,Pavasara brīvdienas,School,National
+LV,2023-06-01,Vasaras brīvdienas,School,National
+LV,2023-10-23,Rudens brīvdienas,School,National
+LV,2023-12-25,Ziemas brīvdienas,School,National
+LV,2024-03-11,Pavasara brīvdienas,School,National
+LV,2024-06-01,Vasaras brīvdienas,School,National
+LV,2024-10-21,Rudens brīvdienas,School,National
+LV,2024-12-23,Ziemas brīvdienas,School,National
+MC,2022-01-01,Le jour de l’An,Public,National
+MC,2022-01-27,La Sainte Dévote,Public,National
+MC,2022-04-18,Le lundi de Pâques,Public,National
+MC,2022-05-01,Le 1er mai,Public,National
+MC,2022-05-26,L’Ascension,Public,National
+MC,2022-06-06,Le lundi de Pentecôte,Public,National
+MC,2022-06-16,La Fête Dieu,Public,National
+MC,2022-08-15,L’Assomption,Public,National
+MC,2022-11-01,La Toussaint,Public,National
+MC,2022-11-19,La Fête du Prince,Public,National
+MC,2022-12-08,L’Immaculée Conception,Public,National
+MC,2022-12-26,Noël,Public,National
+MC,2023-01-01,Le jour de l’An,Public,National
+MC,2023-01-27,La Sainte Dévote,Public,National
+MC,2023-04-10,Le lundi de Pâques,Public,National
+MC,2023-05-01,Le 1er mai,Public,National
+MC,2023-05-18,L’Ascension,Public,National
+MC,2023-05-29,Le lundi de Pentecôte,Public,National
+MC,2023-06-08,La Fête Dieu,Public,National
+MC,2023-08-15,L’Assomption,Public,National
+MC,2023-11-01,La Toussaint,Public,National
+MC,2023-11-20,La Fête du Prince,Public,National
+MC,2023-12-08,L’Immaculée Conception,Public,National
+MC,2023-12-25,Noël,Public,National
+MC,2024-01-01,Le jour de l’An,Public,National
+MC,2024-01-27,La Sainte Dévote,Public,National
+MC,2024-04-01,Le lundi de Pâques,Public,National
+MC,2024-05-01,Le 1er mai,Public,National
+MC,2024-05-09,L’Ascension,Public,National
+MC,2024-05-20,Le lundi de Pentecôte,Public,National
+MC,2024-05-30,La Fête Dieu,Public,National
+MC,2024-08-15,L’Assomption,Public,National
+MC,2024-11-01,La Toussaint,Public,National
+MC,2024-11-19,La Fête du Prince,Public,National
+MC,2024-12-08,L’Immaculée Conception,Public,National
+MC,2024-12-25,Noël,Public,National
+MC,2021-12-18,Vacances de Noël,School,National
+MC,2022-02-05,Vacances d’hiver,School,National
+MC,2022-04-09,Vacances de printemps,School,National
+MC,2022-05-08,Grand Prix historique,School,National
+MC,2022-05-13,Grand Prix historique,School,National
+MC,2022-05-26,Grand Prix de Formule 1 et Pentecôte,School,National
+MC,2022-07-02,Vacances d’été,School,National
+MC,2022-10-22,Vacances de la Toussaint,School,National
+MC,2022-12-17,Vacances de Noël,School,National
+MC,2023-02-11,Vacances d’hiver,School,National
+MC,2023-04-15,Vacances de printemps,School,National
+MC,2023-05-25,Grand Prix de Formule 1 et Pentecôte,School,National
+MC,2023-07-01,Vacances d’été,School,National
+MC,2023-10-21,Vacances de la Toussaint,School,National
+MC,2023-12-23,Vacances de Noël,School,National
+MC,2024-02-24,Vacances d’hiver,School,National
+MC,2024-04-20,Vacances de printemps,School,National
+MC,2024-05-23,Grand Prix de Formule 1 et Pentecôte,School,National
+MC,2024-06-29,Vacances d’été,School,National
+MC,2024-10-24,Vacances de la Toussaint,School,National
+MC,2024-12-21,Vacances de Noël,School,National
+MD,2022-01-01,Anul Nou,Public,National
+MD,2022-01-07,Naşterea lui Iisus Hristos (Crăciunul pe stil vechi),Public,National
+MD,2022-03-08,Ziua internaţională a femeii,Public,National
+MD,2022-04-24,Prima zi de Paşti conform calendarului bisericesc,Public,National
+MD,2022-04-25,A doua zi de Paște conform calendarului bisericesc,Public,National
+MD,2022-05-01,Ziua internaţională a solidarităţii oamenilor muncii,Public,National
+MD,2022-05-02,Ziua Comemorarii (Pastele Blajinilor),Public,National
+MD,2022-05-09,Ziua Victoriei şi a comemorării eroilor căzuţi pentru Independenţa Patriei,Public,National
+MD,2022-05-09,Ziua Europei,Public,National
+MD,2022-06-01,Ziua ocrotirii copilului,Public,National
+MD,2022-08-27,Ziua independenţei Republicii Moldova,Public,National
+MD,2022-08-31,"Sărbătoarea ""Limba noastră""",Public,National
+MD,2022-12-25,Naşterea lui Iisus Hristos (Crăciunul pe stil nou),Public,National
+MD,2023-01-01,Anul Nou,Public,National
+MD,2023-01-07,Naşterea lui Iisus Hristos (Crăciunul pe stil vechi),Public,National
+MD,2023-03-08,Ziua internaţională a femeii,Public,National
+MD,2023-04-16,Prima zi de Paşti conform calendarului bisericesc,Public,National
+MD,2023-04-17,A doua zi de Paște conform calendarului bisericesc,Public,National
+MD,2023-04-24,Ziua Comemorarii (Pastele Blajinilor),Public,National
+MD,2023-05-01,Ziua internaţională a solidarităţii oamenilor muncii,Public,National
+MD,2023-05-09,Ziua Victoriei şi a comemorării eroilor căzuţi pentru Independenţa Patriei,Public,National
+MD,2023-05-09,Ziua Europei,Public,National
+MD,2023-06-01,Ziua ocrotirii copilului,Public,National
+MD,2023-08-27,Ziua independenţei Republicii Moldova,Public,National
+MD,2023-08-31,"Sărbătoarea ""Limba noastră""",Public,National
+MD,2023-12-25,Naşterea lui Iisus Hristos (Crăciunul pe stil nou),Public,National
+MD,2024-01-01,Anul Nou,Public,National
+MD,2024-01-07,Naşterea lui Iisus Hristos (Crăciunul pe stil vechi),Public,National
+MD,2024-03-08,Ziua internaţională a femeii,Public,National
+MD,2024-05-01,Ziua internaţională a solidarităţii oamenilor muncii,Public,National
+MD,2024-05-05,Prima zi de Paşti conform calendarului bisericesc,Public,National
+MD,2024-05-06,A doua zi de Paște conform calendarului bisericesc,Public,National
+MD,2024-05-09,Ziua Victoriei şi a comemorării eroilor căzuţi pentru Independenţa Patriei,Public,National
+MD,2024-05-09,Ziua Europei,Public,National
+MD,2024-05-13,Ziua Comemorarii (Pastele Blajinilor),Public,National
+MD,2024-06-01,Ziua ocrotirii copilului,Public,National
+MD,2024-08-27,Ziua independenţei Republicii Moldova,Public,National
+MD,2024-08-31,"Sărbătoarea ""Limba noastră""",Public,National
+MD,2024-12-25,Naşterea lui Iisus Hristos (Crăciunul pe stil nou),Public,National
+MD,2021-12-25,Vacanţa de iarnă,School,National
+MD,2022-03-05,Vacanţa de primăvară,School,National
+MD,2022-04-23,Vacanţa de Paşti,School,National
+MD,2022-06-01,Vacanţa de vară,School,National
+MD,2022-10-26,Vacanţa de toamnă,School,National
+MD,2022-12-24,Vacanţa de iarnă,School,National
+MD,2023-03-08,Vacanţa de primăvară,School,National
+MD,2023-04-15,Vacanţa de Paşti,School,National
+MD,2023-06-01,Vacanţa de vară,School,National
+MD,2023-11-01,Vacanţa de toamnă,School,National
+MD,2023-12-23,Vacanţa de iarnă,School,National
+MD,2024-03-08,Vacanţa de primăvară,School,National
+MD,2024-05-04,Vacanţa de Paşti,School,National
+MD,2024-06-01,Vacanţa de vară,School,National
+MD,2024-10-28,Vacanţa de toamnă,School,National
+MD,2024-12-25,Vacanţa de iarnă,School,National
+MT,2022-01-01,L-Ewwel tas-Sena,Public,National
+MT,2022-02-10,Il-Festa tan-Nawfraġju ta’ San Pawl,Public,National
+MT,2022-03-19,Il-Festa ta’ San Ġużepp,Public,National
+MT,2022-03-31,Jum il-Ħelsien,Public,National
+MT,2022-04-15,Il-Ġimgħa l-Kbira,Public,National
+MT,2022-05-01,Jum il-Ħaddiem,Public,National
+MT,2022-06-07,Sette Giugno,Public,National
+MT,2022-06-29,Il-Festa ta’ San Pietru u San Pawl,Public,National
+MT,2022-08-15,Il-Festa ta’ Santa Marija,Public,National
+MT,2022-09-08,Jum il-Vittorja,Public,National
+MT,2022-09-21,Jum l-Indipendenza,Public,National
+MT,2022-12-08,Il-Festa tal-Immakulata Kunċizzjoni,Public,National
+MT,2022-12-13,Jum ir-Repubblika,Public,National
+MT,2022-12-25,Il-Milied​,Public,National
+MT,2023-01-01,L-Ewwel tas-Sena,Public,National
+MT,2023-02-10,Il-Festa tan-Nawfraġju ta’ San Pawl,Public,National
+MT,2023-03-19,Il-Festa ta’ San Ġużepp,Public,National
+MT,2023-03-31,Jum il-Ħelsien,Public,National
+MT,2023-04-07,Il-Ġimgħa l-Kbira,Public,National
+MT,2023-05-01,Jum il-Ħaddiem,Public,National
+MT,2023-06-07,Sette Giugno,Public,National
+MT,2023-06-29,Il-Festa ta’ San Pietru u San Pawl,Public,National
+MT,2023-08-15,Il-Festa ta’ Santa Marija,Public,National
+MT,2023-09-08,Jum il-Vittorja,Public,National
+MT,2023-09-21,Jum l-Indipendenza,Public,National
+MT,2023-12-08,Il-Festa tal-Immakulata Kunċizzjoni,Public,National
+MT,2023-12-13,Jum ir-Repubblika,Public,National
+MT,2023-12-25,Il-Milied​,Public,National
+MT,2024-01-01,L-Ewwel tas-Sena,Public,National
+MT,2024-02-10,Il-Festa tan-Nawfraġju ta’ San Pawl,Public,National
+MT,2024-03-19,Il-Festa ta’ San Ġużepp,Public,National
+MT,2024-03-29,Il-Ġimgħa l-Kbira,Public,National
+MT,2024-03-31,Jum il-Ħelsien,Public,National
+MT,2024-05-01,Jum il-Ħaddiem,Public,National
+MT,2024-06-07,Sette Giugno,Public,National
+MT,2024-06-29,Il-Festa ta’ San Pietru u San Pawl,Public,National
+MT,2024-08-15,Il-Festa ta’ Santa Marija,Public,National
+MT,2024-09-08,Jum il-Vittorja,Public,National
+MT,2024-09-21,Jum l-Indipendenza,Public,National
+MT,2024-12-08,Il-Festa tal-Immakulata Kunċizzjoni,Public,National
+MT,2024-12-13,Jum ir-Repubblika,Public,National
+MT,2024-12-25,Il-Milied​,Public,National
+MT,2021-12-23,Vaganzi tal-Milied,School,National
+MT,2022-02-28,Festi tal-Karnival,School,National
+MT,2022-04-13,Vaganzi tal-Għid,School,National
+MT,2022-04-21,Kumpens għall-vaganzi fi tmiem il-ġimgħa,School,National
+MT,2022-05-02,Kumpens għall-vaganzi fi tmiem il-ġimgħa,School,National
+MT,2022-06-30,Vaganzi tas-sajf,School,National
+MT,2022-10-31,Btajjel ta' nofs it-terminu,School,National
+MT,2022-12-23,Vaganzi tal-Milied,School,National
+MT,2023-02-20,Festi tal-Karnival,School,National
+MT,2023-04-05,Vaganzi tal-Għid,School,National
+MT,2023-04-13,Kumpens għall-vaganzi fi tmiem il-ġimgħa,School,National
+MT,2023-06-28,Vaganzi tas-sajf,School,National
+MT,2023-11-01,Btajjel ta' nofs it-terminu,School,National
+MT,2023-12-23,Vaganzi tal-Milied,School,National
+MT,2024-02-12,Festi tal-Karnival,School,National
+MT,2024-03-27,Vaganzi tal-Għid,School,National
+MT,2024-04-04,Kumpens għall-vaganzi fi tmiem il-ġimgħa,School,National
+MT,2024-05-31,Kumpens għall-vaganzi fi tmiem il-ġimgħa,School,National
+MT,2024-06-28,Vaganzi tas-sajf,School,National
+MT,2024-11-01,Btajjel ta' nofs it-terminu,School,National
+MT,2024-11-06,Kumpens għall-vaganzi fi tmiem il-ġimgħa,School,National
+MT,2024-12-12,Kumpens għall-vaganzi fi tmiem il-ġimgħa,School,National
+MT,2024-12-23,Vaganzi tal-Milied,School,National
+NL,2022-01-01,Nieuwjaarsdag,Public,National
+NL,2022-04-15,Goede vrijdag,Public,National
+NL,2022-04-17,Eerste paasdag,Public,National
+NL,2022-04-18,Tweede paasdag,Public,National
+NL,2022-04-27,Koningsdag,Public,National
+NL,2022-05-05,Bevrijdingsdag,Public,National
+NL,2022-05-26,Hemelvaartsdag,Public,National
+NL,2022-06-05,Eerste pinksterdag,Public,National
+NL,2022-06-06,Tweede pinksterdag,Public,National
+NL,2022-12-25,Eerste kerstdag,Public,National
+NL,2022-12-26,Tweede kerstdag,Public,National
+NL,2023-01-01,Nieuwjaarsdag,Public,National
+NL,2023-04-07,Goede vrijdag,Public,National
+NL,2023-04-09,Eerste paasdag,Public,National
+NL,2023-04-10,Tweede paasdag,Public,National
+NL,2023-04-27,Koningsdag,Public,National
+NL,2023-05-05,Bevrijdingsdag,Public,National
+NL,2023-05-18,Hemelvaartsdag,Public,National
+NL,2023-05-28,Eerste pinksterdag,Public,National
+NL,2023-05-29,Tweede pinksterdag,Public,National
+NL,2023-12-25,Eerste kerstdag,Public,National
+NL,2023-12-26,Tweede kerstdag,Public,National
+NL,2024-01-01,Nieuwjaarsdag,Public,National
+NL,2024-03-29,Goede vrijdag,Public,National
+NL,2024-03-31,Eerste paasdag,Public,National
+NL,2024-04-01,Tweede paasdag,Public,National
+NL,2024-04-27,Koningsdag,Public,National
+NL,2024-05-05,Bevrijdingsdag,Public,National
+NL,2024-05-09,Hemelvaartsdag,Public,National
+NL,2024-05-19,Eerste pinksterdag,Public,National
+NL,2024-05-20,Tweede pinksterdag,Public,National
+NL,2024-12-25,Eerste kerstdag,Public,National
+NL,2024-12-26,Tweede kerstdag,Public,National
+NL,2021-12-25,Kerstvakantie,School,NO
+NL,2022-02-19,Voorjaarsvakantie,School,NO
+NL,2022-02-26,Voorjaarsvakantie,School,MI
+NL,2022-04-30,Meivakantie,School,NO
+NL,2022-07-09,Zomervakantie,School,MI
+NL,2022-07-16,Zomervakantie,School,NO
+NL,2022-07-23,Zomervakantie,School,ZU
+NL,2022-10-15,Herfstvakantie,School,NO
+NL,2022-10-22,Herfstvakantie,School,MI
+NL,2022-12-24,Kerstvakantie,School,NO
+NL,2023-02-18,Voorjaarsvakantie,School,ZU
+NL,2023-02-25,Voorjaarsvakantie,School,NO
+NL,2023-04-29,Meivakantie,School,NO
+NL,2023-07-08,Zomervakantie,School,MI
+NL,2023-07-15,Zomervakantie,School,ZU
+NL,2023-07-22,Zomervakantie,School,NO
+NL,2023-10-14,Herfstvakantie,School,MI
+NL,2023-10-21,Herfstvakantie,School,NO
+NL,2023-12-23,Kerstvakantie,School,NO
+NL,2024-02-10,Voorjaarsvakantie,School,ZU
+NL,2024-02-17,Voorjaarsvakantie,School,NO
+NL,2024-04-27,Meivakantie,School,NO
+NL,2024-07-06,Zomervakantie,School,ZU
+NL,2024-07-13,Zomervakantie,School,MI
+NL,2024-07-20,Zomervakantie,School,NO
+NL,2024-10-19,Herfstvakantie,School,ZU
+NL,2024-10-26,Herfstvakantie,School,NO
+NL,2024-12-21,Kerstvakantie,School,NO
+PL,2022-01-01,Nowy Rok,Public,National
+PL,2022-01-06,Święto Trzech Króli,Public,National
+PL,2022-04-17,Wielkanoc,Public,National
+PL,2022-04-18,Drugi Dzień Wielkanocy,Public,National
+PL,2022-05-01,Święto Pracy,Public,National
+PL,2022-05-03,Święto Narodowe Trzeciego Maja,Public,National
+PL,2022-06-05,Zielone Świątki,Public,National
+PL,2022-06-16,Boże Ciało,Public,National
+PL,2022-08-15,Wniebowzięcie Najświętszej Maryi Panny,Public,National
+PL,2022-11-01,Wszystkich Świętych,Public,National
+PL,2022-11-11,Narodowe Święto Niepodległości,Public,National
+PL,2022-12-25,Boże Narodzenie,Public,National
+PL,2022-12-26,Drugi Dzień Bożego Narodzenia,Public,National
+PL,2023-01-01,Nowy Rok,Public,National
+PL,2023-01-06,Święto Trzech Króli,Public,National
+PL,2023-04-09,Wielkanoc,Public,National
+PL,2023-04-10,Drugi Dzień Wielkanocy,Public,National
+PL,2023-05-01,Święto Pracy,Public,National
+PL,2023-05-03,Święto Narodowe Trzeciego Maja,Public,National
+PL,2023-05-28,Zielone Świątki,Public,National
+PL,2023-06-08,Boże Ciało,Public,National
+PL,2023-08-15,Wniebowzięcie Najświętszej Maryi Panny,Public,National
+PL,2023-11-01,Wszystkich Świętych,Public,National
+PL,2023-11-11,Narodowe Święto Niepodległości,Public,National
+PL,2023-12-25,Boże Narodzenie,Public,National
+PL,2023-12-26,Drugi Dzień Bożego Narodzenia,Public,National
+PL,2024-01-01,Nowy Rok,Public,National
+PL,2024-01-06,Święto Trzech Króli,Public,National
+PL,2024-03-31,Wielkanoc,Public,National
+PL,2024-04-01,Drugi Dzień Wielkanocy,Public,National
+PL,2024-05-01,Święto Pracy,Public,National
+PL,2024-05-03,Święto Narodowe Trzeciego Maja,Public,National
+PL,2024-05-19,Zielone Świątki,Public,National
+PL,2024-05-30,Boże Ciało,Public,National
+PL,2024-08-15,Wniebowzięcie Najświętszej Maryi Panny,Public,National
+PL,2024-11-01,Wszystkich Świętych,Public,National
+PL,2024-11-11,Narodowe Święto Niepodległości,Public,National
+PL,2024-12-25,Boże Narodzenie,Public,National
+PL,2024-12-26,Drugi Dzień Bożego Narodzenia,Public,National
+PL,2022-01-14,Ferie zimowe,School,ZP
+PL,2022-01-17,Ferie zimowe,School,PD
+PL,2022-01-24,Ferie zimowe,School,PK
+PL,2022-01-31,Ferie zimowe,School,LD
+PL,2022-04-14,Wiosenna przerwa świąteczna,School,PK
+PL,2022-06-25,Ferie letnie,School,PK
+PL,2022-12-23,Zimowa przerwa świąteczna,School,PK
+PL,2023-01-13,Ferie zimowe,School,ZP
+PL,2023-01-16,Ferie zimowe,School,PD
+PL,2023-01-23,Ferie zimowe,School,PK
+PL,2023-01-30,Ferie zimowe,School,LD
+PL,2023-04-06,Wiosenna przerwa świąteczna,School,PK
+PL,2023-06-24,Ferie letnie,School,PK
+PL,2023-12-23,Zimowa przerwa świąteczna,School,PK
+PL,2024-01-15,Ferie zimowe,School,ZP
+PL,2024-01-22,Ferie zimowe,School,PK
+PL,2024-01-29,Ferie zimowe,School,PD
+PL,2024-02-12,Ferie zimowe,School,LD
+PL,2024-03-28,Wiosenna przerwa świąteczna,School,PK
+PL,2024-06-22,Ferie letnie,School,PK
+PL,2024-12-23,Zimowa przerwa świąteczna,School,PK
+PT,2022-01-01,Ano Novo,Public,National
+PT,2022-01-11,Feriado Municipal,Public,LE-OB
+PT,2022-01-13,Feriado Municipal,Public,VR-SM
+PT,2022-01-14,Feriado Municipal,Public,PA-EL
+PT,2022-01-15,Dia de Santo Amaro,Public,MA-SC
+PT,2022-01-20,Feriado Municipal,Public,AV-SM
+PT,2022-01-22,Dia de São Vicente,Public,MA-SV
+PT,2022-02-02,Feriado Municipal,Public,EV-MO
+PT,2022-02-10,Feriado Municipal,Public,GU-AB
+PT,2022-02-18,Feriado Municipal,Public,VC-VA
+PT,2022-03-01,Feriado Municipal,Public,SA-TM
+PT,2022-03-01,Carnaval,Public,National
+PT,2022-03-02,Feriado Municipal,Public,VI-VP
+PT,2022-03-04,Feriado Municipal,Public,GU-MA
+PT,2022-03-05,Feriado Municipal,Public,BE-FA
+PT,2022-03-08,Feriado Municipal,Public,EV-MN
+PT,2022-03-12,Feriado Municipal,Public,VC-MO
+PT,2022-03-19,Feriado Municipal,Public,SA-SA
+PT,2022-04-02,Feriado Municipal,Public,SA-AP
+PT,2022-04-06,Batalha dos Atoleiros,Public,PA-FR
+PT,2022-04-10,Feriado Municipal,Public,CO-PS
+PT,2022-04-11,Feriado Municipal,Public,AC-LG
+PT,2022-04-15,Sexta-feira Santa,Public,National
+PT,2022-04-17,Domingo de Páscoa,Public,National
+PT,2022-04-18,Segunda-feira após a Páscoa,Public,AV-IL
+PT,2022-04-19,Feriado Municipal,Public,BE-SE
+PT,2022-04-22,Feriado Municipal,Public,AC-PD
+PT,2022-04-23,Dia de São Jorge,Public,AC-VE
+PT,2022-04-25,Segunda-feira após o primeiro Domingo depois da Páscoa,Public,PA-AV
+PT,2022-04-25,Dia da Liberdade,Public,National
+PT,2022-04-26,Feriado Municipal,Public,CB-BE
+PT,2022-05-01,Dia do Trabalhador,Public,National
+PT,2022-05-02,Feriado Municipal,Public,AV-AR
+PT,2022-05-02,Feriado Municipal,Public,CB-IN
+PT,2022-05-03,Feriado Municipal,Public,VI-SE
+PT,2022-05-04,Feriado Municipal,Public,SE-SS
+PT,2022-05-08,Feriado Municipal,Public,VR-MU
+PT,2022-05-12,Feriado Municipal,Public,AV-AV
+PT,2022-05-13,Feriado Municipal,Public,FA-VS
+PT,2022-05-14,Dia de São Frei Gil,Public,VI-VO
+PT,2022-05-15,Feriado Municipal,Public,LE-CR
+PT,2022-05-16,Feriado Municipal,Public,BR-FA
+PT,2022-05-17,Feriado Municipal,Public,SA-TN
+PT,2022-05-20,Feriado Municipal,Public,BA-VN
+PT,2022-05-21,Feriado Municipal,Public,GU-VF
+PT,2022-05-22,Feriado Municipal,Public,LE-LE
+PT,2022-05-23,Feriado Municipal,Public,PA-PA
+PT,2022-05-23,Nascimento de Sacadura Cabral,Public,GU-CB
+PT,2022-05-25,Feriado Municipal,Public,SA-TN
+PT,2022-05-26,Feriado Municipal,Public,SA-TN
+PT,2022-05-29,Feriado Municipal,Public,GU-TR
+PT,2022-06-01,Nascimento de José Falcão,Public,CO-MC
+PT,2022-06-01,Feriado Municipal,Public,SE-PA
+PT,2022-06-01,Feriado Municipal,Public,FA-SB
+PT,2022-06-04,Feriado Municipal,Public,AV-AG
+PT,2022-06-06,Dia dos Açores,Public,AC
+PT,2022-06-06,Segunda-feira após o Domingo de Pentecostes,Public,AV-VG
+PT,2022-06-07,Terça-feira após o Domingo de Pentecostes,Public,PO-MT
+PT,2022-06-07,Feriado Municipal,Public,LI-OE
+PT,2022-06-09,Feriado Municipal,Public,VR-MT
+PT,2022-06-10,Dia de Portugal / de Camões e das Comunidades Portuguesas,Public,National
+PT,2022-06-13,Dia de Santo António,Public,LE-AV
+PT,2022-06-14,Feriado Municipal,Public,SA-AB
+PT,2022-06-16,Corpo de Deus,Public,National
+PT,2022-06-16,Feriado Municipal,Public,FA-OL
+PT,2022-06-17,Feriado Municipal,Public,AC-PC
+PT,2022-06-20,Feriado Municipal,Public,SA-OU
+PT,2022-06-22,Feriado Municipal,Public,VR-VP
+PT,2022-06-24,Feriado Municipal,Public,MA-PS
+PT,2022-06-24,Dia de São Nuno de Santa Maria,Public,CB-SE
+PT,2022-06-24,Dia de São João,Public,PO-VC
+PT,2022-06-24,Batalha de São Mamede,Public,BR-GU
+PT,2022-06-28,Feriado Municipal,Public,SE-BA
+PT,2022-06-29,Dia de PT Dia de São Pedro,Public,VI-PE
+PT,2022-06-29,Feriado Municipal,Public,AC-LP
+PT,2022-06-29,Dia de São Pedro,Public,VI-CD
+PT,2022-07-01,Dia da Madeira,Public,MA
+PT,2022-07-02,Batalha do Côa,Public,GU-AL
+PT,2022-07-03,Feriado Municipal,Public,GU-SE
+PT,2022-07-04,Feriado Municipal,Public,LE-CP
+PT,2022-07-07,Batalha de Salgadela,Public,GU-FC
+PT,2022-07-08,Feriado Municipal,Public,VR-CH
+PT,2022-07-10,Feriado Municipal,Public,BA-MD
+PT,2022-07-11,Feriado Municipal,Public,PO-MI
+PT,2022-07-11,Dia de São Bento,Public,PO-ST
+PT,2022-07-17,Nascimento de António José de Almeida,Public,CO-PC
+PT,2022-07-18,Feriado Municipal,Public,VI-CS
+PT,2022-07-22,Dia de Santa Maria Madalena,Public,AC-MA
+PT,2022-07-24,Dia de Santa Cristina,Public,CO-CN
+PT,2022-07-24,Feriado Municipal,Public,LE-PG
+PT,2022-07-25,Dia de São Tomé de Mira,Public,CO-MI
+PT,2022-07-25,Dia de São Tiago,Public,SE-SC
+PT,2022-07-25,Dia de São Cristóvão,Public,AV-OV
+PT,2022-07-26,Feriado Municipal,Public,LI-LS
+PT,2022-08-01,Feriado Municipal,Public,PO-LO
+PT,2022-08-06,Feriado Municipal,Public,LE-PN
+PT,2022-08-08,Feriado Municipal,Public,CB-OL
+PT,2022-08-10,Dia de São Lourenço,Public,VC-PC
+PT,2022-08-11,Feriado Municipal,Public,AC-PV
+PT,2022-08-13,Feriado Municipal,Public,CO-GO
+PT,2022-08-14,Feriado Municipal,Public,LE-BA
+PT,2022-08-15,Assunção de Nossa Senhora,Public,National
+PT,2022-08-16,Feriado Municipal,Public,VR-PR
+PT,2022-08-16,Nascimento de Couto Jardim,Public,EV-VV
+PT,2022-08-16,Dia de São Roque,Public,AC-SP
+PT,2022-08-17,Feriado Municipal,Public,SA-CR
+PT,2022-08-19,Feriado Municipal,Public,BR-ES
+PT,2022-08-20,Dia de São Bernardo,Public,VI-ST
+PT,2022-08-20,Feriado Municipal,Public,VC-VC
+PT,2022-08-21,Feriado Municipal,Public,MA-FU
+PT,2022-08-22,Feriado Municipal,Public,BA-BR
+PT,2022-08-24,Dia do padroeiro São Bartolomeu,Public,PO-BA
+PT,2022-08-25,Feriado Municipal,Public,VI-PC
+PT,2022-08-26,Feriado Municipal,Public,BA-CA
+PT,2022-08-28,Feriado Municipal,Public,BE-BA
+PT,2022-08-29,Feriado Municipal,Public,CB-VV
+PT,2022-09-03,Conquista da cidade aos mouros,Public,FA-SI
+PT,2022-09-07,Feriado Municipal,Public,CO-AR
+PT,2022-09-08,Feriado Municipal,Public,MA-PD
+PT,2022-09-11,Feriado Municipal,Public,LI-AM
+PT,2022-09-15,Feriado Municipal,Public,CB-FU
+PT,2022-09-16,Dia de Santa Eufémia,Public,VI-TO
+PT,2022-09-19,Feriado Municipal,Public,CB-VR
+PT,2022-09-20,Feriado Municipal,Public,VC-PL
+PT,2022-09-21,Dia de São Mateus,Public,AV-SV
+PT,2022-09-21,Feriado Municipal,Public,CO-SO
+PT,2022-09-22,Feriado Municipal,Public,SA-SD
+PT,2022-09-29,Dia de São Miguel Arcanjo,Public,CO-PL
+PT,2022-09-29,Feriado Municipal,Public,VI-TR
+PT,2022-10-01,Feriado Municipal,Public,VC-VN
+PT,2022-10-03,Feriado Municipal,Public,BR-VM
+PT,2022-10-05,Implantação da República,Public,National
+PT,2022-10-07,Feriado Municipal,Public,VI-OF
+PT,2022-10-09,Feriado Municipal,Public,MA-MA
+PT,2022-10-11,Feriado Municipal,Public,AV-SJ
+PT,2022-10-15,Feriado Municipal,Public,BA-MO
+PT,2022-10-16,Feriado Municipal,Public,MA-CL
+PT,2022-10-20,Feriado Municipal,Public,CB-CO
+PT,2022-10-22,Feriado Municipal,Public,SE-GR
+PT,2022-10-25,Dia de Santa Catarina,Public,MA-CT
+PT,2022-10-27,Feriado Municipal,Public,FA-LS
+PT,2022-11-01,Todos-os-Santos,Public,National
+PT,2022-11-06,Feriado Municipal,Public,SA-RM
+PT,2022-11-11,Dia de São Martinho,Public,VR-AL
+PT,2022-11-19,Feriado Municipal,Public,LI-OD
+PT,2022-11-23,Feriado Municipal,Public,PA-GA
+PT,2022-11-24,Feriado Municipal,Public,SE-SI
+PT,2022-11-27,Feriado Municipal,Public,GU-GU
+PT,2022-11-30,Dia de Santo André,Public,VR-MF
+PT,2022-12-01,Restauração da Independência,Public,National
+PT,2022-12-08,Imaculada Conceição,Public,National
+PT,2022-12-11,Feriado Municipal,Public,FA-PO
+PT,2022-12-25,Natal,Public,National
+PT,2022-12-26,Primeira Oitava,Public,MA
+PT,2023-01-01,Ano Novo,Public,National
+PT,2023-01-11,Feriado Municipal,Public,LE-OB
+PT,2023-01-13,Feriado Municipal,Public,VR-SM
+PT,2023-01-14,Feriado Municipal,Public,PA-EL
+PT,2023-01-15,Dia de Santo Amaro,Public,MA-SC
+PT,2023-01-20,Feriado Municipal,Public,AV-SM
+PT,2023-01-22,Dia de São Vicente,Public,MA-SV
+PT,2023-02-02,Feriado Municipal,Public,EV-MO
+PT,2023-02-10,Feriado Municipal,Public,GU-AB
+PT,2023-02-18,Feriado Municipal,Public,VC-VA
+PT,2023-02-21,Carnaval,Public,National
+PT,2023-03-01,Feriado Municipal,Public,SA-TM
+PT,2023-03-02,Feriado Municipal,Public,VI-VP
+PT,2023-03-04,Feriado Municipal,Public,GU-MA
+PT,2023-03-05,Feriado Municipal,Public,BE-FA
+PT,2023-03-08,Feriado Municipal,Public,EV-MN
+PT,2023-03-12,Feriado Municipal,Public,VC-MO
+PT,2023-03-19,Feriado Municipal,Public,SA-SA
+PT,2023-04-02,Feriado Municipal,Public,SA-AP
+PT,2023-04-06,Batalha dos Atoleiros,Public,PA-FR
+PT,2023-04-07,Sexta-feira Santa,Public,National
+PT,2023-04-09,Domingo de Páscoa,Public,National
+PT,2023-04-10,Feriado Municipal,Public,CO-PS
+PT,2023-04-10,Segunda-feira após a Páscoa,Public,AV-IL
+PT,2023-04-11,Feriado Municipal,Public,BE-SE
+PT,2023-04-17,Segunda-feira após o primeiro Domingo depois da Páscoa,Public,PA-AV
+PT,2023-04-22,Feriado Municipal,Public,AC-PD
+PT,2023-04-23,Dia de São Jorge,Public,AC-VE
+PT,2023-04-24,Feriado Municipal,Public,CB-CB
+PT,2023-04-24,Feriado Municipal,Public,CB-IN
+PT,2023-04-25,Dia da Liberdade,Public,National
+PT,2023-04-26,Feriado Municipal,Public,CB-BE
+PT,2023-05-01,Dia do Trabalhador,Public,National
+PT,2023-05-02,Feriado Municipal,Public,AV-AR
+PT,2023-05-03,Feriado Municipal,Public,VI-SE
+PT,2023-05-04,Feriado Municipal,Public,SE-SS
+PT,2023-05-08,Feriado Municipal,Public,VR-MU
+PT,2023-05-12,Feriado Municipal,Public,AV-AV
+PT,2023-05-13,Feriado Municipal,Public,FA-VS
+PT,2023-05-14,Dia de São Frei Gil,Public,VI-VO
+PT,2023-05-15,Feriado Municipal,Public,LE-CR
+PT,2023-05-16,Feriado Municipal,Public,BR-FA
+PT,2023-05-17,Feriado Municipal,Public,SA-TN
+PT,2023-05-18,Feriado Municipal,Public,SA-TN
+PT,2023-05-20,Feriado Municipal,Public,BA-VN
+PT,2023-05-21,Feriado Municipal,Public,GU-VF
+PT,2023-05-22,Feriado Municipal,Public,LE-LE
+PT,2023-05-23,Feriado Municipal,Public,PA-PA
+PT,2023-05-23,Nascimento de Sacadura Cabral,Public,GU-CB
+PT,2023-05-25,Feriado Municipal,Public,SA-TN
+PT,2023-05-29,Feriado Municipal,Public,GU-TR
+PT,2023-05-29,Dia dos Açores,Public,AC
+PT,2023-05-29,Segunda-feira após o Domingo de Pentecostes,Public,AV-VG
+PT,2023-05-30,Terça-feira após o Domingo de Pentecostes,Public,PO-MT
+PT,2023-06-01,Nascimento de José Falcão,Public,CO-MC
+PT,2023-06-01,Feriado Municipal,Public,FA-SB
+PT,2023-06-01,Feriado Municipal,Public,SE-PA
+PT,2023-06-04,Feriado Municipal,Public,AV-AG
+PT,2023-06-07,Feriado Municipal,Public,LI-OE
+PT,2023-06-08,Corpo de Deus,Public,National
+PT,2023-06-09,Feriado Municipal,Public,AC-PC
+PT,2023-06-10,Dia de Portugal / de Camões e das Comunidades Portuguesas,Public,National
+PT,2023-06-13,Dia de Santo António,Public,LE-AV
+PT,2023-06-14,Feriado Municipal,Public,SA-AB
+PT,2023-06-16,Feriado Municipal,Public,FA-OL
+PT,2023-06-20,Feriado Municipal,Public,SA-OU
+PT,2023-06-22,Feriado Municipal,Public,VR-VP
+PT,2023-06-24,Batalha de São Mamede,Public,BR-GU
+PT,2023-06-24,Feriado Municipal,Public,MA-PS
+PT,2023-06-24,Dia de São João,Public,PO-VC
+PT,2023-06-24,Dia de São Nuno de Santa Maria,Public,CB-SE
+PT,2023-06-28,Feriado Municipal,Public,SE-BA
+PT,2023-06-29,Dia de PT Dia de São Pedro,Public,VI-PE
+PT,2023-06-29,Feriado Municipal,Public,AC-LP
+PT,2023-06-29,Dia de São Pedro,Public,VI-CD
+PT,2023-07-01,Dia da Madeira,Public,MA
+PT,2023-07-02,Batalha do Côa,Public,GU-AL
+PT,2023-07-03,Feriado Municipal,Public,GU-SE
+PT,2023-07-04,Feriado Municipal,Public,LE-CP
+PT,2023-07-07,Batalha de Salgadela,Public,GU-FC
+PT,2023-07-08,Feriado Municipal,Public,VR-CH
+PT,2023-07-10,Feriado Municipal,Public,PO-MI
+PT,2023-07-11,Dia de São Bento,Public,PO-ST
+PT,2023-07-17,Feriado Municipal,Public,VI-CS
+PT,2023-07-17,Nascimento de António José de Almeida,Public,CO-PC
+PT,2023-07-18,Feriado Municipal,Public,AC-NO
+PT,2023-07-22,Dia de Santa Maria Madalena,Public,AC-MA
+PT,2023-07-24,Dia de Santa Cristina,Public,CO-CN
+PT,2023-07-24,Feriado Municipal,Public,LE-PG
+PT,2023-07-25,Dia de São Tomé de Mira,Public,CO-MI
+PT,2023-07-25,Dia de São Cristóvão,Public,AV-OV
+PT,2023-07-25,Dia de São Tiago,Public,SE-SC
+PT,2023-07-26,Feriado Municipal,Public,LI-LS
+PT,2023-07-31,Feriado Municipal,Public,PO-LO
+PT,2023-08-06,Feriado Municipal,Public,LE-PN
+PT,2023-08-10,Dia de São Lourenço,Public,VC-PC
+PT,2023-08-11,Feriado Municipal,Public,AC-PV
+PT,2023-08-13,Feriado Municipal,Public,CO-GO
+PT,2023-08-14,Feriado Municipal,Public,CB-OL
+PT,2023-08-15,Assunção de Nossa Senhora,Public,National
+PT,2023-08-16,Nascimento de Couto Jardim,Public,EV-VV
+PT,2023-08-16,Feriado Municipal,Public,VR-PR
+PT,2023-08-16,Dia de São Roque,Public,AC-SP
+PT,2023-08-17,Feriado Municipal,Public,SA-CR
+PT,2023-08-19,Feriado Municipal,Public,BR-ES
+PT,2023-08-20,Feriado Municipal,Public,VC-VC
+PT,2023-08-20,Dia de São Bernardo,Public,VI-ST
+PT,2023-08-21,Feriado Municipal,Public,MA-FU
+PT,2023-08-22,Feriado Municipal,Public,BA-BR
+PT,2023-08-24,Dia do padroeiro São Bartolomeu,Public,PO-BA
+PT,2023-08-25,Feriado Municipal,Public,VI-PC
+PT,2023-08-28,Feriado Municipal,Public,BE-BA
+PT,2023-08-29,Feriado Municipal,Public,FA-AJ
+PT,2023-09-03,Conquista da cidade aos mouros,Public,FA-SI
+PT,2023-09-07,Feriado Municipal,Public,CO-AR
+PT,2023-09-08,Feriado Municipal,Public,MA-PD
+PT,2023-09-11,Feriado Municipal,Public,LI-AM
+PT,2023-09-15,Feriado Municipal,Public,CB-FU
+PT,2023-09-16,Dia de Santa Eufémia,Public,VI-TO
+PT,2023-09-19,Feriado Municipal,Public,CB-VR
+PT,2023-09-20,Feriado Municipal,Public,VC-PL
+PT,2023-09-21,Feriado Municipal,Public,CO-SO
+PT,2023-09-21,Dia de São Mateus,Public,AV-SV
+PT,2023-09-22,Feriado Municipal,Public,SA-SD
+PT,2023-09-29,Feriado Municipal,Public,VI-TR
+PT,2023-09-29,Dia de São Miguel Arcanjo,Public,CO-PL
+PT,2023-10-01,Feriado Municipal,Public,VC-VN
+PT,2023-10-02,Feriado Municipal,Public,PO-GO
+PT,2023-10-05,Implantação da República,Public,National
+PT,2023-10-07,Feriado Municipal,Public,VI-OF
+PT,2023-10-09,Feriado Municipal,Public,MA-MA
+PT,2023-10-11,Feriado Municipal,Public,AV-SJ
+PT,2023-10-15,Feriado Municipal,Public,BA-MO
+PT,2023-10-16,Feriado Municipal,Public,MA-CL
+PT,2023-10-20,Feriado Municipal,Public,CB-CO
+PT,2023-10-22,Feriado Municipal,Public,SE-GR
+PT,2023-10-25,Dia de Santa Catarina,Public,MA-CT
+PT,2023-10-27,Feriado Municipal,Public,FA-LS
+PT,2023-11-01,Todos-os-Santos,Public,National
+PT,2023-11-06,Feriado Municipal,Public,SA-RM
+PT,2023-11-11,Dia de São Martinho,Public,VR-AL
+PT,2023-11-19,Feriado Municipal,Public,LI-OD
+PT,2023-11-23,Feriado Municipal,Public,PA-GA
+PT,2023-11-24,Feriado Municipal,Public,SE-SI
+PT,2023-11-27,Feriado Municipal,Public,GU-GU
+PT,2023-11-30,Dia de Santo André,Public,VR-MF
+PT,2023-12-01,Restauração da Independência,Public,National
+PT,2023-12-08,Imaculada Conceição,Public,National
+PT,2023-12-11,Feriado Municipal,Public,FA-PO
+PT,2023-12-25,Natal,Public,National
+PT,2023-12-26,Primeira Oitava,Public,MA
+PT,2024-01-01,Ano Novo,Public,National
+PT,2024-01-11,Feriado Municipal,Public,LE-OB
+PT,2024-01-13,Feriado Municipal,Public,VR-SM
+PT,2024-01-14,Feriado Municipal,Public,PA-EL
+PT,2024-01-15,Dia de Santo Amaro,Public,MA-SC
+PT,2024-01-20,Feriado Municipal,Public,AV-SM
+PT,2024-01-22,Dia de São Vicente,Public,MA-SV
+PT,2024-02-02,Feriado Municipal,Public,EV-MO
+PT,2024-02-10,Feriado Municipal,Public,GU-AB
+PT,2024-02-13,Carnaval,Public,National
+PT,2024-02-18,Feriado Municipal,Public,VC-VA
+PT,2024-03-01,Feriado Municipal,Public,SA-TM
+PT,2024-03-02,Feriado Municipal,Public,VI-VP
+PT,2024-03-04,Feriado Municipal,Public,GU-MA
+PT,2024-03-05,Feriado Municipal,Public,BE-FA
+PT,2024-03-08,Feriado Municipal,Public,EV-MN
+PT,2024-03-12,Feriado Municipal,Public,VC-MO
+PT,2024-03-19,Feriado Municipal,Public,SA-SA
+PT,2024-03-29,Sexta-feira Santa,Public,National
+PT,2024-03-31,Domingo de Páscoa,Public,National
+PT,2024-04-01,Segunda-feira após a Páscoa,Public,AV-IL
+PT,2024-04-02,Feriado Municipal,Public,BE-SE
+PT,2024-04-06,Batalha dos Atoleiros,Public,PA-FR
+PT,2024-04-08,Segunda-feira após o primeiro Domingo depois da Páscoa,Public,PA-AV
+PT,2024-04-10,Feriado Municipal,Public,CO-PS
+PT,2024-04-11,Feriado Municipal,Public,AC-LG
+PT,2024-04-15,Feriado Municipal,Public,CB-IN
+PT,2024-04-15,Feriado Municipal,Public,CB-CB
+PT,2024-04-22,Feriado Municipal,Public,AC-PD
+PT,2024-04-23,Dia de São Jorge,Public,AC-VE
+PT,2024-04-25,Dia da Liberdade,Public,National
+PT,2024-04-26,Feriado Municipal,Public,CB-BE
+PT,2024-05-01,Dia do Trabalhador,Public,National
+PT,2024-05-02,Feriado Municipal,Public,AV-AR
+PT,2024-05-03,Feriado Municipal,Public,VI-SE
+PT,2024-05-04,Feriado Municipal,Public,SE-SS
+PT,2024-05-08,Feriado Municipal,Public,VR-MU
+PT,2024-05-09,Feriado Municipal,Public,SA-TN
+PT,2024-05-12,Feriado Municipal,Public,AV-AV
+PT,2024-05-13,Feriado Municipal,Public,FA-VS
+PT,2024-05-14,Dia de São Frei Gil,Public,VI-VO
+PT,2024-05-15,Feriado Municipal,Public,LE-CR
+PT,2024-05-16,Feriado Municipal,Public,BR-FA
+PT,2024-05-17,Feriado Municipal,Public,SA-TN
+PT,2024-05-20,Segunda-feira após o Domingo de Pentecostes,Public,AV-VG
+PT,2024-05-20,Feriado Municipal,Public,BA-VN
+PT,2024-05-20,Dia dos Açores,Public,AC
+PT,2024-05-21,Terça-feira após o Domingo de Pentecostes,Public,PO-MT
+PT,2024-05-21,Feriado Municipal,Public,GU-VF
+PT,2024-05-22,Feriado Municipal,Public,LE-LE
+PT,2024-05-23,Feriado Municipal,Public,PA-PA
+PT,2024-05-23,Nascimento de Sacadura Cabral,Public,GU-CB
+PT,2024-05-25,Feriado Municipal,Public,SA-TN
+PT,2024-05-29,Feriado Municipal,Public,GU-TR
+PT,2024-05-30,Corpo de Deus,Public,National
+PT,2024-05-31,Feriado Municipal,Public,AC-PC
+PT,2024-06-01,Feriado Municipal,Public,SE-PA
+PT,2024-06-01,Feriado Municipal,Public,FA-SB
+PT,2024-06-01,Nascimento de José Falcão,Public,CO-MC
+PT,2024-06-04,Feriado Municipal,Public,AV-AG
+PT,2024-06-07,Feriado Municipal,Public,LI-OE
+PT,2024-06-09,Feriado Municipal,Public,VR-MT
+PT,2024-06-10,Dia de Portugal / de Camões e das Comunidades Portuguesas,Public,National
+PT,2024-06-13,Dia de Santo António,Public,LE-AV
+PT,2024-06-14,Feriado Municipal,Public,SA-AB
+PT,2024-06-16,Feriado Municipal,Public,FA-OL
+PT,2024-06-20,Feriado Municipal,Public,SA-OU
+PT,2024-06-22,Feriado Municipal,Public,VR-VP
+PT,2024-06-24,Dia de São Nuno de Santa Maria,Public,CB-SE
+PT,2024-06-24,Batalha de São Mamede,Public,BR-GU
+PT,2024-06-24,Dia de São João,Public,PO-VC
+PT,2024-06-24,Feriado Municipal,Public,MA-PS
+PT,2024-06-28,Feriado Municipal,Public,SE-BA
+PT,2024-06-29,Dia de PT Dia de São Pedro,Public,VI-PE
+PT,2024-06-29,Feriado Municipal,Public,AC-LP
+PT,2024-06-29,Dia de São Pedro,Public,VI-CD
+PT,2024-07-01,Dia da Madeira,Public,MA
+PT,2024-07-02,Batalha do Côa,Public,GU-AL
+PT,2024-07-03,Feriado Municipal,Public,GU-SE
+PT,2024-07-04,Feriado Municipal,Public,LE-CP
+PT,2024-07-07,Batalha de Salgadela,Public,GU-FC
+PT,2024-07-08,Feriado Municipal,Public,VR-CH
+PT,2024-07-10,Feriado Municipal,Public,BA-MD
+PT,2024-07-11,Dia de São Bento,Public,PO-ST
+PT,2024-07-15,Feriado Municipal,Public,PO-MI
+PT,2024-07-17,Nascimento de António José de Almeida,Public,CO-PC
+PT,2024-07-18,Feriado Municipal,Public,AC-NO
+PT,2024-07-22,Feriado Municipal,Public,VI-CS
+PT,2024-07-22,Dia de Santa Maria Madalena,Public,AC-MA
+PT,2024-07-24,Feriado Municipal,Public,LE-PG
+PT,2024-07-24,Dia de Santa Cristina,Public,CO-CN
+PT,2024-07-25,Dia de São Tomé de Mira,Public,CO-MI
+PT,2024-07-25,Dia de São Tiago,Public,SE-SC
+PT,2024-07-25,Dia de São Cristóvão,Public,AV-OV
+PT,2024-07-26,Feriado Municipal,Public,LI-LS
+PT,2024-07-29,Feriado Municipal,Public,PO-LO
+PT,2024-08-06,Feriado Municipal,Public,LE-PN
+PT,2024-08-10,Dia de São Lourenço,Public,VC-PC
+PT,2024-08-11,Feriado Municipal,Public,AC-PV
+PT,2024-08-12,Feriado Municipal,Public,CB-OL
+PT,2024-08-13,Feriado Municipal,Public,CO-GO
+PT,2024-08-14,Feriado Municipal,Public,LE-BA
+PT,2024-08-15,Assunção de Nossa Senhora,Public,National
+PT,2024-08-16,Feriado Municipal,Public,VR-PR
+PT,2024-08-16,Dia de São Roque,Public,AC-SP
+PT,2024-08-16,Nascimento de Couto Jardim,Public,EV-VV
+PT,2024-08-17,Feriado Municipal,Public,SA-CR
+PT,2024-08-19,Feriado Municipal,Public,BR-ES
+PT,2024-08-20,Feriado Municipal,Public,VC-VC
+PT,2024-08-20,Dia de São Bernardo,Public,VI-ST
+PT,2024-08-21,Feriado Municipal,Public,MA-FU
+PT,2024-08-22,Feriado Municipal,Public,BA-BR
+PT,2024-08-24,Dia do padroeiro São Bartolomeu,Public,PO-BA
+PT,2024-08-25,Feriado Municipal,Public,VI-PC
+PT,2024-08-26,Feriado Municipal,Public,CB-VV
+PT,2024-08-28,Feriado Municipal,Public,BE-BA
+PT,2024-08-29,Feriado Municipal,Public,FA-AJ
+PT,2024-08-30,Feriado Municipal,Public,BA-CA
+PT,2024-09-03,Conquista da cidade aos mouros,Public,FA-SI
+PT,2024-09-07,Feriado Municipal,Public,CO-AR
+PT,2024-09-08,Feriado Municipal,Public,MA-PD
+PT,2024-09-11,Feriado Municipal,Public,LI-AM
+PT,2024-09-15,Feriado Municipal,Public,CB-FU
+PT,2024-09-16,Dia de Santa Eufémia,Public,VI-TO
+PT,2024-09-19,Feriado Municipal,Public,CB-VR
+PT,2024-09-20,Feriado Municipal,Public,VC-PL
+PT,2024-09-21,Feriado Municipal,Public,CO-SO
+PT,2024-09-21,Dia de São Mateus,Public,AV-SV
+PT,2024-09-22,Feriado Municipal,Public,SA-SD
+PT,2024-09-29,Dia de São Miguel Arcanjo,Public,CO-PL
+PT,2024-09-29,Feriado Municipal,Public,VI-TR
+PT,2024-10-01,Feriado Municipal,Public,VC-VN
+PT,2024-10-05,Implantação da República,Public,National
+PT,2024-10-07,Feriado Municipal,Public,VI-OF
+PT,2024-10-09,Feriado Municipal,Public,MA-MA
+PT,2024-10-11,Feriado Municipal,Public,AV-SJ
+PT,2024-10-15,Feriado Municipal,Public,BA-MO
+PT,2024-10-16,Feriado Municipal,Public,MA-CL
+PT,2024-10-20,Feriado Municipal,Public,CB-CO
+PT,2024-10-22,Feriado Municipal,Public,SE-GR
+PT,2024-10-25,Dia de Santa Catarina,Public,MA-CT
+PT,2024-10-27,Feriado Municipal,Public,FA-LS
+PT,2024-11-01,Todos-os-Santos,Public,National
+PT,2024-11-06,Feriado Municipal,Public,SA-RM
+PT,2024-11-11,Dia de São Martinho,Public,VR-AL
+PT,2024-11-19,Feriado Municipal,Public,LI-OD
+PT,2024-11-23,Feriado Municipal,Public,PA-GA
+PT,2024-11-24,Feriado Municipal,Public,SE-SI
+PT,2024-11-27,Feriado Municipal,Public,GU-GU
+PT,2024-11-30,Dia de Santo André,Public,VR-MF
+PT,2024-12-01,Restauração da Independência,Public,National
+PT,2024-12-08,Imaculada Conceição,Public,National
+PT,2024-12-11,Feriado Municipal,Public,FA-PO
+PT,2024-12-25,Natal,Public,National
+PT,2024-12-26,Primeira Oitava,Public,MA
+PT,2021-12-20,Férias de Natal,School,National
+PT,2022-03-01,Férias de Carnaval,School,National
+PT,2022-04-11,Férias de Páscoa,School,National
+PT,2022-06-08,Férias de verão,School,National
+PT,2022-06-16,Férias de verão,School,National
+PT,2022-07-01,Férias de verão,School,National
+PT,2022-12-19,Férias de Natal,School,National
+PT,2023-02-20,Férias de Carnaval,School,National
+PT,2023-04-03,Férias de Páscoa,School,National
+PT,2023-06-08,Férias de verão,School,National
+PT,2023-06-15,Férias de verão,School,National
+PT,2023-07-01,Férias de verão,School,National
+PT,2023-12-18,Férias de Natal,School,National
+PT,2024-02-12,Férias de Carnaval,School,National
+PT,2024-03-25,Férias de Páscoa,School,National
+PT,2024-06-05,Férias de verão,School,National
+PT,2024-06-15,Férias de verão,School,National
+PT,2024-06-29,Férias de verão,School,National
+PT,2024-12-18,Férias de Natal,School,National
+RO,2022-01-01,Anul Nou,Public,National
+RO,2022-01-06,Bobotează,Public,National
+RO,2022-01-07,Sfântul Ion,Public,National
+RO,2022-01-24,Ziua Unirii Principatelor Române,Public,National
+RO,2022-04-22,Vinerea Mare,Public,National
+RO,2022-04-24,Prima zi de Paşti,Public,National
+RO,2022-04-25,A doua zi de Paște,Public,National
+RO,2022-05-01,Ziua Muncii,Public,National
+RO,2022-06-01,Ziua Copilului,Public,National
+RO,2022-06-12,Prima zi de Rusalii,Public,National
+RO,2022-06-13,A doua zi de Rusalii,Public,National
+RO,2022-08-15,Adormirea Maicii Domnului,Public,National
+RO,2022-11-30,Sfântul Apostol Andrei,Public,National
+RO,2022-12-01,Ziua Națională a României,Public,National
+RO,2022-12-25,Prima zi de Crăciun,Public,National
+RO,2022-12-26,A doua zi de Crăciun,Public,National
+RO,2023-01-01,Anul Nou,Public,National
+RO,2023-01-06,Bobotează,Public,National
+RO,2023-01-07,Sfântul Ion,Public,National
+RO,2023-01-24,Ziua Unirii Principatelor Române,Public,National
+RO,2023-04-14,Vinerea Mare,Public,National
+RO,2023-04-17,Prima zi de Paşti,Public,National
+RO,2023-04-18,A doua zi de Paște,Public,National
+RO,2023-05-01,Ziua Muncii,Public,National
+RO,2023-06-01,Ziua Copilului,Public,National
+RO,2023-06-04,Prima zi de Rusalii,Public,National
+RO,2023-06-05,A doua zi de Rusalii,Public,National
+RO,2023-08-15,Adormirea Maicii Domnului,Public,National
+RO,2023-11-30,Sfântul Apostol Andrei,Public,National
+RO,2023-12-01,Ziua Națională a României,Public,National
+RO,2023-12-25,Prima zi de Crăciun,Public,National
+RO,2023-12-26,A doua zi de Crăciun,Public,National
+RO,2024-01-01,Anul Nou,Public,National
+RO,2024-01-06,Bobotează,Public,National
+RO,2024-01-07,Sfântul Ion,Public,National
+RO,2024-01-24,Ziua Unirii Principatelor Române,Public,National
+RO,2024-05-01,Ziua Muncii,Public,National
+RO,2024-05-03,Vinerea Mare,Public,National
+RO,2024-05-05,Prima zi de Paşti,Public,National
+RO,2024-05-06,A doua zi de Paște,Public,National
+RO,2024-06-01,Ziua Copilului,Public,National
+RO,2024-06-23,Prima zi de Rusalii,Public,National
+RO,2024-06-24,A doua zi de Rusalii,Public,National
+RO,2024-08-15,Adormirea Maicii Domnului,Public,National
+RO,2024-11-30,Sfântul Apostol Andrei,Public,National
+RO,2024-12-01,Ziua Națională a României,Public,National
+RO,2024-12-25,Prima zi de Crăciun,Public,National
+RO,2024-12-26,A doua zi de Crăciun,Public,National
+RO,2021-12-24,Vacanţa de iarnă,School,National
+RO,2021-12-24,Vacanţa de iarnă,School,National
+RO,2022-04-15,Vacanţa de primăvară,School,National
+RO,2022-06-11,Vacanţa de vară,School,National
+RO,2022-10-22,Vacanţa de toamnă,School,National
+RO,2022-12-23,Vacanţa de iarnă,School,National
+RO,2023-02-06,Vacanţa de schi,School,SV
+RO,2023-02-13,Vacanţa de schi,School,CL
+RO,2023-02-20,Vacanţa de schi,School,CS
+RO,2023-04-07,Vacanţa de primăvară,School,National
+RO,2023-06-17,Vacanţa de vară,School,National
+RO,2023-10-28,Vacanţa de toamnă,School,National
+RO,2023-12-23,Vacanţa de iarnă,School,National
+RO,2024-02-12,Vacanţa de schi,School,National
+RO,2024-02-12,Vacanţa de schi,School,SM
+RO,2024-02-19,Vacanţa de schi,School,CS
+RO,2024-02-26,Vacanţa de schi,School,SV
+RO,2024-04-27,Vacanţa de primăvară,School,National
+RO,2024-06-22,Vacanţa de vară,School,National
+RO,2024-10-26,Vacanţa de toamnă,School,National
+RO,2024-12-21,Vacanţa de iarnă,School,National
+RS,2022-01-01,Нова Година,Public,National
+RS,2022-01-07,Први дан Божића,Public,National
+RS,2022-02-15,Дан државности Србије,Public,National
+RS,2022-04-22,Добар петак,Public,National
+RS,2022-04-23,Ускршња субота,Public,National
+RS,2022-04-24,Ускрс,Public,National
+RS,2022-04-25,Ускршњи понедељак,Public,National
+RS,2022-05-01,Празник рада,Public,National
+RS,2022-11-11,Дан примирја у Првом светском рату,Public,National
+RS,2023-01-01,Нова Година,Public,National
+RS,2023-01-07,Први дан Божића,Public,National
+RS,2023-02-15,Дан државности Србије,Public,National
+RS,2023-04-14,Добар петак,Public,National
+RS,2023-04-15,Ускршња субота,Public,National
+RS,2023-04-16,Ускрс,Public,National
+RS,2023-04-17,Ускршњи понедељак,Public,National
+RS,2023-05-01,Празник рада,Public,National
+RS,2023-11-11,Дан примирја у Првом светском рату,Public,National
+RS,2024-01-01,Нова Година,Public,National
+RS,2024-01-07,Први дан Божића,Public,National
+RS,2024-02-15,Дан државности Србије,Public,National
+RS,2024-05-01,Празник рада,Public,National
+RS,2024-05-03,Добар петак,Public,National
+RS,2024-05-04,Ускршња субота,Public,National
+RS,2024-05-05,Ускрс,Public,National
+RS,2024-05-06,Ускршњи понедељак,Public,National
+RS,2024-11-11,Дан примирја у Првом светском рату,Public,National
+RS,2021-12-31,Зимски распуст,School,National
+RS,2022-01-04,Зимски распуст,School,National
+RS,2022-04-22,Пролећни распуст,School,National
+RS,2022-06-22,Летњи распуст,School,National
+RS,2023-01-03,Зимски распуст,School,National
+RS,2023-01-03,Зимски распуст,School,National
+RS,2023-04-11,Пролећни распуст,School,National
+RS,2023-06-21,Летњи распуст,School,National
+RS,2023-11-08,Јесењи распуст,School,National
+RS,2024-01-01,Зимски распуст,School,National
+RS,2024-04-29,Пролећни распуст,School,National
+RS,2024-06-24,Летњи распуст,School,National
+RS,2024-11-11,Јесењи распуст,School,National
+RS,2024-12-30,Зимски распуст,School,National
+SI,2022-01-01,novo leto,Public,National
+SI,2022-02-08,Prešernov dan,Public,National
+SI,2022-04-17,velikonočna nedelja,Public,National
+SI,2022-04-18,velikonočni ponedeljek,Public,National
+SI,2022-04-27,dan upora proti okupatorju,Public,National
+SI,2022-05-01,praznik dela,Public,National
+SI,2022-05-02,praznik dela,Public,National
+SI,2022-06-05,binkoštna nedelja,Public,National
+SI,2022-06-25,dan državnosti,Public,National
+SI,2022-08-15,Marijino vnebovzetje,Public,National
+SI,2022-10-31,dan reformacije,Public,National
+SI,2022-11-01,dan spomina na mrtve,Public,National
+SI,2022-12-25,božič,Public,National
+SI,2022-12-26,dan samostojnosti in enotnosti,Public,National
+SI,2023-01-01,novo leto,Public,National
+SI,2023-02-08,Prešernov dan,Public,National
+SI,2023-04-09,velikonočna nedelja,Public,National
+SI,2023-04-10,velikonočni ponedeljek,Public,National
+SI,2023-04-27,dan upora proti okupatorju,Public,National
+SI,2023-05-01,praznik dela,Public,National
+SI,2023-05-02,praznik dela,Public,National
+SI,2023-05-28,binkoštna nedelja,Public,National
+SI,2023-06-25,dan državnosti,Public,National
+SI,2023-08-15,Marijino vnebovzetje,Public,National
+SI,2023-10-31,dan reformacije,Public,National
+SI,2023-11-01,dan spomina na mrtve,Public,National
+SI,2023-12-25,božič,Public,National
+SI,2023-12-26,dan samostojnosti in enotnosti,Public,National
+SI,2024-01-01,novo leto,Public,National
+SI,2024-02-08,Prešernov dan,Public,National
+SI,2024-03-31,velikonočna nedelja,Public,National
+SI,2024-04-01,velikonočni ponedeljek,Public,National
+SI,2024-04-27,dan upora proti okupatorju,Public,National
+SI,2024-05-01,praznik dela,Public,National
+SI,2024-05-02,praznik dela,Public,National
+SI,2024-05-19,binkoštna nedelja,Public,National
+SI,2024-06-25,dan državnosti,Public,National
+SI,2024-08-15,Marijino vnebovzetje,Public,National
+SI,2024-10-31,dan reformacije,Public,National
+SI,2024-11-01,dan spomina na mrtve,Public,National
+SI,2024-12-25,božič,Public,National
+SI,2024-12-26,dan samostojnosti in enotnosti,Public,National
+SI,2021-12-25,Novoletne počitnice,School,National
+SI,2022-02-21,Zimske počitnice,School,ZR
+SI,2022-02-28,Zimske počitnice,School,VR
+SI,2022-04-27,Prvomajske počitnice,School,National
+SI,2022-04-28,Prvomajske počitnice,School,National
+SI,2022-06-26,Poletne počitnice,School,National
+SI,2022-10-31,Jesenske počitnice,School,National
+SI,2022-12-26,Novoletne počitnice,School,National
+SI,2022-12-27,Novoletne počitnice,School,National
+SI,2023-01-30,Zimske počitnice,School,VR
+SI,2023-02-06,Zimske počitnice,School,ZR
+SI,2023-04-27,Prvomajske počitnice,School,National
+SI,2023-04-28,Prvomajske počitnice,School,National
+SI,2023-06-26,Poletne počitnice,School,National
+SI,2023-10-30,Jesenske počitnice,School,National
+SI,2023-12-25,Novoletne počitnice,School,National
+SI,2023-12-27,Novoletne počitnice,School,National
+SI,2024-02-19,Zimske počitnice,School,ZR
+SI,2024-02-26,Zimske počitnice,School,VR
+SI,2024-04-27,Prvomajske počitnice,School,National
+SI,2024-04-28,Prvomajske počitnice,School,National
+SI,2024-05-03,Pouka prost dan,School,National
+SI,2024-06-26,Poletne počitnice,School,National
+SI,2024-10-28,Jesenske počitnice,School,National
+SI,2024-12-25,Novoletne počitnice,School,National
+SI,2024-12-27,Novoletne počitnice,School,National
+SK,2022-01-01,Deň vzniku Slovenskej republiky,Public,National
+SK,2022-01-06,Zjavenie Pána,Public,National
+SK,2022-04-15,Veľký piatok,Public,National
+SK,2022-04-18,Veľkonočný pondelok,Public,National
+SK,2022-05-01,Sviatok práce,Public,National
+SK,2022-05-08,Deň víťazstva nad fašizmom,Public,National
+SK,2022-07-05,Sviatok svätého Cyrila a Metoda,Public,National
+SK,2022-08-29,Výročie Slovenského národného povstania,Public,National
+SK,2022-09-01,Deň Ústavy Slovenskej republiky,Public,National
+SK,2022-09-15,Sedembolestná Panna Mária,Public,National
+SK,2022-11-01,Sviatok všetkých svätých,Public,National
+SK,2022-11-17,Deň boja za slobodu a demokraciu,Public,National
+SK,2022-12-24,Štedrý deň,Public,National
+SK,2022-12-25,Prvý sviatok vianočný,Public,National
+SK,2022-12-26,Druhý sviatok vianočný,Public,National
+SK,2023-01-01,Deň vzniku Slovenskej republiky,Public,National
+SK,2023-01-06,Zjavenie Pána,Public,National
+SK,2023-04-07,Veľký piatok,Public,National
+SK,2023-04-10,Veľkonočný pondelok,Public,National
+SK,2023-05-01,Sviatok práce,Public,National
+SK,2023-05-08,Deň víťazstva nad fašizmom,Public,National
+SK,2023-07-05,Sviatok svätého Cyrila a Metoda,Public,National
+SK,2023-08-29,Výročie Slovenského národného povstania,Public,National
+SK,2023-09-01,Deň Ústavy Slovenskej republiky,Public,National
+SK,2023-09-15,Sedembolestná Panna Mária,Public,National
+SK,2023-11-01,Sviatok všetkých svätých,Public,National
+SK,2023-11-17,Deň boja za slobodu a demokraciu,Public,National
+SK,2023-12-24,Štedrý deň,Public,National
+SK,2023-12-25,Prvý sviatok vianočný,Public,National
+SK,2023-12-26,Druhý sviatok vianočný,Public,National
+SK,2024-01-01,Deň vzniku Slovenskej republiky,Public,National
+SK,2024-01-06,Zjavenie Pána,Public,National
+SK,2024-03-29,Veľký piatok,Public,National
+SK,2024-04-01,Veľkonočný pondelok,Public,National
+SK,2024-05-01,Sviatok práce,Public,National
+SK,2024-05-08,Deň víťazstva nad fašizmom,Public,National
+SK,2024-07-05,Sviatok svätého Cyrila a Metoda,Public,National
+SK,2024-08-29,Výročie Slovenského národného povstania,Public,National
+SK,2024-09-01,Deň Ústavy Slovenskej republiky,Public,National
+SK,2024-09-15,Sedembolestná Panna Mária,Public,National
+SK,2024-11-01,Sviatok všetkých svätých,Public,National
+SK,2024-11-17,Deň boja za slobodu a demokraciu,Public,National
+SK,2024-12-24,Štedrý deň,Public,National
+SK,2024-12-25,Prvý sviatok vianočný,Public,National
+SK,2024-12-26,Druhý sviatok vianočný,Public,National
+SK,2021-12-23,Vianočné prázdniny,School,BL
+SK,2022-02-21,Jarné prázdniny,School,KI
+SK,2022-02-28,Jarné prázdniny,School,BL
+SK,2022-03-07,Jarné prázdniny,School,ZI
+SK,2022-04-14,Veľkonočné prázdniny,School,BL
+SK,2022-07-01,Letné prázdniny,School,BL
+SK,2022-10-28,Jesenné prázdniny,School,BL
+SK,2022-12-23,Vianočné prázdniny,School,BL
+SK,2023-02-20,Jarné prázdniny,School,BL
+SK,2023-02-27,Jarné prázdniny,School,ZI
+SK,2023-03-06,Jarné prázdniny,School,KI
+SK,2023-04-06,Veľkonočné prázdniny,School,BL
+SK,2023-07-01,Letné prázdniny,School,BL
+SK,2023-10-30,Jesenné prázdniny,School,BL
+SK,2023-12-23,Vianočné prázdniny,School,BL
+SK,2024-02-19,Jarné prázdniny,School,ZI
+SK,2024-02-26,Jarné prázdniny,School,KI
+SK,2024-03-04,Jarné prázdniny,School,BL
+SK,2024-03-28,Veľkonočné prázdniny,School,BL
+SK,2024-07-01,Letné prázdniny,School,BL
+SK,2024-10-30,Jesenné prázdniny,School,BL
+SK,2024-12-23,Vianočné prázdniny,School,BL
+SM,2022-01-01,Maria Santissima Madre di Dio,Public,National
+SM,2022-01-06,Epifania del Signore,Public,National
+SM,2022-02-05,Sant'Agata / Compatrona della Repubblica,Public,National
+SM,2022-03-25,Anniversario dell’Arengo,Public,National
+SM,2022-04-01,Investitura Capitani Reggenti,Public,National
+SM,2022-04-17,Pasqua,Public,National
+SM,2022-04-18,Lunedì di Pasqua,Public,National
+SM,2022-05-01,Festa dei lavoratori,Public,National
+SM,2022-06-16,Corpus Domini,Public,National
+SM,2022-07-28,Anniversario della Caduta del Fascismo e Festa della Libertà,Public,National
+SM,2022-08-15,Assunzione della Beata Vergine Maria,Public,National
+SM,2022-09-03,San Marino / Patrono e Fondatore della Repubblica,Public,National
+SM,2022-10-01,Investitura Capitani Reggenti,Public,National
+SM,2022-11-01,Tutti i Santi,Public,National
+SM,2022-11-02,Commemorazione dei defunti,Public,National
+SM,2022-12-08,Immacolata Concezione della Beata Vergine Maria,Public,National
+SM,2022-12-25,Natale del Signore,Public,National
+SM,2022-12-26,Santo Stefano,Public,National
+SM,2023-01-01,Maria Santissima Madre di Dio,Public,National
+SM,2023-01-06,Epifania del Signore,Public,National
+SM,2023-02-05,Sant'Agata / Compatrona della Repubblica,Public,National
+SM,2023-03-25,Anniversario dell’Arengo,Public,National
+SM,2023-04-01,Investitura Capitani Reggenti,Public,National
+SM,2023-04-09,Pasqua,Public,National
+SM,2023-04-10,Lunedì di Pasqua,Public,National
+SM,2023-05-01,Festa dei lavoratori,Public,National
+SM,2023-06-08,Corpus Domini,Public,National
+SM,2023-07-28,Anniversario della Caduta del Fascismo e Festa della Libertà,Public,National
+SM,2023-08-15,Assunzione della Beata Vergine Maria,Public,National
+SM,2023-09-03,San Marino / Patrono e Fondatore della Repubblica,Public,National
+SM,2023-10-01,Investitura Capitani Reggenti,Public,National
+SM,2023-11-01,Tutti i Santi,Public,National
+SM,2023-11-02,Commemorazione dei defunti,Public,National
+SM,2023-12-08,Immacolata Concezione della Beata Vergine Maria,Public,National
+SM,2023-12-25,Natale del Signore,Public,National
+SM,2023-12-26,Santo Stefano,Public,National
+SM,2024-01-01,Maria Santissima Madre di Dio,Public,National
+SM,2024-01-06,Epifania del Signore,Public,National
+SM,2024-02-05,Sant'Agata / Compatrona della Repubblica,Public,National
+SM,2024-03-25,Anniversario dell’Arengo,Public,National
+SM,2024-03-31,Pasqua,Public,National
+SM,2024-04-01,Lunedì di Pasqua,Public,National
+SM,2024-04-01,Investitura Capitani Reggenti,Public,National
+SM,2024-05-01,Festa dei lavoratori,Public,National
+SM,2024-05-30,Corpus Domini,Public,National
+SM,2024-07-28,Anniversario della Caduta del Fascismo e Festa della Libertà,Public,National
+SM,2024-08-15,Assunzione della Beata Vergine Maria,Public,National
+SM,2024-09-03,San Marino / Patrono e Fondatore della Repubblica,Public,National
+SM,2024-10-01,Investitura Capitani Reggenti,Public,National
+SM,2024-11-01,Tutti i Santi,Public,National
+SM,2024-11-02,Commemorazione dei defunti,Public,National
+SM,2024-12-08,Immacolata Concezione della Beata Vergine Maria,Public,National
+SM,2024-12-25,Natale del Signore,Public,National
+SM,2024-12-26,Santo Stefano,Public,National
+SM,2021-12-24,Vacanze Natalizie,School,National
+SM,2022-04-14,Vacanze Pasquali,School,National
+SM,2022-06-12,Vacanze Estive,School,National
+SM,2022-12-24,Vacanze Natalizie,School,National
+SM,2023-04-03,Vacanze Pasquali,School,National
+SM,2023-06-08,Vacanze Estive,School,National
+SM,2023-12-24,Vacanze Natalizie,School,National
+SM,2024-03-26,Vacanze Pasquali,School,National
+SM,2024-06-08,Vacanze Estive,School,National
+SM,2024-12-23,Vacanze Natalizie,School,National
+VA,2022-01-01,Maria Santissima Madre di Dio,Public,National
+VA,2022-01-06,Epifania del Signore,Public,National
+VA,2022-02-11,Anniversario della istituzione dello Stato della Città del Vaticano,Public,National
+VA,2022-03-13,Anniversario dell'Elezione del Santo Padre,Public,National
+VA,2022-03-19,San Giuseppe,Public,National
+VA,2022-04-14,Giovedì santo,Public,National
+VA,2022-04-15,Venerdì santo,Public,National
+VA,2022-04-16,Sabato di Pasqua,Public,National
+VA,2022-04-17,Domenica di Pasqua,Public,National
+VA,2022-04-18,Lunedì di Pasqua,Public,National
+VA,2022-04-19,Martedì di Pasqua,Public,National
+VA,2022-04-23,Onomastico del Santo Padre,Public,National
+VA,2022-05-01,San Giuseppe lavoratore,Public,National
+VA,2022-06-29,Santi Pietro e Paolo,Public,National
+VA,2022-08-14,Vigilia dell'Assunzione di Maria in Cielo,Public,National
+VA,2022-08-15,Assunzione di Maria in Cielo,Public,National
+VA,2022-08-16,Santo Stefano d'Ungheria,Public,National
+VA,2022-09-08,Festa della natività della madonna,Public,National
+VA,2022-11-01,"Tutti i santi, Ognissanti",Public,National
+VA,2022-11-02,Giorno dei morti,Public,National
+VA,2022-12-08,Immacolata Concezione,Public,National
+VA,2022-12-24,Vigilia di Natale,Public,National
+VA,2022-12-25,Natale,Public,National
+VA,2022-12-26,Santo Stefano,Public,National
+VA,2022-12-26,Silvestro,Public,National
+VA,2022-12-27,San Giovanni Evangelista,Public,National
+VA,2023-01-01,Maria Santissima Madre di Dio,Public,National
+VA,2023-01-06,Epifania del Signore,Public,National
+VA,2023-02-11,Anniversario della istituzione dello Stato della Città del Vaticano,Public,National
+VA,2023-03-13,Anniversario dell'Elezione del Santo Padre,Public,National
+VA,2023-03-19,San Giuseppe,Public,National
+VA,2023-04-06,Giovedì santo,Public,National
+VA,2023-04-07,Venerdì santo,Public,National
+VA,2023-04-08,Sabato di Pasqua,Public,National
+VA,2023-04-09,Domenica di Pasqua,Public,National
+VA,2023-04-10,Lunedì di Pasqua,Public,National
+VA,2023-04-11,Martedì di Pasqua,Public,National
+VA,2023-04-23,Onomastico del Santo Padre,Public,National
+VA,2023-05-01,San Giuseppe lavoratore,Public,National
+VA,2023-06-29,Santi Pietro e Paolo,Public,National
+VA,2023-08-14,Vigilia dell'Assunzione di Maria in Cielo,Public,National
+VA,2023-08-15,Assunzione di Maria in Cielo,Public,National
+VA,2023-08-16,Santo Stefano d'Ungheria,Public,National
+VA,2023-09-08,Festa della natività della madonna,Public,National
+VA,2023-11-01,"Tutti i santi, Ognissanti",Public,National
+VA,2023-11-02,Giorno dei morti,Public,National
+VA,2023-12-08,Immacolata Concezione,Public,National
+VA,2023-12-24,Vigilia di Natale,Public,National
+VA,2023-12-25,Natale,Public,National
+VA,2023-12-26,Silvestro,Public,National
+VA,2023-12-26,Santo Stefano,Public,National
+VA,2023-12-27,San Giovanni Evangelista,Public,National
+VA,2024-01-01,Maria Santissima Madre di Dio,Public,National
+VA,2024-01-06,Epifania del Signore,Public,National
+VA,2024-02-11,Anniversario della istituzione dello Stato della Città del Vaticano,Public,National
+VA,2024-03-13,Anniversario dell'Elezione del Santo Padre,Public,National
+VA,2024-03-19,San Giuseppe,Public,National
+VA,2024-03-28,Giovedì santo,Public,National
+VA,2024-03-29,Venerdì santo,Public,National
+VA,2024-03-30,Sabato di Pasqua,Public,National
+VA,2024-03-31,Domenica di Pasqua,Public,National
+VA,2024-04-01,Lunedì di Pasqua,Public,National
+VA,2024-04-02,Martedì di Pasqua,Public,National
+VA,2024-04-23,Onomastico del Santo Padre,Public,National
+VA,2024-05-01,San Giuseppe lavoratore,Public,National
+VA,2024-06-29,Santi Pietro e Paolo,Public,National
+VA,2024-08-14,Vigilia dell'Assunzione di Maria in Cielo,Public,National
+VA,2024-08-15,Assunzione di Maria in Cielo,Public,National
+VA,2024-08-16,Santo Stefano d'Ungheria,Public,National
+VA,2024-09-08,Festa della natività della madonna,Public,National
+VA,2024-11-01,"Tutti i santi, Ognissanti",Public,National
+VA,2024-11-02,Giorno dei morti,Public,National
+VA,2024-12-08,Immacolata Concezione,Public,National
+VA,2024-12-24,Vigilia di Natale,Public,National
+VA,2024-12-25,Natale,Public,National
+VA,2024-12-26,Silvestro,Public,National
+VA,2024-12-26,Santo Stefano,Public,National
+VA,2024-12-27,San Giovanni Evangelista,Public,National
